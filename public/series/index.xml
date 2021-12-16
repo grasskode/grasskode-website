@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on grasskode</title>
@@ -9,11 +9,7 @@
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
     <webMaster>gupta.karan.11@gmail.com (Karan Gupta)</webMaster>
     <copyright>Copyright (c) 2018, Karan Gupta; some rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Apr 2020 21:12:26 +0530</lastBuildDate>
-    
-	<atom:link href="http://grasskode.xyz/series/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 22 Apr 2020 21:12:26 +0530</lastBuildDate><atom:link href="http://grasskode.xyz/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NO MAMES!</title>
       <link>http://grasskode.xyz/series/no-mames/</link>

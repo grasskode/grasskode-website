@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NO MAMES! on grasskode</title>
@@ -9,11 +9,7 @@
     <managingEditor>gupta.karan.11@gmail.com (Karan Gupta)</managingEditor>
     <webMaster>gupta.karan.11@gmail.com (Karan Gupta)</webMaster>
     <copyright>Copyright (c) 2018, Karan Gupta; some rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Apr 2020 21:12:26 +0530</lastBuildDate>
-    
-	<atom:link href="http://grasskode.xyz/series/no-mames/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 22 Apr 2020 21:12:26 +0530</lastBuildDate><atom:link href="http://grasskode.xyz/series/no-mames/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mexico [Part 7] - Afterglow</title>
       <link>http://grasskode.xyz/post/travel/no-mames/mexico-part-7/</link>
@@ -153,22 +149,22 @@ I was returning to Cambodia after two and a half years. While I had travelled th
     </item>
     
     <item>
+      <title>FIFA World Cup 2018 - Russia (Part 2)</title>
+      <link>http://grasskode.xyz/post/travel/no-mames/russia-world-cup-2/</link>
+      <pubDate>Wed, 12 Sep 2018 12:32:19 +0530</pubDate>
+      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
+      <guid>http://grasskode.xyz/post/travel/no-mames/russia-world-cup-2/</guid>
+      <description>Continuing the Russian journey I had begun in this post, I had spent ten days in Russia, travelling and watching a match in Nizhny Novgorod. Despite the challenges, I had started loving this country with its peculiarities. After the match in Nizhny, I spent a few days in Moscow trying to live a non-touristy life and then took a 20 hour train to Adler.
+Match Down South When I woke up the next morning, the train was ambling along the Black Sea and a couple of hours later stopped at the Adler railway station.</description>
+    </item>
+    
+    <item>
       <title>FIFA World Cup 2018 - Russia  (Part 1)</title>
       <link>http://grasskode.xyz/post/travel/no-mames/russia-world-cup-1/</link>
       <pubDate>Wed, 12 Sep 2018 12:31:19 +0530</pubDate>
       <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
       <guid>http://grasskode.xyz/post/travel/no-mames/russia-world-cup-1/</guid>
       <description>While I had initially thought about attending the 2018 FIFA World Cup when Russia was announced as the host nation, a few mindless assumptions and even more stupid lack of planning had me sitting wondering why I had not signed up for the ticket sales. Fortune though, it seems, decided to take pity on me and a friend had to cancel his plans for the cup. So I happily took his tickets and with a couple of weeks to go, started arranging for the best way possible to get to Russia and the match cities.</description>
-    </item>
-    
-    <item>
-      <title>FIFA World Cup 2018 - Russia (Part 2)</title>
-      <link>http://grasskode.xyz/post/travel/no-mames/russia-world-cup-2/</link>
-      <pubDate>Wed, 12 Sep 2018 12:31:19 +0530</pubDate>
-      <author>gupta.karan.11@gmail.com (Karan Gupta)</author>
-      <guid>http://grasskode.xyz/post/travel/no-mames/russia-world-cup-2/</guid>
-      <description>Continuing the Russian journey I had begun in this post, I had spent ten days in Russia, travelling and watching a match in Nizhny Novgorod. Despite the challenges, I had started loving this country with its peculiarities. After the match in Nizhny, I spent a few days in Moscow trying to live a non-touristy life and then took a 20 hour train to Adler.
-Match Down South When I woke up the next morning, the train was ambling along the Black Sea and a couple of hours later stopped at the Adler railway station.</description>
     </item>
     
   </channel>
