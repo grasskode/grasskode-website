@@ -65,7 +65,7 @@ Please share and use responsibly. ✌
 ## Wanderlust
 
 <div>
-  <p>Here is a visualization of the countries we have travelled to so far. <font color="blue">Blue for Karan</font>, <font color="red">Red for Parul</font> and <font color="magenta">Magenta for both of us</font>.
+  <p>Here is a visualization of the countries we have travelled to so far. <font color="blue">Blue</font> for Karan<span id="karanTravelledTo"></span>, <font color="red">Red</font> for Parul<span id="parulTravelledTo"></span> and <font color="brown">Brown</font> for both of us<span id="bothTravelledTo"></span>.
   </p>
 </div>
 

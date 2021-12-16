@@ -9,6 +9,11 @@ paginate = 8
 preserveTaxonomyNames = true
 enableEmoji = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [author]
   name = "Karan Gupta"
   email = "gupta.karan.11@gmail.com"
