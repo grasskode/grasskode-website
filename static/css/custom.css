@@ -304,3 +304,26 @@ ul.icons li a:hover {
   height: 475px;
   position: relative;
 }
+
+div.index header {
+  margin-bottom: 2rem
+}
+
+div.loadmore {
+  position: relative;
+  min-height: 2rem;
+  width: 100%;
+  text-align: center;
+}
+
+div.loadmore a {
+  text-decoration: none;
+  padding: 5px 10px;
+  background-color: #333;
+  border-bottom: 2px solid #000;
+  color: #fff;
+}
+
+div.loadmore a:hover {
+  color: #FF5733;
+}

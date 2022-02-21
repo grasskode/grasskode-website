@@ -1,0 +1,55 @@
+baseurl: 'http://grasskode.xyz/'
+languageCode: en-us
+MetaDataFormat: toml
+theme:
+  - robust
+title: grasskode
+copyright: 'Copyright (c) 2018, Karan Gupta; some rights reserved.'
+canonifyurls: true
+paginate: 8
+preserveTaxonomyNames: true
+enableEmoji: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+author:
+  name: Karan Gupta
+  email: gupta.karan.11@gmail.com
+params:
+  authors:
+    - karan
+    - parul
+  maxPostsPerPage: 8
+  homePageNumPosts: 6
+  disqusShortname: grasskodexyz
+  GoogleAnalyticsUserID: UA-73062996-1
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+  author: author
+menu:
+  main:
+    - name: Posts
+      weight: -109
+      url: /post/
+      params:
+        image: /images/default.jpg
+    - name: Categories
+      weight: -108
+      url: /categories/
+      params:
+        image: /images/default.jpg
+    - name: Series
+      weight: -107
+      url: /series/
+      params:
+        image: /images/default.jpg
+  more:
+    - name: Tags
+      weight: -106
+      url: /tags/
+    - name: About
+      weight: -105
+      url: /about/

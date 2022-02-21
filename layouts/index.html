@@ -3,18 +3,25 @@
   <div class="row">
     <div class="col-sm-9">
 
+      <header class="title"><h1>Recent</h1></header>
+
+      {{ $paginator := .Paginate (where .Site.Pages "Type" "post") (add .Site.Params.homePageNumPosts 1) }}
+
       <div class="articles">
         <div class="row">
-          {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-          {{ range $key, $value := $paginator.Pages }}
+          {{ range .Paginator.Pages }}
+            {{ if ne .Title "Posts" }}
             <div class="col-sm-6">
-              {{ .Render "li" }}
+                {{ .Render "li" }}
             </div>
+            {{ end }}
           {{ end }}
         </div>
       </div>
 
-      {{ partial "pagination.html" . }}
+      <div class="loadmore">
+        <a href="/post" class="right" rel="next">SEE MORE</a>
+      </div>
 
     </div>
 

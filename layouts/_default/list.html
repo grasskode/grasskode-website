@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-sm-9">
 
-      <header class="title"><h1>{{ humanize .Data.Singular }} / {{ .Title }}</h1></header>
+      <header class="title"><h1>{{ .Title }}</h1></header>
 
       {{ $paginator := .Paginate (where .Data.Pages "Type" "post") .Site.Params.maxPostsPerPage }}
 
