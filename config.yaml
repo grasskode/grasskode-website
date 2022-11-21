@@ -23,7 +23,7 @@ params:
   maxPostsPerPage: 8
   homePageNumPosts: 6
   disqusShortname: grasskodexyz
-  GoogleAnalyticsUserID: UA-73062996-1
+  GoogleAnalyticsUserID: G-W8LERNVMME
 taxonomies:
   category: categories
   tag: tags
