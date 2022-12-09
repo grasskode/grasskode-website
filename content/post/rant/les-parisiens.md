@@ -3,8 +3,7 @@ categories = ["rant"]
 tags = ["expat", "france"]
 date = "2022-11-22T15:15:00+01:00"
 title = "Les Parisiens"
-type = "draft"
-image = ""
+image = "https://storage.googleapis.com/grasskode-public/posts/les-parisiens/5x5%20-%201.jpg"
 toc = false
 author = "Karan"
 +++
@@ -21,6 +20,66 @@ And that's how we ended up in Paris.
 
 It was a tad bit uncomfortable in the beginning. Neither of us are used to being expats (which is very different from being travellers) and the French surely do not make things easy. To top that, the relocation service was probably the worst possible, creating more problems than solving them. The apartment we were supposed to stay in was not confirmed till we were actually on board our flight to Paris! But despite all the chaos, and occasional doubts, our spirit of adventure persevered. The novelty of the situation and the beauty of Paris made the pill easier to swallow. We had swapped our 150 sq. mtr. apartment for a 30 sq. mtr. one at the steps of _Montmarte_, next to the infamous _Pigalle_. Walking in the beautifully lit up streets at night and trying the _pâtisseries_ became a regular addiction. I used to spend my days in the office while Parul looked for a job. Weekends were spent exploring the city together and dining out to try the various cuisines.
 
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20210925_212747.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20210925_212747.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220703162211.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220703162211.jpg">
+      </a>
+    </div>
+  </div>
+  <em>Montmarte :heart:</em>
+</div>
+
+
+<div class="vertimg postimg">
+  <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211024_114448.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211024_114448.jpg">
+  </a>
+  <em>Ghar nahi, Dil bada hona chahiye :grin:</em>
+</div>
+
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/20211010_121643.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/20211010_121643.jpg">
+      </a>
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211016_141030.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211016_141030.jpg">
+      </a>
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220220145056.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220220145056.jpg">
+      </a>
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220806170322.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220806170322.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211003_141335.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211003_141335.jpg">
+      </a>
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211110_233241.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211110_233241.jpg">
+      </a>
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220701202831.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220701202831.jpg">
+      </a>
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211011_225534.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211011_225534.jpg">
+      </a>
+    </div>
+  </div>
+  <em>Joys of discovering a New City</em>
+</div>
+
+
 A couple of months into it all, we were bothered by our first expatriation problem: the visa situation. We had moved to France on a long term visa (three months) that stated we needed to apply for a _titre de séjour_ upon our arrival. A good twenty days in, we were mailed by the relocation service about the beginning of the process and asked for documents. Why they had to wait so long is beyond me 🤷‍♂️ The stated timelines extended well beyond our visa expiry and Parul also needed a _titre_ to start working as a French resident. There was a lot of confusion about the process as well and no one seemed to be sure of how it works. I made a big deal out of this because as travellers with a weak passport, overstaying a visa is probably one of the things you are extremely wary of.
 
 It turned out that the delays were an extremely normal thing and the authorities were well aware of the situation. No one went about checking for visas and we were told to give our application number for reference if asked. The French seemed extremely relaxed about it all. The only thing we were cautioned against was leaving the Schengen area since without a valid visa and a _titre_ we would be denied entry into the country again. While nothing about the process seemed normal, we did not face any issues. The worst, we were assured, would be a fine and not a deportation or anything like that :grimacing: While looking up the internet I found the following sources that seemed to know more than anyone else ([talent passport](https://www.service-public.fr/particuliers/vosdroits/F16922) and [family](https://www.service-public.fr/particuliers/vosdroits/F35792)). That said, things are rapidly changing, for the better I hope 😅
@@ -31,11 +90,59 @@ The next thing on our agenda was getting an apartment. This was another amusing 
 "In Paris, you need to call the person within 5 minutes of the listing. Else their voicemail is already full."
 🙄 Lesson for the next time. Apartments in Paris are gone as soon as they hit the market. No wonder it is one of the most expensive real estate markets in the world!
 
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220708131832.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220708131832.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_3158.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_3158.jpg">
+      </a>
+    </div>
+  </div>
+  <em>Home :heart:</em>
+</div>
+
+
 <hr/>
 
 Travelling and discovering this part of the world was one of the main reasons that we had come to Paris. Messi joining PSG just added to the charm 😁 With the basics sorted, we could relax and enjoy our stay in France. Paris is extremely well connected which was a big plus for us. We made several trips inside and outside France. The train network in Europe is a delight; fast and scenic and friendlier to the environment. Even though there are no overnight sleeper trains anymore, we use the trains as much as possible. When that is not an option, there are usually direct flights to almost every major destination in the world 🙂
 
+<div class="vertimg postimg">
+  <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20220129_101355.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20220129_101355.jpg">
+  </a>
+
+</div>
+
+<div class="postimg">
+  <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220910100234.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220910100234.jpg">
+  </a>
+  <em>Paris is extremely well connected by trains</em>
+</div>
+
+
 Figuring out transportation within Paris was also easy. We have been public transport people since always and that is probably the best way to move around in Paris. The metro / bus / train connectivity is great. Whether you are a tourist or a denizen, there are [multiple options](https://www.ratp.fr/en/titres-et-tarifs) available to choose from. While it might seem expensive, it ends up saving you time and money as compared to any other means of transport in most cases. The only thing to be vary about is that there are frequent closures or delays because of strikes or forgotten bags. The app [Bonjour RATP](https://www.ratp.fr/en/apps/bonjour-ratp) can help you plan your commute better.
+
+<div class="vertimg postimg">
+  <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20210930_135403.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20210930_135403.jpg">
+  </a>
+  <em>When in Paris, use the Metro</em>
+</div>
+
+
+<div class="postimg">
+  <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221001214722.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221001214722.jpg">
+  </a>
+  <em>Messi -> PSG == Happy Coincidence</em>
+</div>
+
 
 Talking about strikes, it is, as my colleagues call it, one of the national sports in France :joy: It was amusing to witness at first. Every weekend, we could see a procession going around in some part of the town or crowds gathered in front of the city hall protesting for or against something. The gendarmerie defined a  perimeter and made sure that the protest followed the defined protocol. To our Indian mind, this seemed like an extremely bizarre setup. We are used to protests being violent or agitated with the role of the police being repressive. Later I was to find out that some companies here give days off to attend protests for issues that one cares about! A very different world indeed.
 
@@ -43,9 +150,66 @@ Talking about strikes, it is, as my colleagues call it, one of the national spor
 
 Making friends in France is a tough one to crack. Not that I am sociable to begin with, but I still have no clue on how to make friends here :grimacing: The work group and activity groups are probably your best bet. Forget about random conversations in a restaurant or bar though, that's not a French thing. Every group is rather closed within itself. A peculiarity in the restaurants and cafés stands out though. Everyone is stuffed together in a small space even when there is empty space elsewhere. We used to joke that the French are probably unable to digest their food unless they bump into each other while eating 😅
 
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221015140914.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221015140914.jpg">
+      </a>
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220714225011.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220714225011.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220331225008.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220331225008.jpg">
+      </a>
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20220219_143423.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20220219_143423.jpg">
+      </a>
+    </div>
+  </div>
+  <em>We still had friends & family coming over 🤗</em>
+</div>
+
+
 The lack of a diverse Indian community also did not help much either. Since France is not an Anglophile nation, it is not a preferred destination for Indians to settle in (yet). There is a region around _Gare du Nord_ which is where you find most of the better Indian restaurants and grocery stores. While it is not our kind of crowd, we do enjoy our _dosas_ there whenever we go grocery shopping 😁
 
 While it is not necessary in Paris and you can get by with English in most of the situations, I believe that knowing the local language enables you to understand the culture better. We had started taking lessons in French since June 2021. We stuck to it but a lesson once a week was too little to learn the language well. I supplemented it with Duolingo and almost a year and a half later, I am able to understand basic French in most situations and speak a bit of it with broken grammar much to the amusement and horror of native speakers :joy: The French get a bit of a bad rep for being arrogant and uptight about their language but, honestly, we have found them to be extremely _génial_. Coming to think of it, they really have no need to learn and speak in English but we, from the English speaking world, tend to conveniently forget it. Having a bit of courtesy usually helps us in most situations. Instead of assuming that the person in front of us would understand English, we start with a polite "Parlez vous anglais ?" Often the person hesitates, saying "Only a little", and we end up having a perfectly good conversation with them in English. Or if they deny it completely and we started speaking bad French, they would start speaking bad English. They'd rather murder the English language than let us murder their French 😱 Anyhow, it is not an easy language to understand and learn and the French have almost always given us points for trying.
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220806171859.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220806171859.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221015152636.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221015152636.jpg">
+      </a>
+    </div>
+  </div>
+  <em>The French baked items are to die for 🤤</em>
+</div>
+
+
+<div class="postimg">
+  <div class="grid">
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220904234148.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220904234148.jpg">
+      </a>
+    </div>
+    <div class="grid-column-50">
+      <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221028233212.jpg" data-toggle="lightbox">
+        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221028233212.jpg">
+      </a>
+    </div>
+  </div>
+  <em>The city is crawling with some awesome pubs and clubs</em>
+</div>
+
 
 <hr/>
 
@@ -56,3 +220,10 @@ Probably the process that took the longest for us was getting our [CPAM account]
 <hr/>
 
 Even though we are unsure of how long we would stay in France, it was an extremely interesting and bittersweet experience for both of us. My list now just consists of getting a driving license (it's not simple, of course) and hoping that I have less of the bureaucracy to deal with 😅
+
+<div class="vertimg postimg">
+  <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220925212714.jpg" data-toggle="lightbox">
+    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220925212714.jpg">
+  </a>
+  <em>🥂</em>
+</div>
