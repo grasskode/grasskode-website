@@ -1,6 +1,6 @@
 +++
 categories = ["travel"]
-tags = ["india", "north_east", "arunachal", "nagaland", "mizoram", "playbook"]
+tags = ["india", "north-east-india", "arunachal", "nagaland", "mizoram", "playbook"]
 date = "2018-12-21T23:20:28+05:30"
 title = "Inner Line Permits in North East India"
 image = "https://farm8.staticflickr.com/7927/45586159105_95e6e4f299_c.jpg"

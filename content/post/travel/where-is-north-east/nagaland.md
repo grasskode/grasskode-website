@@ -1,6 +1,6 @@
 +++
 categories = ["travel"]
-tags = ["india", "biking", "roadtrip", "north_east", "nagaland", "national_park", "kohima","khonoma","dzuleke"]
+tags = ["india", "biking", "roadtrip", "north-east-india", "nagaland", "national_park", "kohima","khonoma","dzuleke"]
 date = "2019-05-11T10:40:22+07:00"
 title = "The Hymns of Nagaland"
 image = "https://live.staticflickr.com/65535/32592295247_e713ae3307_c.jpg"

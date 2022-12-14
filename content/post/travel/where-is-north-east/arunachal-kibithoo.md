@@ -1,7 +1,7 @@
 +++
 date = "2019-04-19T19:01:52+05:30"
 categories = ["travel"]
-tags = ["india", "biking", "roadtrip", "north_east", "arunachal", "kibithoo", "longding"]
+tags = ["india", "biking", "roadtrip", "north-east-india", "arunachal", "kibithoo", "longding"]
 title = "The East of North East"
 image = "https://live.staticflickr.com/65535/32702612687_140ce436b0_c.jpg"
 series = "Where is North East?"

@@ -1,7 +1,7 @@
 +++
 date = "2019-06-10T16:19:42-04:00"
 categories = ["travel"]
-tags = ["india", "north_east", "assam", "majuli", "birding", "photography", "river_island"]
+tags = ["india", "north-east-india", "assam", "majuli", "birding", "photography", "river_island"]
 title = "Rustic Pleasures of Majuli"
 image = "https://live.staticflickr.com/65535/48047021307_d2c356b68b_c.jpg"
 series = "Where is North East?"

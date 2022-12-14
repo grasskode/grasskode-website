@@ -1,6 +1,6 @@
 +++
 categories = ["travel"]
-tags = ["india", "roadtrip", "north_east", "arunachal", "music_festival", "ziro"]
+tags = ["india", "roadtrip", "north-east-india", "arunachal", "music_festival", "ziro"]
 date = "2018-12-23T22:10:41+05:30"
 title = "Ziro - The Golden Valley"
 image = "https://farm8.staticflickr.com/7872/31548222797_922079fc67_c.jpg"

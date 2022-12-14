@@ -1,7 +1,7 @@
 +++
 date = "2019-03-17T19:01:52+05:30"
 categories = ["travel"]
-tags = ["india", "biking", "roadtrip", "north_east", "arunachal", "mechuka"]
+tags = ["india", "biking", "roadtrip", "north-east-india", "arunachal", "mechuka"]
 title = "Mechuka - Land of Surreal Landscapes"
 image = "https://farm8.staticflickr.com/7817/47285769401_fb929a6138_c.jpg"
 series = "Where is North East?"

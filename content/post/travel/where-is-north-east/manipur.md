@@ -1,6 +1,6 @@
 +++
 categories = ["travel"]
-tags = ["india", "biking", "roadtrip", "north_east", "manipur", "imphal","moirang", "loktak", "lake", "moreh"]
+tags = ["india", "biking", "roadtrip", "north-east-india", "manipur", "imphal","moirang", "loktak", "lake", "moreh"]
 date = "2019-06-07T15:36:42-04:00"
 title = "The Lores of Manipur"
 image = "https://live.staticflickr.com/65535/47850562532_6bcea533dd_b.jpg"

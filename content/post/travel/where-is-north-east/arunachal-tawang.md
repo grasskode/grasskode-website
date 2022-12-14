@@ -1,6 +1,6 @@
 +++
 categories = ["travel"]
-tags = ["india", "biking", "roadtrip", "north_east", "arunachal", "tawang"]
+tags = ["india", "biking", "roadtrip", "north-east-india", "arunachal", "tawang"]
 date = "2019-02-25T19:01:52+05:30"
 title = "Tawang - Peace & Happiness"
 image = "https://farm8.staticflickr.com/7905/40190254313_4ae30164f3_c.jpg"
@@ -204,7 +204,6 @@ We spent a couple of hours near the falls, taking pictures, getting drenched in 
       <a href="https://farm8.staticflickr.com/7919/33342276938_e3462a3ea9_c.jpg" data-toggle="lightbox">
         <img class="lazy" data-src="https://farm8.staticflickr.com/7919/33342276938_e3462a3ea9.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7854/47165706842_db28eb4b00_c.jpg" data-toggle="lightbox">
