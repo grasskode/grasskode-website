@@ -12,7 +12,6 @@ Read the previous part [here](../mexico-part-4/).
 
 While there was much more that could be done in Tulum, we left the town after a few days of relaxation, wandering around and drinking good tequila. We took a bus and headed inland to a city that had come recommended by our friend Gabriela, who was a traveller herself.
 
-
 ## A Happy Place
 
 We reached the town later in the afternoon and the bus dropped us at the ADO station in the middle of the town. Most of the shops seemed closed, giving the small town a somewhat smaller feeling. As we hunted for the AirBnB we had booked, we walked the pastel streets and I was starting to enjoy the small town feeling that emanated from it.
@@ -21,15 +20,13 @@ We reached the town later in the afternoon and the bus dropped us at the ADO sta
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776018952_4ecce75e7d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776018952_4ecce75e7d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776018952_4ecce75e7d.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776018797_44030c8dcd_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776018797_44030c8dcd.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776018797_44030c8dcd.jpg">
       </a>
-
     </div>
   </div>
   <em>Walking the pastel coloured streets
@@ -38,7 +35,7 @@ We reached the town later in the afternoon and the bus dropped us at the ADO sta
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775685306_64d4237d43_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775685306_64d4237d43.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775685306_64d4237d43.jpg">
   </a>
   <em>The roads were mostly empty
 </em>
@@ -46,7 +43,7 @@ We reached the town later in the afternoon and the bus dropped us at the ADO sta
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775157978_97c6ec2ca3_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157978_97c6ec2ca3.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775157978_97c6ec2ca3.jpg">
   </a>
   <em>:stuck_out_tongue_closed_eyes:
 </em>
@@ -56,7 +53,7 @@ We eventually reached our AirBnB which was right next to a historical convent - 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775157838_348a4be405_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157838_348a4be405.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775157838_348a4be405.jpg">
   </a>
   <em>Convento de San Bernardino
 </em>
@@ -70,7 +67,7 @@ Once Parul was done with her bath, she joined me in the garden and then we went 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775685226_d2f437bc9c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775685226_d2f437bc9c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775685226_d2f437bc9c.jpg">
   </a>
 
 </div>
@@ -79,15 +76,13 @@ Once Parul was done with her bath, she joined me in the garden and then we went 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775685166_0fa849fa03_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775685166_0fa849fa03.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775685166_0fa849fa03.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775157713_5d46e68a09_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157713_5d46e68a09.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775157713_5d46e68a09.jpg">
       </a>
-
     </div>
   </div>
   <em>Lunch at Yerbabuena
@@ -98,7 +93,7 @@ Then we went walking around. We were staying at the south-western side of the to
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775684941_4ca90e35b3_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775684941_4ca90e35b3.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775684941_4ca90e35b3.jpg">
   </a>
   <em>:car: This means Mexico :smile:
 </em>
@@ -108,21 +103,19 @@ Then we went walking around. We were staying at the south-western side of the to
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775684976_a21f6bf984_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775684976_a21f6bf984.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775684976_a21f6bf984.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/49775157553_eec4a4767f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157553_eec4a4767f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775157553_eec4a4767f.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776018402_054c13c7de_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776018402_054c13c7de.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776018402_054c13c7de.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/49776018452_82c001a05e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776018452_82c001a05e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776018452_82c001a05e.jpg">
       </a>
-
     </div>
   </div>
   <em>Aimless wandering through the town
@@ -131,7 +124,7 @@ Then we went walking around. We were staying at the south-western side of the to
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775157548_55a8c43dc6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157548_55a8c43dc6.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775157548_55a8c43dc6.jpg">
   </a>
   <em>La Aurora - the first completely mechanized textile factory, now a cultural center
 </em>
@@ -139,7 +132,7 @@ Then we went walking around. We were staying at the south-western side of the to
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775684831_d4cf7743c2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775684831_d4cf7743c2.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775684831_d4cf7743c2.jpg">
   </a>
   <em>The church in the north - Iglesia de Santa Lucia
 </em>
@@ -162,15 +155,13 @@ At night we returned to the convent by 9:00 PM to catch the light and sound show
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775157498_84bb7845d1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157498_84bb7845d1.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775157498_84bb7845d1.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775157468_39a46f169b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157468_39a46f169b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775157468_39a46f169b.jpg">
       </a>
-
     </div>
   </div>
   <em>The spectacular Light & Sound show at Convento de San Bernardino
@@ -199,27 +190,24 @@ The next morning, as I walked to the nearby cafe for my morning fix and to get s
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775157438_f529452d35_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157438_f529452d35.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775157438_f529452d35.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776018337_0c45481674_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776018337_0c45481674.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776018337_0c45481674.jpg">
       </a>
-
     </div>
   </div>
   <em>I had found my happy place :smiley:
 </em>
 </div>
 
-
 ## Yellow Brick Town
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775679206_fdf7a6257d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775679206_fdf7a6257d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775679206_fdf7a6257d.jpg">
   </a>
   <em>Rakhi call attendees
 </em>
@@ -229,7 +217,7 @@ After the coffee and a _Rakhi_ call with siblings, we decided to go to Izamal, a
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49776017512_43463e17aa_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776017512_43463e17aa.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776017512_43463e17aa.jpg">
   </a>
   <em>Taking the second class bus
 </em>
@@ -239,7 +227,7 @@ A couple of hours and a few stops later, the bus dropped us in the town of Izama
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775684451_7ff42c9a3d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775684451_7ff42c9a3d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775684451_7ff42c9a3d.jpg">
   </a>
   <em>The yellow town
 </em>
@@ -247,7 +235,7 @@ A couple of hours and a few stops later, the bus dropped us in the town of Izama
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776018242_d425d6c2bf_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776018242_d425d6c2bf.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776018242_d425d6c2bf.jpg">
   </a>
   <em>Convent boundaries
 </em>
@@ -257,14 +245,14 @@ Convento de San Antonio has the largest atrium outside of the Vatican. We clicke
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775684576_dc25336db6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775684576_dc25336db6.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775684576_dc25336db6.jpg">
   </a>
 
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776018127_ea0dce58a9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776018127_ea0dce58a9.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776018127_ea0dce58a9.jpg">
   </a>
 
 </div>
@@ -273,15 +261,13 @@ Convento de San Antonio has the largest atrium outside of the Vatican. We clicke
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775157148_388d4630f0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157148_388d4630f0.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775157148_388d4630f0.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776018082_816fa6ea36_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776018082_816fa6ea36.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776018082_816fa6ea36.jpg">
       </a>
-
     </div>
   </div>
   <em>Convento de San Antonio
@@ -292,7 +278,7 @@ Then we walked around the centro where the stalls were mostly closed, decided to
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776018017_c70b92cb59_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776018017_c70b92cb59.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776018017_c70b92cb59.jpg">
   </a>
   <em>IZAMAL
 </em>
@@ -302,15 +288,13 @@ Then we walked around the centro where the stalls were mostly closed, decided to
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775157103_ac243b0804_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157103_ac243b0804.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775157103_ac243b0804.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775157088_b180fc8224_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157088_b180fc8224.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775157088_b180fc8224.jpg">
       </a>
-
     </div>
   </div>
   <em>Looks pretty either way
@@ -321,7 +305,7 @@ While the town of Izamal is famous for it's yellow walls and convent, it is also
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776017637_13ec9eaf3f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776017637_13ec9eaf3f.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776017637_13ec9eaf3f.jpg">
   </a>
   <em>There are ruins of Mayan pyramids all over the town
 </em>
@@ -331,15 +315,13 @@ While the town of Izamal is famous for it's yellow walls and convent, it is also
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775157098_071d74b478_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775157098_071d74b478.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775157098_071d74b478.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776017962_2245bbb3dd_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776017962_2245bbb3dd.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776017962_2245bbb3dd.jpg">
       </a>
-
     </div>
   </div>
   <em>Kinich Kakmo
@@ -350,7 +332,7 @@ There is not much to Kinich Kakmo in terms of tourism though. You can walk in wi
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775684331_7f03ee72b4_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775684331_7f03ee72b4.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775684331_7f03ee72b4.jpg">
   </a>
   <em>You can take pictures
 </em>
@@ -358,7 +340,7 @@ There is not much to Kinich Kakmo in terms of tourism though. You can walk in wi
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775684276_f946b5992b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775684276_f946b5992b.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775684276_f946b5992b.jpg">
   </a>
   <em>And enjoy the view from the top
 </em>
@@ -366,7 +348,7 @@ There is not much to Kinich Kakmo in terms of tourism though. You can walk in wi
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775684216_811c5806fb_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775684216_811c5806fb.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775684216_811c5806fb.jpg">
   </a>
   <em>The yellow town looks beautiful from here as well
 </em>
@@ -374,7 +356,7 @@ There is not much to Kinich Kakmo in terms of tourism though. You can walk in wi
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775156918_8661535d6f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156918_8661535d6f.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775156918_8661535d6f.jpg">
   </a>
   <em>And Parul sucks at posing :expressionless:
 </em>
@@ -384,7 +366,7 @@ We took a round-about route to return to the _mercado_ next to the centro and th
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775156903_9a3fafb544_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156903_9a3fafb544.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775156903_9a3fafb544.jpg">
   </a>
   <em>One that I love
 </em>
@@ -394,13 +376,12 @@ We took a round-about route to return to the _mercado_ next to the centro and th
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776017752_41e842f76b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776017752_41e842f76b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776017752_41e842f76b.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776017452_19999b3812_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776017452_19999b3812.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776017452_19999b3812.jpg">
       </a>
     </div>
   </div>
@@ -410,7 +391,7 @@ We took a round-about route to return to the _mercado_ next to the centro and th
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49776017732_a80f383061_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776017732_a80f383061.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776017732_a80f383061.jpg">
   </a>
   <em>A bright red Beetle! :laughing:
 </em>
@@ -418,7 +399,7 @@ We took a round-about route to return to the _mercado_ next to the centro and th
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776017432_1fbf364084_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776017432_1fbf364084.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776017432_1fbf364084.jpg">
   </a>
   <em>Alternate modes of transport in Izamal
 </em>
@@ -428,15 +409,13 @@ We took a round-about route to return to the _mercado_ next to the centro and th
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775684106_af07564ec3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775684106_af07564ec3.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775684106_af07564ec3.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775156483_2af2e828d9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156483_2af2e828d9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775156483_2af2e828d9.jpg">
       </a>
-
     </div>
   </div>
   <em>With and without us :joy:
@@ -447,15 +426,13 @@ We took a round-about route to return to the _mercado_ next to the centro and th
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775684076_3cb016cceb_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775684076_3cb016cceb.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775684076_3cb016cceb.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775156743_043b1b02bc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156743_043b1b02bc.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775156743_043b1b02bc.jpg">
       </a>
-
     </div>
   </div>
   <em>The yellow walls make for pretty pictures
@@ -464,7 +441,7 @@ We took a round-about route to return to the _mercado_ next to the centro and th
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775156548_369bf725ed_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156548_369bf725ed.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775156548_369bf725ed.jpg">
   </a>
   <em>:pray:
 </em>
@@ -472,7 +449,7 @@ We took a round-about route to return to the _mercado_ next to the centro and th
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775683946_ea824e093f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775683946_ea824e093f.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775683946_ea824e093f.jpg">
   </a>
   <em>Parul's name is now etched in Izamal forever :stuck_out_tongue:
 </em>
@@ -484,15 +461,13 @@ We ate a late lunch at the _mercado_ in one of the few restaurants that were ope
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775156638_e00d9a47fa_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156638_e00d9a47fa.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775156638_e00d9a47fa.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775156623_323a638bf0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156623_323a638bf0.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775156623_323a638bf0.jpg">
       </a>
-
     </div>
   </div>
   <em>:arrow_left: Pollo mechado and salbute :arrow_right:
@@ -505,21 +480,18 @@ After the lunch we headed to the bus stand and took the bus back to Valladolid. 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776017487_b50a22f12a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776017487_b50a22f12a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776017487_b50a22f12a.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776017472_4c9c906407_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776017472_4c9c906407.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776017472_4c9c906407.jpg">
       </a>
-
     </div>
   </div>
   <em>More Yucatan food delight - :arrow_left: polcane and chilindrina :arrow_right:
 </em>
 </div>
-
 
 ## Cenote Love
 
@@ -527,7 +499,7 @@ The next morning we rented two bicycles from our AirBnB and headed out of town t
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49776011682_017526073e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776011682_017526073e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776011682_017526073e.jpg">
   </a>
   <em>Our rides for the day
 </em>
@@ -535,7 +507,7 @@ The next morning we rented two bicycles from our AirBnB and headed out of town t
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775156463_1ae784aa93_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156463_1ae784aa93.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775156463_1ae784aa93.jpg">
   </a>
   <em>Pedalling through sun and shade
 </em>
@@ -547,7 +519,7 @@ A flight of stairs took us underground into the cave and we could see a ray of l
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775683456_d767727973_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775683456_d767727973.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775683456_d767727973.jpg">
   </a>
   <em>First sight of a new love - Cenote Samula
 </em>
@@ -557,7 +529,7 @@ We climbed down all the stairs and fortunately, we had the entire place to ourse
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775683791_76d56962e0_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775683791_76d56962e0.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775683791_76d56962e0.jpg">
   </a>
   <em>For a few minutes, the cenote was all ours :blue_heart:
 </em>
@@ -567,14 +539,14 @@ There were lines drawn across the water and it was only slightly deep in some pa
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775678861_80c4284c3d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775678861_80c4284c3d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775678861_80c4284c3d.jpg">
   </a>
 
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775679186_116d3e40a2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775679186_116d3e40a2.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775679186_116d3e40a2.jpg">
   </a>
   <em>If you're happy and you know it...
 </em>
@@ -584,7 +556,7 @@ People streamed in and there were some who were swimming in the darker and deepe
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775156183_4cfd9d9826_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156183_4cfd9d9826.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775156183_4cfd9d9826.jpg">
   </a>
   <em>:camera:
 </em>
@@ -596,21 +568,19 @@ We even tried some underwater photography :stuck_out_tongue:
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776012802_2bf89997b7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776012802_2bf89997b7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776012802_2bf89997b7.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/49775678491_c09381abbd_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775678491_c09381abbd.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775678491_c09381abbd.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775151213_2a42f1dd44_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775151213_2a42f1dd44.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775151213_2a42f1dd44.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/49776012122_e8808360a8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776012122_e8808360a8.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776012122_e8808360a8.jpg">
       </a>
-
     </div>
   </div>
   <em>Underwater stunts :stuck_out_tongue:
@@ -619,7 +589,7 @@ We even tried some underwater photography :stuck_out_tongue:
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775150803_62b32b6252_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775150803_62b32b6252.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775150803_62b32b6252.jpg">
   </a>
   <em>Turns out that it's not that easy to :kissing: underwater :confused:
 </em>
@@ -629,7 +599,7 @@ I was happy, to understate, by the time we left Samula.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775678191_96ba1eef06_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775678191_96ba1eef06.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775678191_96ba1eef06.jpg">
   </a>
   <em>Happy happy
 </em>
@@ -637,7 +607,7 @@ I was happy, to understate, by the time we left Samula.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775683416_32d0d173e8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775683416_32d0d173e8.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775683416_32d0d173e8.jpg">
   </a>
   <em>Doesn't look too bad with people as well :smile:
 </em>
@@ -647,7 +617,7 @@ Xkeken was similarly situated in another underground cave nearby. This was a sma
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775683391_5f4af07275_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775683391_5f4af07275.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775683391_5f4af07275.jpg">
   </a>
   <em>Cenote Xkeken
 </em>
@@ -659,15 +629,13 @@ There were slightly more people here as compared to Samula and the low roof prob
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775678061_82ebb6f733_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775678061_82ebb6f733.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775678061_82ebb6f733.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776011722_825f35e679_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776011722_825f35e679.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776011722_825f35e679.jpg">
       </a>
-
     </div>
   </div>
   <em>Enjoying the water in Xkeken
@@ -678,7 +646,7 @@ We walked out happy, tired and hungry. We considered having something to eat but
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775683741_93308f6007_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775683741_93308f6007.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775683741_93308f6007.jpg">
   </a>
   <em>Cycling back to the town
 </em>
@@ -688,7 +656,7 @@ We had our lunch at [La Tia](https://goo.gl/maps/SyoPn4kKioZpWqZ78). I had their
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775156373_2d18b5ab18_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156373_2d18b5ab18.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775156373_2d18b5ab18.jpg">
   </a>
   <em>Nacho sare!
 </em>
@@ -696,7 +664,7 @@ We had our lunch at [La Tia](https://goo.gl/maps/SyoPn4kKioZpWqZ78). I had their
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775156273_8cc733a169_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156273_8cc733a169.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775156273_8cc733a169.jpg">
   </a>
   <em>Shudh mansahari :stuck_out_tongue:
 </em>
@@ -706,7 +674,7 @@ That evening, we went to the Sisal park once again to admire the beautiful churc
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775156263_f6be48cbec_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156263_f6be48cbec.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775156263_f6be48cbec.jpg">
   </a>
   <em>Tell me when you are bored of the Beetles :stuck_out_tongue:
 </em>
@@ -716,14 +684,13 @@ We attended another session of the Light and Sound show. The tourist population 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775156223_36c7663f37_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156223_36c7663f37.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775156223_36c7663f37.jpg">
   </a>
   <em>:sparkle:
 </em>
 </div>
 
 The night was painful because our room was right behind _Los Frappes_, a local cafe that played Latin dance music till the wee hours of the night. At one point I was considering going to the cafe since the music wasn't letting me sleep anyway :grimacing:
-
 
 ## Them Colours
 
@@ -733,7 +700,7 @@ The first bus dropped us in Tizimin, a considerably bigger town due north of Val
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775154968_21065cec75_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775154968_21065cec75.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775154968_21065cec75.jpg">
   </a>
   <em>Bar art through the bus window
 </em>
@@ -741,7 +708,7 @@ The first bus dropped us in Tizimin, a considerably bigger town due north of Val
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775682556_e32d9f44aa_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682556_e32d9f44aa.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775682556_e32d9f44aa.jpg">
   </a>
   <em>The long ride through the countryside
 </em>
@@ -751,7 +718,7 @@ As we entered Las Coloradas, we could see the salt factory and the famous pink l
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776015672_a6458bffe5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776015672_a6458bffe5.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776015672_a6458bffe5.jpg">
   </a>
   <em>The Pink lake of Las Coloradas
 </em>
@@ -761,7 +728,7 @@ Near the entrance we were told that a guide was required to enter the premises. 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776017067_2dab632b17_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776017067_2dab632b17.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776017067_2dab632b17.jpg">
   </a>
   <em>Lots of flamingos
 </em>
@@ -769,7 +736,7 @@ Near the entrance we were told that a guide was required to enter the premises. 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775683396_1a377788f9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775683396_1a377788f9.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775683396_1a377788f9.jpg">
   </a>
   <em>I did get a close up of this one though :joy:
 </em>
@@ -779,15 +746,13 @@ Near the entrance we were told that a guide was required to enter the premises. 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775156088_fa06024981_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775156088_fa06024981.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775156088_fa06024981.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775155908_8214e7f8ce_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155908_8214e7f8ce.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775155908_8214e7f8ce.jpg">
       </a>
-
     </div>
   </div>
   <em>An unsatisfying zoom experience :disappointed:
@@ -796,7 +761,7 @@ Near the entrance we were told that a guide was required to enter the premises. 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775155778_919b5425e1_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155778_919b5425e1.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775155778_919b5425e1.jpg">
   </a>
   <em>I found some sandpipers on the banks of the lake though
 </em>
@@ -806,15 +771,13 @@ Near the entrance we were told that a guide was required to enter the premises. 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775155758_843deb943b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155758_843deb943b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775155758_843deb943b.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776016672_2feb3c9c30_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776016672_2feb3c9c30.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776016672_2feb3c9c30.jpg">
       </a>
-
     </div>
   </div>
   <em>They are extremely pretty creatures!
@@ -827,15 +790,13 @@ The pink "lake" was essentially a reservoir for the salt factory. It was extreme
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775683246_b41f6c42bd_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775683246_b41f6c42bd.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775683246_b41f6c42bd.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775155963_41cbeb42ff_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155963_41cbeb42ff.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775155963_41cbeb42ff.jpg">
       </a>
-
     </div>
   </div>
   <em>The salt reservoir
@@ -844,7 +805,7 @@ The pink "lake" was essentially a reservoir for the salt factory. It was extreme
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775683056_96c35579db_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775683056_96c35579db.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775683056_96c35579db.jpg">
   </a>
   <em>The salt factory and dunes
 </em>
@@ -854,7 +815,7 @@ We walked till the end of the small path (around 5 minutes from the gate) and st
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775155733_ef4792e588_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155733_ef4792e588.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775155733_ef4792e588.jpg">
   </a>
   <em>The short walk from the entrance
 </em>
@@ -862,7 +823,7 @@ We walked till the end of the small path (around 5 minutes from the gate) and st
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775682266_4e63be5234_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682266_4e63be5234.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775682266_4e63be5234.jpg">
   </a>
   <em>Pretty pretty
 </em>
@@ -874,15 +835,13 @@ The guides were quite well trained when it came to taking pictures. Perhaps it w
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775682256_cb12e1bab4_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682256_cb12e1bab4.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775682256_cb12e1bab4.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775154803_db8306ed90_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775154803_db8306ed90.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775154803_db8306ed90.jpg">
       </a>
-
     </div>
   </div>
   <em>Our guide knew them photo tricks :joy:
@@ -893,7 +852,7 @@ There were quite a few tourists and I had definitely not seen these many Asian t
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775155723_2935c78ed9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155723_2935c78ed9.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775155723_2935c78ed9.jpg">
   </a>
   <em>:camera: :v:
 </em>
@@ -903,7 +862,7 @@ We thanked our guide and exited the premises of the salt factory. We also asked 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775683031_3f093a1732_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775683031_3f093a1732.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775683031_3f093a1732.jpg">
   </a>
   <em>I found a few flamingos closer to the banks on the other side of the gate
 </em>
@@ -913,15 +872,13 @@ We thanked our guide and exited the premises of the salt factory. We also asked 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775155693_a5d859facb_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155693_a5d859facb.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775155693_a5d859facb.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775682901_99aac3f057_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682901_99aac3f057.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775682901_99aac3f057.jpg">
       </a>
-
     </div>
   </div>
   <em>These are extremely shy birds and move away if they see someone approaching
@@ -930,7 +887,7 @@ We thanked our guide and exited the premises of the salt factory. We also asked 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775682206_0b462e1b24_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682206_0b462e1b24.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775682206_0b462e1b24.jpg">
   </a>
   <em>The dogs here are so tiny :stuck_out_tongue:
 </em>
@@ -938,7 +895,7 @@ We thanked our guide and exited the premises of the salt factory. We also asked 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775682881_7e4592a57a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682881_7e4592a57a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775682881_7e4592a57a.jpg">
   </a>
   <em>I guess I like birding :smile:
 </em>
@@ -950,15 +907,13 @@ The unpaved roads led us to a restaurant that was serving fresh seafood for lunc
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775155233_98bb6e71e5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155233_98bb6e71e5.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775155233_98bb6e71e5.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775682531_56b589106d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682531_56b589106d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775682531_56b589106d.jpg">
       </a>
-
     </div>
   </div>
   <em>Demands of a hot day
@@ -967,7 +922,7 @@ The unpaved roads led us to a restaurant that was serving fresh seafood for lunc
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775155153_b77efa99bb_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155153_b77efa99bb.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775155153_b77efa99bb.jpg">
   </a>
   <em>Kevin eyeing my lunch :expressionless:
 </em>
@@ -979,15 +934,13 @@ After lunch, we decided to stroll till the beach. We still had a lot of time til
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775155123_e48d11c17e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155123_e48d11c17e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775155123_e48d11c17e.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775155063_931e12d700_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155063_931e12d700.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775155063_931e12d700.jpg">
       </a>
-
     </div>
   </div>
   <em>Strolling to the beach
@@ -998,7 +951,7 @@ It did not take long to realise why she was so in love with this beach. I fell i
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776015607_8a2449a301_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776015607_8a2449a301.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776015607_8a2449a301.jpg">
   </a>
   <em>The blues of Las Coloradas :blue_heart:
 </em>
@@ -1010,15 +963,13 @@ There were a number of fishing boats docked there and a lot of sea gulls.
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775682771_34cce2d422_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682771_34cce2d422.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775682771_34cce2d422.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776016502_9843ee28f8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776016502_9843ee28f8.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776016502_9843ee28f8.jpg">
       </a>
-
     </div>
   </div>
   <em>Sea gulls anticipating a treat
@@ -1031,15 +982,13 @@ And then there were pelicans lazing nonchalantly.
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775682871_5c0e4ce4e2_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682871_5c0e4ce4e2.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775682871_5c0e4ce4e2.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776016462_f1105d9d75_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776016462_f1105d9d75.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776016462_f1105d9d75.jpg">
       </a>
-
     </div>
   </div>
   <em>Pelicans be like...
@@ -1048,7 +997,7 @@ And then there were pelicans lazing nonchalantly.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775682741_8376eda5a1_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682741_8376eda5a1.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775682741_8376eda5a1.jpg">
   </a>
   <em>Standing guard
 </em>
@@ -1058,7 +1007,7 @@ Rio Lagartos, the town closest to Las Coloradas, hosts a biosphere that is famou
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775682111_ab19003cc7_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682111_ab19003cc7.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775682111_ab19003cc7.jpg">
   </a>
   <em>The water certainly looked inviting
 </em>
@@ -1066,7 +1015,7 @@ Rio Lagartos, the town closest to Las Coloradas, hosts a biosphere that is famou
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776015667_684d65dae5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776015667_684d65dae5.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776015667_684d65dae5.jpg">
   </a>
   <em>But the shade helped as well
 </em>
@@ -1080,21 +1029,19 @@ But all the same, we enjoyed sitting and watching the gulls go crazy as the fish
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775155388_a0d8cc9d3d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155388_a0d8cc9d3d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775155388_a0d8cc9d3d.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/49776016267_c489ec534e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776016267_c489ec534e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776016267_c489ec534e.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775155378_fc929a7f4a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775155378_fc929a7f4a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775155378_fc929a7f4a.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/49776016237_08dc7049e6_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776016237_08dc7049e6.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776016237_08dc7049e6.jpg">
       </a>
-
     </div>
   </div>
   <em>Engaging in some beach flanerie
@@ -1105,7 +1052,7 @@ An hour or so later, we went to the village's "bus-stand" and a little while lat
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49776015847_82739e056b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776015847_82739e056b.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776015847_82739e056b.jpg">
   </a>
   <em>Back to Valladolid and it's streets
 </em>
@@ -1115,12 +1062,11 @@ After a nap and dinner at Dona Fini, we called it a night and went to sleep amid
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775682326_13373eb201_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682326_13373eb201.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775682326_13373eb201.jpg">
   </a>
   <em>Tamales for dinner :fork_and_knife:
 </em>
 </div>
-
 
 ## Small Town Charms
 
@@ -1128,7 +1074,7 @@ The next day started early as usual. We had a tour planned for the day and rente
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49776015597_825c9896b4_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776015597_825c9896b4.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776015597_825c9896b4.jpg">
   </a>
   <em>Another Mayan house we spotted while biking
 </em>
@@ -1138,15 +1084,13 @@ The next day started early as usual. We had a tour planned for the day and rente
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775682046_e30f7693e5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682046_e30f7693e5.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775682046_e30f7693e5.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776015537_d552023044_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776015537_d552023044.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776015537_d552023044.jpg">
       </a>
-
     </div>
   </div>
   <em>Breakfast is served!
@@ -1159,15 +1103,13 @@ As luck would have it, we were the only two who had signed up for this time slot
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776015507_eac89ea5ee_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776015507_eac89ea5ee.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776015507_eac89ea5ee.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775682001_476c52a459_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775682001_476c52a459.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775682001_476c52a459.jpg">
       </a>
-
     </div>
   </div>
   <em>While we could not take pictures of the bees, we saw and learnt about Cebia Yaxche - the tree of life for the ancient Mayans
@@ -1178,14 +1120,14 @@ The tour ended with some honey tasting and we got a few things from the shop.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49776015192_c953abf886_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776015192_c953abf886.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776015192_c953abf886.jpg">
   </a>
 
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776015312_5e3448087f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776015312_5e3448087f.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776015312_5e3448087f.jpg">
   </a>
   <em>Honey tasting time :yum:
 </em>
@@ -1193,7 +1135,7 @@ The tour ended with some honey tasting and we got a few things from the shop.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775153678_13a8c77bf8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775153678_13a8c77bf8.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775153678_13a8c77bf8.jpg">
   </a>
   <em>Things we buy - honey candies, sticks, and a bookmark
 </em>
@@ -1205,7 +1147,7 @@ We pedalled through the town and headed to the outskirts, crossing a barren rail
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775681601_2968c5bc43_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775681601_2968c5bc43.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775681601_2968c5bc43.jpg">
   </a>
   <em>The barren railway station (notice the wedding shoot in a distance)
 </em>
@@ -1215,15 +1157,13 @@ We pedalled through the town and headed to the outskirts, crossing a barren rail
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775154183_ace9910b7d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775154183_ace9910b7d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775154183_ace9910b7d.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775154093_bf3470e037_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775154093_bf3470e037.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775154093_bf3470e037.jpg">
       </a>
-
     </div>
   </div>
   <em>Distracted riding
@@ -1234,15 +1174,13 @@ We pedalled through the town and headed to the outskirts, crossing a barren rail
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776014882_5f5c8096de_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776014882_5f5c8096de.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776014882_5f5c8096de.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776014797_06792c2a9e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776014797_06792c2a9e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776014797_06792c2a9e.jpg">
       </a>
-
     </div>
   </div>
   <em>The detour with the unhappy Parul :grimacing:
@@ -1251,7 +1189,7 @@ We pedalled through the town and headed to the outskirts, crossing a barren rail
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775680996_9722fd50da_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775680996_9722fd50da.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775680996_9722fd50da.jpg">
   </a>
   <em>Spot the vultures on the tree!
 </em>
@@ -1263,15 +1201,13 @@ We reached the [hacienda](https://www.chimuadventures.com/blog/2017/03/hacienda-
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775153833_e0d1a79477_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775153833_e0d1a79477.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775153833_e0d1a79477.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775685016_5ec853bb6b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775685016_5ec853bb6b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775685016_5ec853bb6b.jpg">
       </a>
-
     </div>
   </div>
   <em>Hacienda feels
@@ -1282,7 +1218,7 @@ Then we changed into our swimming costumes, showered off our sweat and took the 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775680936_72e2f2dc57_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775680936_72e2f2dc57.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775680936_72e2f2dc57.jpg">
   </a>
   <em>:heart_eyes: Sigh!
 </em>
@@ -1294,21 +1230,19 @@ This cenote was akin to a well rather than a cave. Actually, there are four kind
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775150333_e2f1d1f3f9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775150333_e2f1d1f3f9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775150333_e2f1d1f3f9.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/49775680861_2a6fa7217d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775680861_2a6fa7217d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775680861_2a6fa7217d.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775153618_a720761848_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775153618_a720761848.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775153618_a720761848.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/49776011632_29286f401c_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776011632_29286f401c.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776011632_29286f401c.jpg">
       </a>
-
     </div>
   </div>
   <em>The cenote with it's dangling roots was simply beautiful
@@ -1330,15 +1264,13 @@ Even Parul swung from the rope and jumped into the water. Although she was not t
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775677631_21bdd8e727_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775677631_21bdd8e727.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775677631_21bdd8e727.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776011262_38f9026af9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776011262_38f9026af9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776011262_38f9026af9.jpg">
       </a>
-
     </div>
   </div>
   <em>There she goes!
@@ -1351,15 +1283,13 @@ We swam around for a while and explored the corners of the cenote. The water was
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775677441_5250ffef83_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775677441_5250ffef83.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775677441_5250ffef83.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775676796_de0cda255f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775676796_de0cda255f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775676796_de0cda255f.jpg">
       </a>
-
     </div>
   </div>
   <em>Exploring the nooks and corners of the cenote
@@ -1368,7 +1298,7 @@ We swam around for a while and explored the corners of the cenote. The water was
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776009902_9370b9eeb9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776009902_9370b9eeb9.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776009902_9370b9eeb9.jpg">
   </a>
   <em>The water was SO clear!
 </em>
@@ -1378,15 +1308,13 @@ We swam around for a while and explored the corners of the cenote. The water was
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775676486_0dd29c5713_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775676486_0dd29c5713.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775676486_0dd29c5713.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49776009722_f08a85444d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49776009722_f08a85444d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49776009722_f08a85444d.jpg">
       </a>
-
     </div>
   </div>
   <em>Us being us :stuck_out_tongue:
@@ -1397,7 +1325,7 @@ After tiring ourselves out till we could not any more, we headed back up and gra
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775153728_924d400c9d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775153728_924d400c9d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775153728_924d400c9d.jpg">
   </a>
   <em>Day well spent!
 </em>
@@ -1409,14 +1337,13 @@ We returned to town once the sun was less of a hassle and returned the bikes. Fo
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775680916_98e122bae6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775680916_98e122bae6.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775680916_98e122bae6.jpg">
   </a>
   <em>Fancy tamales for dinner
 </em>
 </div>
 
 Today being Sunday, the tourism in the city was waning and Los Frappes turned off it's music earlier than the previous two nights. The town was going back to it's charming and relaxing self.
-
 
 ## Is it any Wonder?
 
@@ -1428,21 +1355,21 @@ Anyhow, once we were in, we were greeted straightaway by the most iconic structu
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775151953_27de7cd8f0_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775151953_27de7cd8f0.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775151953_27de7cd8f0.jpg">
   </a>
 
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775153593_1c6c46d72a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775153593_1c6c46d72a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775153593_1c6c46d72a.jpg">
   </a>
 
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775679346_353c4c828c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775679346_353c4c828c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775679346_353c4c828c.jpg">
   </a>
   <em>Many hues and shades of El Castillo
 </em>
@@ -1454,15 +1381,13 @@ El Castillo, or the Castle, is also known as the Temple of Kukulkan who is a May
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775680421_bdd46c40d0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775680421_bdd46c40d0.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775680421_bdd46c40d0.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775680791_3540df205e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775680791_3540df205e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775680791_3540df205e.jpg">
       </a>
-
     </div>
   </div>
   <em>Walking around El Castillo
@@ -1471,7 +1396,7 @@ El Castillo, or the Castle, is also known as the Temple of Kukulkan who is a May
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775153493_145d78c52f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775153493_145d78c52f.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775153493_145d78c52f.jpg">
   </a>
   <em>Kukulkan - the feathered serpent
 </em>
@@ -1479,7 +1404,7 @@ El Castillo, or the Castle, is also known as the Temple of Kukulkan who is a May
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775153568_598840c602_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775153568_598840c602.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775153568_598840c602.jpg">
   </a>
   <em>Tourist groups were present but scanty
 </em>
@@ -1489,7 +1414,7 @@ We went further, to the other structures - Gran Juego de Pelota, Templo de los G
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775153418_37abc8835a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775153418_37abc8835a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775153418_37abc8835a.jpg">
   </a>
   <em>Juguar and Falcon - symbols of warriors
 </em>
@@ -1497,7 +1422,7 @@ We went further, to the other structures - Gran Juego de Pelota, Templo de los G
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49776014172_f3d7836377_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776014172_f3d7836377.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776014172_f3d7836377.jpg">
   </a>
   <em>Templo de los Guerreros - Temple of the Warriors
 </em>
@@ -1507,7 +1432,7 @@ So we contended ourselves by walking around, trying to figure out what was what 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775152998_79c0f2691e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775152998_79c0f2691e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775152998_79c0f2691e.jpg">
   </a>
   <em>The random ruins made for pretty pictures
 </em>
@@ -1515,7 +1440,7 @@ So we contended ourselves by walking around, trying to figure out what was what 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775152653_a2437c2ab6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775152653_a2437c2ab6.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775152653_a2437c2ab6.jpg">
   </a>
   <em>And they were well restored
 </em>
@@ -1523,7 +1448,7 @@ So we contended ourselves by walking around, trying to figure out what was what 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775679916_8c9e4de72c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775679916_8c9e4de72c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775679916_8c9e4de72c.jpg">
   </a>
   <em>Coutinho visits the Mayan model house :joy:
 </em>
@@ -1531,7 +1456,7 @@ So we contended ourselves by walking around, trying to figure out what was what 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775152383_c21e824d2a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775152383_c21e824d2a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775152383_c21e824d2a.jpg">
   </a>
   <em>How many faces can you see?
 </em>
@@ -1541,7 +1466,7 @@ We walked all the way to the [Cenote Sagrado](https://en.wikipedia.org/wiki/Sacr
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775153338_366649e64f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775153338_366649e64f.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775153338_366649e64f.jpg">
   </a>
   <em>Cenote Sagrado - The Sacred Cenote
 </em>
@@ -1549,7 +1474,7 @@ We walked all the way to the [Cenote Sagrado](https://en.wikipedia.org/wiki/Sacr
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775680231_400e6709b6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775680231_400e6709b6.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775680231_400e6709b6.jpg">
   </a>
   <em>El Caracol - ancient Mayan astronomical observatory
 </em>
@@ -1557,7 +1482,7 @@ We walked all the way to the [Cenote Sagrado](https://en.wikipedia.org/wiki/Sacr
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775680141_93027026f5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775680141_93027026f5.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775680141_93027026f5.jpg">
   </a>
   <em>La Iglesia - the church (or somewhere around it)
 </em>
@@ -1567,7 +1492,7 @@ We went up to El Caracol on the other side and found that everything was off lim
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775679611_cc5fbe57f6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775679611_cc5fbe57f6.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775679611_cc5fbe57f6.jpg">
   </a>
   <em>Such intense frustration calls for some relaxing yoga in the gardens
 </em>
@@ -1577,7 +1502,7 @@ We were hopeful that the museum would tell us something about the place but it t
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775152178_285c23a6ac_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775152178_285c23a6ac.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775152178_285c23a6ac.jpg">
   </a>
   <em>The museum (all of it) :clap:
 </em>
@@ -1587,7 +1512,7 @@ But by this time we were both beyond frustration. We just laughed out loud helpl
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775679476_98d64a5de9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775679476_98d64a5de9.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775679476_98d64a5de9.jpg">
   </a>
   <em>Longanizas de Valladolid
 </em>
@@ -1595,7 +1520,7 @@ But by this time we were both beyond frustration. We just laughed out loud helpl
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775152123_bf0b346b3b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775152123_bf0b346b3b.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775152123_bf0b346b3b.jpg">
   </a>
   <em>Super loaded Nachos
 </em>
@@ -1605,7 +1530,7 @@ We rested through the rest of the day and I went for a jog in the evening. We de
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49775679261_4ff722d719_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775679261_4ff722d719.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775679261_4ff722d719.jpg">
   </a>
   <em>Some fried food that Parul ordered :stuck_out_tongue:
 </em>
@@ -1613,7 +1538,7 @@ We rested through the rest of the day and I went for a jog in the evening. We de
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49776012997_fdf504859b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776012997_fdf504859b.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776012997_fdf504859b.jpg">
   </a>
   <em>Some stew that I ordered
 </em>
@@ -1623,15 +1548,13 @@ We rested through the rest of the day and I went for a jog in the evening. We de
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775151833_a0715785dc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775151833_a0715785dc.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775151833_a0715785dc.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49775679251_417edfe218_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49775679251_417edfe218.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49775679251_417edfe218.jpg">
       </a>
-
     </div>
   </div>
   <em>Champion margaritas :joy:
@@ -1646,7 +1569,7 @@ Meanwhile, Guadalupe was being a sweetheart as always. She had arranged for some
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49776009177_5c7c52d38e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49776009177_5c7c52d38e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49776009177_5c7c52d38e.jpg">
   </a>
   <em>A homecooked meal of Longanizas :heart:
 </em>
@@ -1654,7 +1577,7 @@ Meanwhile, Guadalupe was being a sweetheart as always. She had arranged for some
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49775152078_c5ec84ffc3_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49775152078_c5ec84ffc3.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49775152078_c5ec84ffc3.jpg">
   </a>
   <em>Liqueurs of Yucatan
 </em>

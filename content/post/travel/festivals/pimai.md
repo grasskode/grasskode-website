@@ -19,7 +19,7 @@ People throw water on anyone they can, ANYONE! Families get together and make me
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48712321793_871bffce75_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48712321793_871bffce75_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48712321793_871bffce75_c.jpg">
   </a>
   <em>Pi Mai in a glimpse</em>
 </div>
@@ -42,7 +42,7 @@ Wear light clothes; clothes you won't mind being drenched in for a long time. Av
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48712652431_d008b30850_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48712652431_d008b30850_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48712652431_d008b30850_c.jpg">
   </a>
   <em>Getting drenched in style!</em>
 </div>
@@ -50,7 +50,6 @@ Wear light clothes; clothes you won't mind being drenched in for a long time. Av
 ## Moving around during Pi Mai
 
 Usually the festival starts around 9 AM and ends at sun down. So it's safe to say if you have changed into fresh clothes after sun down the likeliness of someone drenching you again is minimal. There will always be some groups which are still partying with water into the night but they will not engage with you. The public transport does not shut down during the festival but the roads are kind of blocked so getting from one place to another might be faster on foot. Avoid riding on two wheelers unless you are feeling a bit too adventurous :stuck_out_tongue:.
-
 
 **How is Pi Mai different from Holi in India?**
 
@@ -80,15 +79,14 @@ The slow moving traffic isn't spared either. People on two wheelers are prepared
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48712322128_3da67f74c1_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48712322128_3da67f74c1_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48712322128_3da67f74c1_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48712652131_2b3e8a25f2_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48712652131_2b3e8a25f2_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48712652131_2b3e8a25f2_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>A good day to be on the road?</em>
 </div>
 
@@ -98,15 +96,14 @@ You have to have your own water gun unless you only want to walk around getting 
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48713852903_fd5e077014_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48713852903_fd5e077014_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48713852903_fd5e077014_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48712652476_27a6231cd6_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48712652476_27a6231cd6_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48712652476_27a6231cd6_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Ready for battle and battle feels :grin:</em>
 </div>
 
@@ -114,7 +111,7 @@ Don't mess with the kids. They are tireless and they will chase you down :joy:. 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48712817612_c733c7edf3_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48712817612_c733c7edf3_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48712817612_c733c7edf3_c.jpg">
   </a>
   <em>Just look at them double barrels :scream:</em>
 </div>
@@ -127,24 +124,21 @@ At any point in time you can decide if you want to halt with a group and then at
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48455204072_f91312baeb_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48455204072_f91312baeb_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48455204072_f91312baeb_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48712653371_8cd6ba8a40_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48712653371_8cd6ba8a40_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48712653371_8cd6ba8a40_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Spirit of Pi Mai :grin:</em>
 </div>
 
 <div class="postimg">
   <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/359192234" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
-  <em>Party like a rockstar</em>
-  </div>
+  <iframe src="https://player.vimeo.com/video/359192234" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
+  <em>Party like a rockstar</em>  </div>
 
 Refilling your water gun or whatever it is that you are using is easy. People are usually outside their homes for the festivities and have some kind of drum or bucket which is being fed by a water pipe. You can ask these people for a refill, they will happily oblige in return of drenching you once. People also buy baby pools to fill them with water, occasionally there could some kids in the pool as well :grin:. Also, beware of enthusiastic moms who scold their kids if they don't attack you :stuck_out_tongue:. One such mom threw water on Karan herself because the kids failed her :joy:.
 
@@ -152,15 +146,14 @@ Refilling your water gun or whatever it is that you are using is easy. People ar
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48712322708_1266338c79_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48712322708_1266338c79_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48712322708_1266338c79_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48712321353_2559b10ec9_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48712321353_2559b10ec9_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48712321353_2559b10ec9_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Cost of refills :stuck_out_tongue:</em>
 </div>
 
@@ -168,12 +161,11 @@ On the first and the last day there is also a parade that goes around in the tow
 
 <div class="postimg">
   <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/359171652" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+  <iframe src="https://player.vimeo.com/video/359171652" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Last day parade feels</em>
 </div>
 
 Of course a parade does not mean there will not be any water fights. Water fights are always there.
-So basically you have to keep your eyes open. No this will not mean that you wont get drenched, this will just ensure that you are prepared :joy:. After all the water guns in the day the night gives way for a beautiful night market and a small fete which will forve you to buy so many things you don't want to buy. If go with an open mind there is no way you will not enjoy this festival.  
+So basically you have to keep your eyes open. No this will not mean that you wont get drenched, this will just ensure that you are prepared :joy:. After all the water guns in the day the night gives way for a beautiful night market and a small fete which will forve you to buy so many things you don't want to buy. If go with an open mind there is no way you will not enjoy this festival.
 
 <hr/>

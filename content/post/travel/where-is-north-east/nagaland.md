@@ -42,12 +42,11 @@ The next day started with an onset of dust allergies for both of us. We were kin
       <a href="https://live.staticflickr.com/65535/46810344784_6915c400ef_c.jpg" data-toggle="lightbox">
         <img src="https://live.staticflickr.com/65535/46810344784_6915c400ef.jpg"  alt="title2">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em> Unnecessary adventure number 1 of the day</em>
 </div>
 
-We left for the DC office soon after having some breakfast. We reached the office and were told it was a Sunday and the office was closed. OH! Maybe that's why the ruins were closed. LOL. We called our contact and the moment we mentioned it to her she realised what day it was but she made a few calls to figure out where the ILP was and we were told to contact some *babu* in the office. This is where the woes start. Karan goes inside to enquire about the ILP :sob:.
+We left for the DC office soon after having some breakfast. We reached the office and were told it was a Sunday and the office was closed. OH! Maybe that's why the ruins were closed. LOL. We called our contact and the moment we mentioned it to her she realised what day it was but she made a few calls to figure out where the ILP was and we were told to contact some _babu_ in the office. This is where the woes start. Karan goes inside to enquire about the ILP :sob:.
 
 <blockquote>
 A babu is a government official, usually known to be not very helpful :stuck_out_tongue: </br> </br>
@@ -55,37 +54,36 @@ A babu is a government official, usually known to be not very helpful :stuck_out
 Karan: Hello sir, I am here for the ILPs, Madam X got them done for us.</br>
 Babu: We gave out all the ILPs yesterday.</br>
 Karan(confused): To whom? </br>
-Babu: *No response* </br>
+Babu: _No response_ </br>
 Karan: We really need to get to Kohima. Who did you give the ILPs to? </br>
 Babu: Someone came from the airport and we gave them all the ILPs. </br>
 Karan(still confused): Who came from the airport? Can you tell me who has the ILPs? We will go and get them. </br>
 Babu: I am going to a meeting for the bandh tomorrow. Talk to the guard!
+
 </blockquote>
 
 <div class="postimg inline40">
   <a href="https://live.staticflickr.com/65535/32876265567_f41c0d796a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/32876265567_f41c0d796a_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/32876265567_f41c0d796a_z.jpg">
   </a>
   <em>Apocalypse now</em>
 </div>
 
 We learnt that there was a curfew(bandh) called out for the next day. So we had to get the ILPs today else we were stuck for another day and were definitely missing the festival. After a lot of calls to and from Madam X we came to know who at the airport has our permits! We hopped on the bike immediately and started for the airport. The road to the airport(which also leads to Kohima) was just dust and stones. Nothing else. This brought the traffic down to a crippling slow speed and made the entire area look like an apocalypse zone :unamused:.
 
-Nevertheless we were on our way when a new problem came up. Ifrit's rear tyre got punctured. But that was not the only problem, since it was a Sunday everything was closed. CLOSED!  We eventually found a shop and pushed the bike to that place. Now this guy refused to remove the tyre from the bike! An irritated Karan asked for the tools and we somehow managed to get the tyre off. A thing we were doing for the first time. We got the puncture fixed and then decided it was just too late to get the ILPs and went back to the hotel. By now we had accepted the fact angrily that we were going to miss the festival.
+Nevertheless we were on our way when a new problem came up. Ifrit's rear tyre got punctured. But that was not the only problem, since it was a Sunday everything was closed. CLOSED! We eventually found a shop and pushed the bike to that place. Now this guy refused to remove the tyre from the bike! An irritated Karan asked for the tools and we somehow managed to get the tyre off. A thing we were doing for the first time. We got the puncture fixed and then decided it was just too late to get the ILPs and went back to the hotel. By now we had accepted the fact angrily that we were going to miss the festival.
 
 <div class="postimg">
   <div class="grid">
   <div class="grid-column-50">
     <a href="https://live.staticflickr.com/7846/40568041063_7fbfc5f176_z.jpg" data-toggle="lightbox">
       <img src="https://live.staticflickr.com/7846/40568041063_7fbfc5f176_z.jpg" alt="title2">
-    </a>
-  </div>
+    </a>  </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/7905/33657351768_89723040fd_z.jpg" data-toggle="lightbox">
         <img src="https://live.staticflickr.com/7905/33657351768_89723040fd_z.jpg" alt="title">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>There is always a first time for everything</em>
 </div>
 
@@ -93,11 +91,10 @@ We learnt that the curfew was from 5 AM to 5 PM the next day. This meant we coul
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/32876265517_ccd7635def_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/32876265517_ccd7635def_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/32876265517_ccd7635def_z.jpg">
   </a>
   <em>The surprise of Bangkok café and Cuisine </em>
 </div>
-
 
 ## About cafés and Music
 
@@ -105,8 +102,7 @@ It was Karan's birthday today. Happy with the thought of leaving the city of des
 
 <div class="postimg">
   <div class="video-container">
-    <iframe src="https://player.vimeo.com/video/335635545" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+    <iframe src="https://player.vimeo.com/video/335635545" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Don't stop me now :crown:</em>
 </div>
 
@@ -114,8 +110,7 @@ It wasn't very far, only 70 kms! A million people had warned us how bad the road
 
 <div class="postimg">
   <div class="video-container">
-    <iframe src="https://player.vimeo.com/video/335635534" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+    <iframe src="https://player.vimeo.com/video/335635534" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Another one bites the dust :crown:</em>
 </div>
 
@@ -123,7 +118,7 @@ We were on our way again and stopped one more time to take a break. This picture
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/7856/47481630452_e59eb961ea_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/7856/47481630452_e59eb961ea_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/7856/47481630452_e59eb961ea_z.jpg">
   </a>
   <em> Can you believe this? </em>
 </div>
@@ -132,7 +127,7 @@ We reached Kohima 4 hours after we had started and settled in our rooms. We had 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/7838/47481629192_0bc98b9936_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/7838/47481629192_0bc98b9936_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/7838/47481629192_0bc98b9936_z.jpg">
   </a>
   <em>One with the birthday boy :heart:</em>
 </div>
@@ -143,15 +138,14 @@ The first café we walked to that night was [Sorshia and Co](https://www.instagr
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/40568031653_e1877f281e_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/40568031653_e1877f281e_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/40568031653_e1877f281e_z.jpg">
       </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/40756033913_7a45771168_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/40756033913_7a45771168_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/40756033913_7a45771168_z.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Sorshia & Co.:christmas_tree:</em>
 </div>
 
@@ -159,12 +153,12 @@ We stopped at [JAT restaurant](https://www.tripadvisor.com/Restaurant_Review-g66
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/7890/46810330154_6a5abb8436_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/7890/46810330154_6a5abb8436_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/7890/46810330154_6a5abb8436_z.jpg">
   </a>
   <em>D café Kohima :coffee:</em>
 </div>
 
-Most of the cafés in Kohima shut down pretty early, as early as 7 PM.  Plan your day well in Kohima, as everything opens early as well. Next day started with [FIFA café](https://www.facebook.com/fifacafékohima/). It was a tiny little café and after having our fill of the items on the menu we left to visit the World War II memorial. It was a sad and beautiful place. Was built on a high mountain so we could see the entire city from there. We spent time walking through the tombstones and discussed how the average age of the martyrs was probably not more than 22 years :broken_heart:. We went to D café again to work on our blogs and left when it was café closing time
+Most of the cafés in Kohima shut down pretty early, as early as 7 PM. Plan your day well in Kohima, as everything opens early as well. Next day started with [FIFA café](https://www.facebook.com/fifacafékohima/). It was a tiny little café and after having our fill of the items on the menu we left to visit the World War II memorial. It was a sad and beautiful place. Was built on a high mountain so we could see the entire city from there. We spent time walking through the tombstones and discussed how the average age of the martyrs was probably not more than 22 years :broken_heart:. We went to D café again to work on our blogs and left when it was café closing time
 . It was slowly becoming our favorite café. We walked our way back to the hotel and saw swarms of people around stalls across the road. These tiny stalls were selling, Aloo and Anda chops! We ate the delicious chops to our hearts content :stuck_out_tongue:.
 
 <div class="postimg">
@@ -178,8 +172,7 @@ Most of the cafés in Kohima shut down pretty early, as early as 7 PM.  Plan you
     <a href="https://live.staticflickr.com/7882/33650315678_17df4b7c9e_c.jpg" data-toggle="lightbox">
       <img src="https://live.staticflickr.com/7882/33650315678_17df4b7c9e_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>World War II Memorial</em>
 </div>
 
@@ -189,15 +182,14 @@ The next day we went to a museum which was closed but I could not help overhear 
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/7925/47481626812_c8e598323f_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/7925/47481626812_c8e598323f_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/7925/47481626812_c8e598323f_z.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/7816/40568362393_af2abb49f9_c.jpg" data-toggle="lightbox">
       <img src="https://live.staticflickr.com/7816/40568362393_af2abb49f9_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Nagaland state museum and pao bhaji at state fair :grin:</em>
 </div>
 
@@ -214,14 +206,13 @@ We spent 3 happy days in Kohima. Hopping one café after the other, discussing w
       <a href="https://live.staticflickr.com/7865/33657306608_b6d56b16ca_c.jpg" data-toggle="lightbox">
         <img src="https://live.staticflickr.com/7865/33657306608_b6d56b16ca_z.jpg" alt="title2">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Flavour and taste restaurant(Left) and Ete Coffee(Right)</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/7814/47453717481_54704f79d4_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/7814/47453717481_54704f79d4_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/7814/47453717481_54704f79d4_c.jpg">
   </a>
   <em>The art of coffee making @ Ete Coffee</em>
 </div>
@@ -230,15 +221,14 @@ We spent 3 happy days in Kohima. Hopping one café after the other, discussing w
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/7817/46538595075_7c61fd912a_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/7817/46538595075_7c61fd912a.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/7817/46538595075_7c61fd912a.jpg">
       </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/7906/40487768983_0f01376e00_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/7906/40487768983_0f01376e00.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/7906/40487768983_0f01376e00.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Bye bye Kohima</em>
 </div>
 
@@ -248,14 +238,14 @@ So at this point we were not sure if we want to go to Dzuleke or Khonoma. Khonom
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47820139851_28fe41c13e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47820139851_28fe41c13e_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47820139851_28fe41c13e_z.jpg">
   </a>
   <em>Khonoma valley here we come</em>
 </div>
 
 <div class="postimg inline50">
   <a href="https://live.staticflickr.com/7875/33652752178_1035a3917e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/7875/33652752178_1035a3917e_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/7875/33652752178_1035a3917e_z.jpg">
   </a>
   <em>Dreamy roads of Khonoma</em>
 </div>
@@ -273,8 +263,7 @@ We were now climbing up a hill on broken roads. So dreamy :unamused:. But at lea
     <a href="https://live.staticflickr.com/7827/32511887167_ce902ec28c_c.jpg" data-toggle="lightbox">
       <img src="https://live.staticflickr.com/7827/32511887167_ce902ec28c_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Have you seen anything so beautiful?</em>
 </div>
 
@@ -282,7 +271,7 @@ Vizu returned soon to tell us we will be staying at his place. We were not compl
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/7830/40561098083_10f34ba9b8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/7830/40561098083_10f34ba9b8_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/7830/40561098083_10f34ba9b8_z.jpg">
   </a>
   <em>Fluffy :heart:</em>
 </div>
@@ -291,7 +280,7 @@ The village was small and consisted of about 40 houses. The first look suggested
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/7810/32512004727_d26c62167d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/7810/32512004727_d26c62167d_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/7810/32512004727_d26c62167d_z.jpg">
   </a>
   <em> The beautiful Dzuleke Village</em>
 </div>
@@ -357,10 +346,9 @@ We had decided to pay a short visit to Khonoma before we left. Should have taken
     <a href="https://live.staticflickr.com/65535/32876265117_ebaef55e4d_c.jpg" data-toggle="lightbox">
       <img src="https://live.staticflickr.com/65535/32876265117_ebaef55e4d_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The beautiful Alder forest</em>
-</div>  
+</div>
 
 We reached the tourist office and without much of a discussion we decided to stay here for a day and giggled on how we both left Dzuleke unwillingly :unamused:. The tourist information center gave us a card for a certain Alder Cottage and we called to ask if they have rooms. We went all the way back to the edge of the forest we had come from. The beautiful house was in the middle of what I called an _enchanted forest_. It had a beautiful backyard with all sorts of vegetables and herbs growing in-house. The room was very basic but suited us well. We agreed to stay here and went for a village tour with Mr. Methaheto Chase, the elderly gentleman who owned the cottage.
 
@@ -390,12 +378,11 @@ Mr. Chase started with telling us how Khonoma was India's first green village, w
     <a href="https://live.staticflickr.com/65535/32592295247_e713ae3307_c.jpg" data-toggle="lightbox">
       <img src="https://live.staticflickr.com/65535/32592295247_e713ae3307_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Views of Khonoma</em>
 </div>
 
-We decided to stay another day for some photos. That night it started raining and rained non stop for 24 hours.  Mr. Chase had mentioned that after Jhum cultivation it rains because of the heat generated. Something that Rohit, Karan's friend had also mentioned when we had visited him in Longding, Arunachal. So we assumed that was what was happening. Karan had made friends with 5 year old Vivi and apart from going to the living room for food our activity was very much limited. For music we had Mr. Chase's daughters piano and singing which was oh so melodious! They were practicing to play in the wedding of a friend. Also, it was our anniversary :heart:. Over calls back home we learnt that we were in the middle of some low pressure belt that had formed in the Bay of Bengal and was causing these non stop rains. Oh well! Stuck in Nagaland once more :stuck_out_tongue:
+We decided to stay another day for some photos. That night it started raining and rained non stop for 24 hours. Mr. Chase had mentioned that after Jhum cultivation it rains because of the heat generated. Something that Rohit, Karan's friend had also mentioned when we had visited him in Longding, Arunachal. So we assumed that was what was happening. Karan had made friends with 5 year old Vivi and apart from going to the living room for food our activity was very much limited. For music we had Mr. Chase's daughters piano and singing which was oh so melodious! They were practicing to play in the wedding of a friend. Also, it was our anniversary :heart:. Over calls back home we learnt that we were in the middle of some low pressure belt that had formed in the Bay of Bengal and was causing these non stop rains. Oh well! Stuck in Nagaland once more :stuck_out_tongue:
 
 <div class="postimg">
   <div class="grid">
@@ -408,8 +395,7 @@ We decided to stay another day for some photos. That night it started raining an
     <a href="https://live.staticflickr.com/7848/46810634174_c0de7c6e3f_c.jpg" data-toggle="lightbox">
       <img src="https://live.staticflickr.com/7848/46810634174_c0de7c6e3f_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Happy anniversary :heart:</em>
 </div>
 

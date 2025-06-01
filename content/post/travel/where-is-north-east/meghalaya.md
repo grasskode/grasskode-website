@@ -45,7 +45,7 @@ Eventually we did find a nice place to put up in. Christie, the girl who managed
   <em>The grand plunge of Nohkalikai</em>
 </div>
 
-We were seeing the falls from one of the hills on the side and tried to find a way to get to the base of the falls and failed. This place seemed more suited for the nonathletic tourists. There were also a few shops here that sold spices, pickles and souvenirs. We got some spices for back home, a bottle of pickled *Bhut Jolokhia* and some pickled tamarind to eat. :yum:
+We were seeing the falls from one of the hills on the side and tried to find a way to get to the base of the falls and failed. This place seemed more suited for the nonathletic tourists. There were also a few shops here that sold spices, pickles and souvenirs. We got some spices for back home, a bottle of pickled _Bhut Jolokhia_ and some pickled tamarind to eat. :yum:
 
 <div class="postimg">
   <a href="https://farm5.staticflickr.com/4915/32116860218_612f3e9080_c.jpg" data-toggle="lightbox">
@@ -132,8 +132,7 @@ There were a lot of people around and we decided to head out further into the va
       <a href="https://farm5.staticflickr.com/4849/44172023790_d05a7537c9_c.jpg" data-toggle="lightbox">
         <img src="https://farm5.staticflickr.com/4849/44172023790_d05a7537c9.jpg" alt="nongriat-hike-14">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Hiking further into the valley</em>
 </div>
 
@@ -180,12 +179,11 @@ After a small Maggi break at Nongriat, we climbed the 2000 odd steps (I actually
 
 We had another day in Sohra that we spent trying to do more things. The **Mawsmai Caves** had better formations than Arwah but they were full of people and you got rushed into a single file with zero sense of adventure. The **Seven Sisters Falls View Point** was a playground for people clicking selfies in dried up stream beds. We had come to realise that although Sohra was full of places to visit and explore, finding something of real beauty and interest would take effort. We would have to drive to some spot, hike for a while and spend the day thus. Unfortunately our time in Sohra was over but we took it as a learning for the rest of the trip.
 
-
 ## Asia's Cleanest Village
 
-From Sohra we made our way to Mawlynnong, deemed as Asia's cleanest village. On the way out, the lady who ran the restaurant where we were having breakfast broke the mystery around Cherapunjee and Sohra. The village was always called Sohra. Some of the outsiders who first publicised it mistakenly named it as *Sehra*. Thence came the anglification by the Britishers to *Chera*. *Punjee* simply meant village. Hence the name *Cherapunjee*. That seemed simple enough to believe in.
+From Sohra we made our way to Mawlynnong, deemed as Asia's cleanest village. On the way out, the lady who ran the restaurant where we were having breakfast broke the mystery around Cherapunjee and Sohra. The village was always called Sohra. Some of the outsiders who first publicised it mistakenly named it as _Sehra_. Thence came the anglification by the Britishers to _Chera_. _Punjee_ simply meant village. Hence the name _Cherapunjee_. That seemed simple enough to believe in.
 
-The road to Mawlynnong was beautiful, through green plateaus with nice views. Turns out that riding in Meghalaya wasn't too eerie in the daylight. However, I was also coming to realise that the *ML* number plates were backed by some of the worst drivers in the country. They drive without using an iota of the human brain. There is no uphill preference; they stop in the middle of the road to pick up passengers without so much of an indication; the *Sumo* drivers act as if they own the road and turn a deaf ear to requests for a pass; they do not indicate their turns. There was a very "my way or the highway" attitude they had. I was slowly getting used to their driving quirks and but for these bouts of frustration, the ride was enjoyable because of the scenery.
+The road to Mawlynnong was beautiful, through green plateaus with nice views. Turns out that riding in Meghalaya wasn't too eerie in the daylight. However, I was also coming to realise that the _ML_ number plates were backed by some of the worst drivers in the country. They drive without using an iota of the human brain. There is no uphill preference; they stop in the middle of the road to pick up passengers without so much of an indication; the _Sumo_ drivers act as if they own the road and turn a deaf ear to requests for a pass; they do not indicate their turns. There was a very "my way or the highway" attitude they had. I was slowly getting used to their driving quirks and but for these bouts of frustration, the ride was enjoyable because of the scenery.
 
 We got a beautiful cottage right outside Mawlynnong. It was a two storey accommodation where Parul and I gladly took the attic. The balcony opened to a nice view of the jungle beyond.
 
@@ -209,14 +207,13 @@ After settling in we went to check out the village. The village was quite pretty
       <a href="https://farm5.staticflickr.com/4873/44171647370_cbc58df874_c.jpg" data-toggle="lightbox">
         <img src="https://farm5.staticflickr.com/4873/44171647370_cbc58df874.jpg" alt="mawlynnong-village-1">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Pretty village</em>
 </div>
 
 But the place seemed to be marred by the familiar ravages of tourism. There were so many people and honking cars. There was a stall in every corner selling the same souvenirs as the one next to it. Perhaps with less crowd this village might have seemed much more beautiful but right now there was a lot of visual noise.
 
-[Abhinav](https://www.instagram.com/tra.vel.la/), my brother, had been to Mawlynnong a few years ago when it was not yet touristy. He had suggested us a trek in the area which we decided to enquire about. Having no idea where to begin asking, we walked into the first restaurant and asked if someone knew anything about a trek that we did not know the name of and showed them a few pictures sent by Abhinav. The woman running the restaurant nodded and said it was *Shillang Jashar*. Guides? Sure, her brothers were back in town from Shillong and would gladly take us there. We later found out that they had plans to go fishing in Dawki and were stuck with us on their vacation. Big sisters, eh. :imp:
+[Abhinav](https://www.instagram.com/tra.vel.la/), my brother, had been to Mawlynnong a few years ago when it was not yet touristy. He had suggested us a trek in the area which we decided to enquire about. Having no idea where to begin asking, we walked into the first restaurant and asked if someone knew anything about a trek that we did not know the name of and showed them a few pictures sent by Abhinav. The woman running the restaurant nodded and said it was _Shillang Jashar_. Guides? Sure, her brothers were back in town from Shillong and would gladly take us there. We later found out that they had plans to go fishing in Dawki and were stuck with us on their vacation. Big sisters, eh. :imp:
 
 ### The Hike
 
@@ -265,12 +262,11 @@ Right on the other side of this bridge was a cascading waterfall which sloped do
       <a href="https://farm5.staticflickr.com/4877/31049050537_cc2fd22008_c.jpg" data-toggle="lightbox">
         <img src="https://farm5.staticflickr.com/4877/31049050537_cc2fd22008.jpg" alt="mawlynnong-hike-urkyrming-cave">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Cascading Urkyrming</em>
 </div>
 
-After the falls we followed the water upstream along the river bed. We were looking for the "bamboo bridge". The river bed involved a considerable amount of clambering up and down stones and jumping across rocks. Parul seemed to be doing alright when she suddenly announced that she had had enough of jumping rocks and would be going no further. :unamused: Fortunately we sighted the bamboo bridge  right after the next bend and she changed her mind and completed the hike.
+After the falls we followed the water upstream along the river bed. We were looking for the "bamboo bridge". The river bed involved a considerable amount of clambering up and down stones and jumping across rocks. Parul seemed to be doing alright when she suddenly announced that she had had enough of jumping rocks and would be going no further. :unamused: Fortunately we sighted the bamboo bridge right after the next bend and she changed her mind and completed the hike.
 
 <div class="postimg">
   <a href="https://farm5.staticflickr.com/4905/45263703564_9f0dcf910e_c.jpg" data-toggle="lightbox">
@@ -315,7 +311,6 @@ Sam returned with good news and we discovered a path going to the right not far 
 Back in the room we were further entertained that night by a group of guys from Delhi who had taken the cottage next to us. It was their obnoxious behaviour, loud music and louder conversations that gave us the idea to write a post on how not to be an asshole. That work is still in progress though. :stuck_out_tongue_closed_eyes:
 
 The adventures had not ended yet. Sometime in the middle of the night while I was trying to sleep, I felt something bite on my thumb. I got up with a jerk thinking it was a nightmare. Turned out it was not. Parul's flashed her phone's light around and we saw a mouse sitting in a corner of the attic. It was the same one Parul had seen earlier that evening but I had not imagined it coming to bite in the middle of the night! Damned thing. We shifted our bed down below, washed and treated my thumb and tried to sleep again. We were jumpy with every noise that we heard thence and eventually slept with the lights on. Miraculously, Neha had managed to sleep through the entire half an hour ordeal and we had to recount the entire incident to her later the next morning. :joy:
-
 
 ## Waters of Umngot
 
@@ -407,7 +402,7 @@ We went as far as the river allowed us. Faced with a rapid, we turned back and t
   <em>Fish pedicure :grin:</em>
 </div>
 
-Back from the boat ride, we decided to rent the kayaks and fool around some more. It was an hour long of unsynchronised rowing. We played *bumper kayaks* and Neha used to scream every time the kayaks got close enough. We even practiced rowing in reverse and parking the kayaks on the bank.
+Back from the boat ride, we decided to rent the kayaks and fool around some more. It was an hour long of unsynchronised rowing. We played _bumper kayaks_ and Neha used to scream every time the kayaks got close enough. We even practiced rowing in reverse and parking the kayaks on the bank.
 
 <div class="postimg">
   <a href="https://farm5.staticflickr.com/4861/32117382138_8b2933901f_c.jpg" data-toggle="lightbox">
@@ -430,7 +425,7 @@ Back from the boat ride, we decided to rent the kayaks and fool around some more
   <em>Splash and run!</em>
 </div>
 
-There were more "adventure" activities being offered - ziplining across the river and cliff jumping. None of us were very interested in either since they did not look very exciting. I mean the cliff jump was more of a rock jump if you have done the one in Rishikesh. :expressionless: We went back happily tired and spent the rest of the evening tripping over some cookies Aamir had got from Pune. We came back to the river later in the evening to watch "Dude Where's My Car" for the *nth* time.
+There were more "adventure" activities being offered - ziplining across the river and cliff jumping. None of us were very interested in either since they did not look very exciting. I mean the cliff jump was more of a rock jump if you have done the one in Rishikesh. :expressionless: We went back happily tired and spent the rest of the evening tripping over some cookies Aamir had got from Pune. We came back to the river later in the evening to watch "Dude Where's My Car" for the _nth_ time.
 
 <div class="postimg">
   <a href="https://farm5.staticflickr.com/4807/45264144094_4c84eb9c4f_c.jpg" data-toggle="lightbox">
@@ -439,12 +434,11 @@ There were more "adventure" activities being offered - ziplining across the rive
   <em>Having some local snacks - Shapate and Shamantra :yum:</em>
 </div>
 
-
 ## End of the Road
 
 ### Krang Shuri
 
-We decided to spend the last few days in Shillong. Once again, the drive back was quite beautiful except for the few frustrating interactions with the *ML* drivers. We decided to take the longer route via Jowai and made a stop at **Krang Shuri Waterfall**. Good decision! Krang Shuri was a far cry from being offbeat but had a relatively smaller number of tourist footfall. At the parking we met a [fellow biker](https://www.instagram.com/tinsobro/) from Kerala who was attempting to take his beloved through all the states of India. Quite a feat!
+We decided to spend the last few days in Shillong. Once again, the drive back was quite beautiful except for the few frustrating interactions with the _ML_ drivers. We decided to take the longer route via Jowai and made a stop at **Krang Shuri Waterfall**. Good decision! Krang Shuri was a far cry from being offbeat but had a relatively smaller number of tourist footfall. At the parking we met a [fellow biker](https://www.instagram.com/tinsobro/) from Kerala who was attempting to take his beloved through all the states of India. Quite a feat!
 
 Around 10 minutes walk from the parking lot brought us to the waterfall. The stream fell over a large cave and had formed a pool of clear, blue water underneath.
 
@@ -474,12 +468,11 @@ I went to get the lifejackets that were mandatory to get into the pool. Neha sat
       <a href="https://farm5.staticflickr.com/4811/31049130437_ec0ac5868a_c.jpg" data-toggle="lightbox">
         <img src="https://farm5.staticflickr.com/4811/31049130437_ec0ac5868a.jpg" alt="krang-shuri-12">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Best swim of the trip</em>
 </div>
 
-Eventually we got out and dried up. We sat at the small *dhaba* near the parking lot to fill ourselves up and resumed our journey to Shillong.
+Eventually we got out and dried up. We sat at the small _dhaba_ near the parking lot to fill ourselves up and resumed our journey to Shillong.
 
 ### Back to Civilization
 

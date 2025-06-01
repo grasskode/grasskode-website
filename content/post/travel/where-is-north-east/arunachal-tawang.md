@@ -19,7 +19,7 @@ I was particularly happy to be on Typhon. Somewhere I did harbour something of a
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7800/33280562078_353f23f904_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7800/33280562078_353f23f904.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7800/33280562078_353f23f904.jpg">
   </a>
   <em>Back on the bikes! :v:</em>
 </div>
@@ -30,18 +30,16 @@ We left Tezpur the very next day for our next interim destination. Nameri Nation
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7922/46241043205_2bf1100448_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7922/46241043205_2bf1100448.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7922/46241043205_2bf1100448.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7874/47103056272_6ec7c3d969_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7874/47103056272_6ec7c3d969.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7874/47103056272_6ec7c3d969.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Chilling in Nameri</em>
 </div>
-
 
 ## Road to Tawang
 
@@ -51,7 +49,7 @@ Once the formalities were done, we headed into Arunachal. The road got pleasant 
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7869/40252871543_f374b759b5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7869/40252871543_f374b759b5.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7869/40252871543_f374b759b5.jpg">
   </a>
   <em>Not your regular road</em>
 </div>
@@ -62,7 +60,7 @@ We rode all the way to Dirang on the first day. After that 20 kilometer stretch 
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7924/40252870443_86bb55bbe5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7924/40252870443_86bb55bbe5.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7924/40252870443_86bb55bbe5.jpg">
   </a>
   <em>Breath of relief</em>
 </div>
@@ -79,26 +77,25 @@ We quickly found a hotel to put up for the night and then went to walk around to
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7851/32275536867_cd7656952e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7851/32275536867_cd7656952e.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7851/32275536867_cd7656952e.jpg">
   </a>
   <em>Riverside</em>
 </div>
 
-There was some *bandh* in the town so our ration of **Old Monk** took a hit. We made do with Akshay Kumar's *Khiladion Ka Khiladi* instead. :joy:
+There was some _bandh_ in the town so our ration of **Old Monk** took a hit. We made do with Akshay Kumar's _Khiladion Ka Khiladi_ instead. :joy:
 
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7820/40190245273_e2b2b49718_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7820/40190245273_e2b2b49718.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7820/40190245273_e2b2b49718.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7915/47155291721_729fe32c07_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7915/47155291721_729fe32c07.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7915/47155291721_729fe32c07.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Early morning in Dirang</em>
 </div>
 
@@ -106,7 +103,7 @@ The next morning we started early as usual. Around 20 kms from Dirang we reached
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7807/46494312224_f0f0c56b30_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7807/46494312224_f0f0c56b30.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7807/46494312224_f0f0c56b30.jpg">
   </a>
   <em>Warming up</em>
 </div>
@@ -115,7 +112,7 @@ After advising one of the army guys on how to get an Android application made, w
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7814/46431791164_bb08786279_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7814/46431791164_bb08786279.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7814/46431791164_bb08786279.jpg">
   </a>
   <em>Dhundh - The Fog :cloud:</em>
 </div>
@@ -124,7 +121,7 @@ It was not until we reached the top of the pass that we saw the sun. Below us, t
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7911/46494308344_df1e367c3f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7911/46494308344_df1e367c3f.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7911/46494308344_df1e367c3f.jpg">
   </a>
   <em>Highest point of the region</em>
 </div>
@@ -135,13 +132,13 @@ This pass also marked the beginning of Tawang district. We did the customary pho
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7903/47155231971_ebfcdfa514_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7903/47155231971_ebfcdfa514.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7903/47155231971_ebfcdfa514.jpg">
   </a>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7879/47217816001_dbe812034a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7879/47217816001_dbe812034a.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7879/47217816001_dbe812034a.jpg">
   </a>
   <em>Celebrations</em>
 </div>
@@ -150,7 +147,7 @@ The **Sela Lake** was just ahead of the gate and we saw it with an underwhelming
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7878/47155292741_0989db371f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7878/47155292741_0989db371f.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7878/47155292741_0989db371f.jpg">
   </a>
   <em>Sela Lake</em>
 </div>
@@ -159,7 +156,7 @@ The road after Sela Pass was somewhat tricky. Broken and turning in U-pins for a
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7921/32213226817_14d4c3e962_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7921/32213226817_14d4c3e962.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7921/32213226817_14d4c3e962.jpg">
   </a>
   <em>Respite</em>
 </div>
@@ -168,20 +165,19 @@ The road after Sela Pass was somewhat tricky. Broken and turning in U-pins for a
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7888/47217812031_91ce9d75f9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7888/47217812031_91ce9d75f9.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7888/47217812031_91ce9d75f9.jpg">
   </a>
   <em>Celebrating the Heroes</em>
 </div>
 
-We pushed on ahead steadily and making good time. The roads got a little restrictive and the traffic picked up while we were crossing Jang, a bustling town on this side of the river Tawangchu. The other side was a treat once again. We rode on good roads and at good speed all the way till Tawang. With only 4 kilometers to go till Tawang market, I asked some locals for directions. They pointed at a "short cut" which was good tarred road but just a bit steeper. I turned and was expecting Parul to follow me. She called out in the intercom saying that she had fallen from the bike. :neutral_face: After all the rocky and muddy stretches that the road had offered us, she chose a perfectly well tarred road to fall down. The locals who had helped us with the directions helped her with the bike as well. Apart from a little fuel spillage there was not much harm done to either of them. We pushed on till the market and then stopped at a _dhaba_ to have a late lunch. This helped Parul recover her nerves and we looked up some hotel options. We found a nice hotel that would serve as our base for the next few days and settled in.
+We pushed on ahead steadily and making good time. The roads got a little restrictive and the traffic picked up while we were crossing Jang, a bustling town on this side of the river Tawangchu. The other side was a treat once again. We rode on good roads and at good speed all the way till Tawang. With only 4 kilometers to go till Tawang market, I asked some locals for directions. They pointed at a "short cut" which was good tarred road but just a bit steeper. I turned and was expecting Parul to follow me. She called out in the intercom saying that she had fallen from the bike. :neutral*face: After all the rocky and muddy stretches that the road had offered us, she chose a perfectly well tarred road to fall down. The locals who had helped us with the directions helped her with the bike as well. Apart from a little fuel spillage there was not much harm done to either of them. We pushed on till the market and then stopped at a \_dhaba* to have a late lunch. This helped Parul recover her nerves and we looked up some hotel options. We found a nice hotel that would serve as our base for the next few days and settled in.
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7926/47165707552_37771e9cde_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7926/47165707552_37771e9cde.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7926/47165707552_37771e9cde.jpg">
   </a>
   <em>Tawang Market view from our hotel</em>
 </div>
-
 
 ## Nuranag Falls
 
@@ -191,7 +187,7 @@ That afternoon we went to the Nuranag waterfalls. It was back down the valley to
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7926/47217456651_c88307c55b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7926/47217456651_c88307c55b.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7926/47217456651_c88307c55b.jpg">
   </a>
   <em>Nuranag Falls</em>
 </div>
@@ -202,21 +198,20 @@ We spent a couple of hours near the falls, taking pictures, getting drenched in 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7919/33342276938_e3462a3ea9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7919/33342276938_e3462a3ea9.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7919/33342276938_e3462a3ea9.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7854/47165706842_db28eb4b00_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7854/47165706842_db28eb4b00.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7854/47165706842_db28eb4b00.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Fooling Around</em>
 </div>
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7834/47103075842_d840005c52_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7834/47103075842_d840005c52.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7834/47103075842_d840005c52.jpg">
   </a>
   <em>Nuranag from afar</em>
 </div>
@@ -227,7 +222,7 @@ We could have easily spent more time there but we decided to head back to Tawang
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7852/47217808031_be581b6b7f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7852/47217808031_be581b6b7f.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7852/47217808031_be581b6b7f.jpg">
   </a>
   <em>Kevin sure likes Thukpa</em>
 </div>
@@ -236,18 +231,17 @@ That evening we walked up to the Buddha statue to watch a hazy sunset. The beaut
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7824/47217456121_c9a72c810b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7824/47217456121_c9a72c810b.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7824/47217456121_c9a72c810b.jpg">
   </a>
   <em>Buddha</em>
 </div>
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7904/47165704772_6c8ab6f03e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7904/47165704772_6c8ab6f03e.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7904/47165704772_6c8ab6f03e.jpg">
   </a>
   <em>Tawang!</em>
 </div>
-
 
 ## An Adventure
 
@@ -257,15 +251,14 @@ The next morning was to start early. The plan was an ambitious one but I had con
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7858/47165703582_901fd986c6_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7858/47165703582_901fd986c6.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7858/47165703582_901fd986c6.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7846/47165702802_cc789c756f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7846/47165702802_cc789c756f.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7846/47165702802_cc789c756f.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>PT Tso and Y Junction</em>
 </div>
 
@@ -273,23 +266,22 @@ We had decided to skip the pass, since we had heard it to be just another border
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7927/46303356665_64ac2eedff_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7927/46303356665_64ac2eedff.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7927/46303356665_64ac2eedff.jpg">
   </a>
 </div>
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7808/46493941794_82dee6187f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7808/46493941794_82dee6187f.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7808/46493941794_82dee6187f.jpg">
   </a>
 </div>
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7870/47155240581_6f80c727fb_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7870/47155240581_6f80c727fb.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7870/47155240581_6f80c727fb.jpg">
   </a>
   <em>Tsungetsar Lake</em>
 </div>
-
 
 The adjoining area was developed by the army; overdeveloped in our opinion, but it provided a good picnic spot for the locals. Tsungetsar had a claim to fame similar to Nuranag's. Madhuri Dixit and Shah Rukh Khan had shot a [song](https://www.youtube.com/watch?v=KF8TE2X6l8Q) here during the filming of Koyla movie. Ever since, this lake had been called **Madhuri Lake** as well.
 
@@ -297,15 +289,14 @@ The adjoining area was developed by the army; overdeveloped in our opinion, but 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7925/46494294554_69fdbf5ed2_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7925/46494294554_69fdbf5ed2.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7925/46494294554_69fdbf5ed2.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7862/47165697472_7a38befa4a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7862/47165697472_7a38befa4a.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7862/47165697472_7a38befa4a.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Selfie Spots :camera:</em>
 </div>
 
@@ -313,14 +304,14 @@ We left the lake after half an hour's break and headed for **Zemithang**. The ar
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7900/33280010408_6aaf85867b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7900/33280010408_6aaf85867b.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7900/33280010408_6aaf85867b.jpg">
   </a>
   <em>Taktsang Gompa a little after Tsungetsar</em>
 </div>
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7821/46241056895_3affca2957_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7821/46241056895_3affca2957.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7821/46241056895_3affca2957.jpg">
   </a>
   <em>Valley leading to Zemithang</em>
 </div>
@@ -329,7 +320,7 @@ We reached Zeminthang around 2 PM to see the small village perched next to the r
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7904/47165689822_91e90b5284_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7904/47165689822_91e90b5284.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7904/47165689822_91e90b5284.jpg">
   </a>
   <em>Zemithang</em>
 </div>
@@ -338,7 +329,7 @@ There was another reason I had put Zemithang on our route. There was a _stupa_ w
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7885/33280008858_96384100f0_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7885/33280008858_96384100f0.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7885/33280008858_96384100f0.jpg">
   </a>
   <em>End of the road</em>
 </div>
@@ -351,15 +342,14 @@ Not 5 minutes out of Zemithang on this route, we saw the stupa we had been searc
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7878/47165688352_1d9d8089bc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7878/47165688352_1d9d8089bc.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7878/47165688352_1d9d8089bc.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7877/33280012378_8dd51e54d0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7877/33280012378_8dd51e54d0.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7877/33280012378_8dd51e54d0.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Gorsem Chorten</em>
 </div>
 
@@ -369,38 +359,35 @@ We had called our hotel once we were back in network. We had correctly suspected
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BouCihAFJTp/?utm_source=ig_embed&amp;utm_medium=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/BouCihAFJTp/?utm_source=ig_embed&amp;utm_medium=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BouCihAFJTp/?utm_source=ig_embed&amp;utm_medium=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Karan (@grasskode)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-10-09T16:39:16+00:00">Oct 9, 2018 at 9:39am PDT</time></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
 
-
 ## In Tawang
 
 After changing the hotel on the next morning, we decided to go see the monastery. The **Tawang Monastery** is the second largest monastery in the world and the largest in India. It holds a powerful influence on the country's Mahayana Buddhism. It has a strong history behind it, of how it passed hands between Tibet, British, India and China.
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7814/33280016368_ebd86165d5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7814/33280016368_ebd86165d5.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7814/33280016368_ebd86165d5.jpg">
   </a>
 </div>
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7911/46493939754_dff110b6eb_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7911/46493939754_dff110b6eb.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7911/46493939754_dff110b6eb.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7872/46493938464_8e3f5b404a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7872/46493938464_8e3f5b404a.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7872/46493938464_8e3f5b404a.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7838/46493937834_33d709fd89_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7838/46493937834_33d709fd89.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7838/46493937834_33d709fd89.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7840/46493937164_9934072fdd_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7840/46493937164_9934072fdd.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7840/46493937164_9934072fdd.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Tawang Monastery</em>
 </div>
-
 
 We walked around and sat in the prayer chambers. We even went through the small museum that displays the history of Tawang and the migration of Tibetians when China occupied their land. Pictures show India's welcome of the Dalai Lama and of various political celebrities who have visited the Tawang monastery throughout the years.
 
@@ -408,7 +395,7 @@ After the monastery we sat in a cafe nearby for some tea and food. Then we went 
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7904/47165686542_bcd149a671_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7904/47165686542_bcd149a671.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7904/47165686542_bcd149a671.jpg">
   </a>
   <em>Tawang War Memorial</em>
 </div>
@@ -417,11 +404,10 @@ We ended the evening by watching a documentary on the war which played in an ope
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7895/46493944294_9c89bf7441_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7895/46493944294_9c89bf7441.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7895/46493944294_9c89bf7441.jpg">
   </a>
   <em>Sun sets over Tawang</em>
 </div>
-
 
 ## Chakzam Bridge
 
@@ -431,7 +417,7 @@ The ride to the bridge was through small roads with flowers on either side. The 
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7873/46431814384_055409ec6c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7873/46431814384_055409ec6c.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7873/46431814384_055409ec6c.jpg">
   </a>
   <em>Chakzam Bridge</em>
 </div>
@@ -440,11 +426,10 @@ We sat a while on the other side, admiring the valley and the bridges that were 
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7912/40190271603_11cdec7fa4_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7912/40190271603_11cdec7fa4.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7912/40190271603_11cdec7fa4.jpg">
   </a>
   <em>Could have sat here all day</em>
 </div>
-
 
 ## Return to Guwahati
 
@@ -454,7 +439,7 @@ We reached Dirang that afternoon and decided to stay in the same hotel that we h
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7827/46303332565_65fa66203e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7827/46303332565_65fa66203e.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7827/46303332565_65fa66203e.jpg">
   </a>
   <em>Late</em>
 </div>
@@ -465,21 +450,20 @@ The next morning we rode to **Sangti Valley** which is 20 kms off the main highw
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7828/32213243117_ba4ab2834a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7828/32213243117_ba4ab2834a.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7828/32213243117_ba4ab2834a.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7865/47103141072_e8778fcd00_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7865/47103141072_e8778fcd00.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7865/47103141072_e8778fcd00.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7804/40190273393_836ab3070a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7804/40190273393_836ab3070a.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7804/40190273393_836ab3070a.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7847/46431819004_8a7c793dd8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7847/46431819004_8a7c793dd8.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7847/46431819004_8a7c793dd8.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Sangti Valley</em>
 </div>
 
@@ -489,15 +473,14 @@ We rode to the **Thembang Village** next. It was a little farther and the road t
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7911/47155256771_9b9ca6fd70_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7911/47155256771_9b9ca6fd70.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7911/47155256771_9b9ca6fd70.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7884/33279997158_4b1cd47f17_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7884/33279997158_4b1cd47f17.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7884/33279997158_4b1cd47f17.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Road to Thembang</em>
 </div>
 
@@ -505,7 +488,7 @@ Thembang is a fortified village on top of the mountain and a tentative UNESCO wo
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7843/46241041645_9241b1aacf_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7843/46241041645_9241b1aacf.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7843/46241041645_9241b1aacf.jpg">
   </a>
   <em>Impressive Gate of Thembang</em>
 </div>

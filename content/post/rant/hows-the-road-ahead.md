@@ -17,7 +17,7 @@ Special shout out to our friends: [Aniket](https://www.instagram.com/aniketketka
 
 <div class="vertimg postimg">
   <a href="https://storage.googleapis.com/grasskode-public/posts/hows-the-road-ahead/book_cover.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/hows-the-road-ahead/book_cover.jpg">
+    <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/hows-the-road-ahead/book_cover.jpg">
   </a>
 </div>
 

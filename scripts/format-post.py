@@ -43,11 +43,11 @@ def format_post(filename):
             it = iter(images)
             for im in it:
                 col1 += """      <a href="{0}_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="{0}.jpg">
+        <img loading="lazy" data-src="{0}.jpg">
       </a>
 """.format(im[0])
                 col2 += """      <a href="{0}_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="{0}.jpg">
+        <img loading="lazy" data-src="{0}.jpg">
       </a>
 """.format(next(it)[0])
             replacement_text = """<div class="postimg">
@@ -57,8 +57,7 @@ def format_post(filename):
     </div>
     <div class="grid-column-50">
 {1}
-    </div>
-  </div>
+    </div>  </div>
   {2}
 </div>
 
@@ -66,7 +65,7 @@ def format_post(filename):
         else:
             replacement_text = """<div class="postimg{1}">
   <a href="{0}_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="{0}.jpg">
+    <img loading="lazy" data-src="{0}.jpg">
   </a>
   {2}
 </div>

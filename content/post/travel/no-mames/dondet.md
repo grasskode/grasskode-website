@@ -35,7 +35,7 @@ After completing our forms we walked to the immigration office and a French fami
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48087236653_c824c56c2f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48087236653_c824c56c2f_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48087236653_c824c56c2f_c.jpg">
   </a>
   <em>Walking to Laos from Cambodia :walking:</em>
 </div>
@@ -56,18 +56,16 @@ Once we had the monies we got on our boat to Don Det.
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48087236403_7478b63c1f_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48087236403_7478b63c1f_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48087236403_7478b63c1f_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48087236108_2b168fcd96_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48087236108_2b168fcd96_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48087236108_2b168fcd96_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Row row row your boat :boat:</em>
 </div>
-
 
 ## Lazy Days, Lazier Nights
 
@@ -79,7 +77,7 @@ We agreed that both of us battling the storm with our backpacks was not exactly 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48087294682_94773ec567_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48087294682_94773ec567_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48087294682_94773ec567_c.jpg">
   </a>
   <em>Welcome to Laos</em>
 </div>
@@ -88,7 +86,7 @@ The next morning we woke up late to skies conspiring evil **again**.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48086901868_0cec55f5a9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48086901868_0cec55f5a9_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48086901868_0cec55f5a9_c.jpg">
   </a>
   <em>Village view from Mama Piang's guesthouse</em>
 </div>
@@ -99,21 +97,20 @@ We reached the restaurant of the guesthouse. Mama Piang was a feisty woman runni
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48086901528_b34f433849_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48086901528_b34f433849_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48086901528_b34f433849_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48086900953_53d90f53bc_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48086900953_53d90f53bc_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48086900953_53d90f53bc_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48086958772_9ed90981f1_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48086958772_9ed90981f1_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48086958772_9ed90981f1_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48086958447_f2dc1bfc3b_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48086958447_f2dc1bfc3b_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48086958447_f2dc1bfc3b_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Lazy feels of Don Det</em>
 </div>
 
@@ -125,7 +122,7 @@ I had struck friendship with Mama Piang's girls. There was a language barrier bu
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48099659051_b32300fa2f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48099659051_b32300fa2f_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48099659051_b32300fa2f_c.jpg">
   </a>
   <em>Mama Piang by Pen</em>
 </div>
@@ -136,7 +133,7 @@ One afternoon we had one such pancake and then had a very future trip where we w
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48086866296_326d1eae0c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48086866296_326d1eae0c_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48086866296_326d1eae0c_c.jpg">
   </a>
   <em>Spaced out</em>
 </div>
@@ -147,7 +144,7 @@ After spending 2 days on the sunrise side we finally decided to move to the suns
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48086900293_d1e2d4b2e1_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48086900293_d1e2d4b2e1_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48086900293_d1e2d4b2e1_c.jpg">
   </a>
   <em>To the other side</em>
 </div>
@@ -156,7 +153,7 @@ There was something about Don Det which was immensely calming. Maybe it was the 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48086899923_ccbffa0a20_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48086899923_ccbffa0a20_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48086899923_ccbffa0a20_c.jpg">
   </a>
   <em>Our new digs on the sunset side</em>
 </div>
@@ -165,7 +162,7 @@ This side seemed way more beautiful. One of the reason could be we were always u
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48087061818_8423c78d87_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48087061818_8423c78d87_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48087061818_8423c78d87_c.jpg">
   </a>
   <em>The colors of the setting sun</em>
 </div>
@@ -174,7 +171,7 @@ Our favorite thing to do had become going to the café next to our guest house t
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48086893358_d7f0703df1_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48086893358_d7f0703df1_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48086893358_d7f0703df1_c.jpg">
   </a>
   <em>Them colors!</em>
 </div>
@@ -183,15 +180,14 @@ Our favorite thing to do had become going to the café next to our guest house t
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48086865251_be1fae1d55_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48086865251_be1fae1d55_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48086865251_be1fae1d55_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48086859376_b24c0ef81b_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48086859376_b24c0ef81b_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48086859376_b24c0ef81b_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Doggie love :dog:</em>
 </div>
 
@@ -199,7 +195,7 @@ After 3 days of nothingness guilt took over and we decided to rent out a cycle a
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48093675916_0b7c305f81_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48093675916_0b7c305f81_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48093675916_0b7c305f81_c.jpg">
   </a>
   <em>Parking area</em>
 </div>
@@ -208,15 +204,14 @@ After 3 days of nothingness guilt took over and we decided to rent out a cycle a
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48086898688_7e25fc8c66_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48086898688_7e25fc8c66_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48086898688_7e25fc8c66_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48087196801_83ebd731d4_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48087196801_83ebd731d4_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48087196801_83ebd731d4_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Yummy food from Garden of Nang :yum:</em>
 </div>
 
@@ -224,7 +219,7 @@ The beach was a private area only for the customers of Garden of Nang via strict
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48093714033_1ac7a2c56e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48093714033_1ac7a2c56e_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48093714033_1ac7a2c56e_c.jpg">
   </a>
   <em>The beach</em>
 </div>
@@ -233,7 +228,7 @@ For the next few hours we were in and out of the river. It wasn't exactly the be
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48093677791_c4a87b3a4c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48093677791_c4a87b3a4c_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48093677791_c4a87b3a4c_c.jpg">
   </a>
   <em>Soaking up the sun :sunny:</em>
 </div>
@@ -242,7 +237,7 @@ We were trying to sleep on the beach when we noticed a lot of commotion. We woke
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48086862796_4e6eb69457_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48086862796_4e6eb69457_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48086862796_4e6eb69457_c.jpg">
   </a>
   <em>We found Shangri La :pray:</em>
 </div>
@@ -253,21 +248,20 @@ We cycled all the way to the old French bridge which was the way to cross over t
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48087291942_42c75e5c2f_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48087291942_42c75e5c2f_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48087291942_42c75e5c2f_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48086950652_822f872b80_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48086950652_822f872b80_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48086950652_822f872b80_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48086861136_0a6a37fc55_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48086861136_0a6a37fc55_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48086861136_0a6a37fc55_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48086862366_11c79ce785_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48086862366_11c79ce785_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48086862366_11c79ce785_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Joys of two wheels</em>
 </div>
 
@@ -277,7 +271,7 @@ After a lot of activity we sat down for another of our favourite thing to do on 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48087263483_f657c2d367_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48087263483_f657c2d367_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48087263483_f657c2d367_c.jpg">
   </a>
   <em>The last sunset on Don Det</em>
 </div>
@@ -287,13 +281,13 @@ After a lot of activity we sat down for another of our favourite thing to do on 
 We packed our bags and went to the pier for a boat back to Nakasong. While we waited for our ride we discussed the following:
 
 - What did we do on the island for 5 days? </br>
-Nothing much really besides chilling. *Nothing* :grin:
+  Nothing much really besides chilling. _Nothing_ :grin:
 
 - Should we have booked a resort/hotel type fancy place to chill? </br>
-There were a couple of options if we really want to go for it. The island comprised of basic and clean guesthouses which were good enough. Yes the WIFI was only available at the restaurant which was good. Yes there was no air conditioning, that was fine too!
+  There were a couple of options if we really want to go for it. The island comprised of basic and clean guesthouses which were good enough. Yes the WIFI was only available at the restaurant which was good. Yes there was no air conditioning, that was fine too!
 
 - Will we recommend this place to anyone? </br>
-Absolutely! If someone wants to do nothing then its a perfect setting. If someone wants to do things there are hordes of options. Get spaced out, cycle around, go tubing, maybe go see Don Khon and its waterfalls, learn to cook, go fishing with the locals. Everything will remind us of how we don't really need a lot of money and frills to be happy and content. All of this if you can escape the spell of calmness the river casts on you. If you stare at the river for too long you are bound to be spellbound :stars: and then you just don't move! At all...
+  Absolutely! If someone wants to do nothing then its a perfect setting. If someone wants to do things there are hordes of options. Get spaced out, cycle around, go tubing, maybe go see Don Khon and its waterfalls, learn to cook, go fishing with the locals. Everything will remind us of how we don't really need a lot of money and frills to be happy and content. All of this if you can escape the spell of calmness the river casts on you. If you stare at the river for too long you are bound to be spellbound :stars: and then you just don't move! At all...
 
 We took our boat back to Nakasong :boat::man::woman::heart: and can now proudly say **Been there, Don Det**.
 

@@ -9,7 +9,7 @@ replace:
 
 <div class="postimg">
   <a href="$1_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="$1.jpg">
+    <img loading="lazy" data-src="$1.jpg">
   </a>
   <em>$2</em>
 </div>
@@ -28,15 +28,14 @@ replace:
   <div class="grid">
     <div class="grid-column-50">
       <a href="$1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$1.jpg">
+        <img loading="lazy" data-src="$1.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="$3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$3.jpg">
+        <img loading="lazy" data-src="$3.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>title</em>
 </div>
 
@@ -56,21 +55,20 @@ replace:
   <div class="grid">
     <div class="grid-column-50">
       <a href="$1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$1.jpg">
+        <img loading="lazy" data-src="$1.jpg">
       </a>
       <a href="$5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$5.jpg">
+        <img loading="lazy" data-src="$5.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="$3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$3.jpg">
+        <img loading="lazy" data-src="$3.jpg">
       </a>
       <a href="$7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$7.jpg">
+        <img loading="lazy" data-src="$7.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>title</em>
 </div>
 
@@ -92,27 +90,26 @@ replace:
   <div class="grid">
     <div class="grid-column-50">
       <a href="$1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$1.jpg">
+        <img loading="lazy" data-src="$1.jpg">
       </a>
       <a href="$5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$5.jpg">
+        <img loading="lazy" data-src="$5.jpg">
       </a>
       <a href="$9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$9.jpg">
+        <img loading="lazy" data-src="$9.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="$3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$3.jpg">
+        <img loading="lazy" data-src="$3.jpg">
       </a>
       <a href="$7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$7.jpg">
+        <img loading="lazy" data-src="$7.jpg">
       </a>
       <a href="$11_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$11.jpg">
+        <img loading="lazy" data-src="$11.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>title</em>
 </div>
 
@@ -136,33 +133,32 @@ replace:
   <div class="grid">
     <div class="grid-column-50">
       <a href="$1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$1.jpg">
+        <img loading="lazy" data-src="$1.jpg">
       </a>
       <a href="$5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$5.jpg">
+        <img loading="lazy" data-src="$5.jpg">
       </a>
       <a href="$9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$9.jpg">
+        <img loading="lazy" data-src="$9.jpg">
       </a>
       <a href="$13_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$13.jpg">
+        <img loading="lazy" data-src="$13.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="$3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$3.jpg">
+        <img loading="lazy" data-src="$3.jpg">
       </a>
       <a href="$7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$7.jpg">
+        <img loading="lazy" data-src="$7.jpg">
       </a>
       <a href="$11_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$11.jpg">
+        <img loading="lazy" data-src="$11.jpg">
       </a>
       <a href="$15_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$15.jpg">
+        <img loading="lazy" data-src="$15.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>title</em>
 </div>
 
@@ -188,39 +184,38 @@ replace:
   <div class="grid">
     <div class="grid-column-50">
       <a href="$1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$1.jpg">
+        <img loading="lazy" data-src="$1.jpg">
       </a>
       <a href="$5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$5.jpg">
+        <img loading="lazy" data-src="$5.jpg">
       </a>
       <a href="$9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$9.jpg">
+        <img loading="lazy" data-src="$9.jpg">
       </a>
       <a href="$13_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$13.jpg">
+        <img loading="lazy" data-src="$13.jpg">
       </a>
       <a href="$17_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$17.jpg">
+        <img loading="lazy" data-src="$17.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="$3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$3.jpg">
+        <img loading="lazy" data-src="$3.jpg">
       </a>
       <a href="$7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$7.jpg">
+        <img loading="lazy" data-src="$7.jpg">
       </a>
       <a href="$11_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$11.jpg">
+        <img loading="lazy" data-src="$11.jpg">
       </a>
       <a href="$15_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$15.jpg">
+        <img loading="lazy" data-src="$15.jpg">
       </a>
       <a href="$19_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$19.jpg">
+        <img loading="lazy" data-src="$19.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>title</em>
 </div>
 
@@ -248,45 +243,44 @@ replace:
   <div class="grid">
     <div class="grid-column-50">
       <a href="$1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$1.jpg">
+        <img loading="lazy" data-src="$1.jpg">
       </a>
       <a href="$5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$5.jpg">
+        <img loading="lazy" data-src="$5.jpg">
       </a>
       <a href="$9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$9.jpg">
+        <img loading="lazy" data-src="$9.jpg">
       </a>
       <a href="$13_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$13.jpg">
+        <img loading="lazy" data-src="$13.jpg">
       </a>
       <a href="$17_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$17.jpg">
+        <img loading="lazy" data-src="$17.jpg">
       </a>
       <a href="$21_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$21.jpg">
+        <img loading="lazy" data-src="$21.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="$3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$3.jpg">
+        <img loading="lazy" data-src="$3.jpg">
       </a>
       <a href="$7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$7.jpg">
+        <img loading="lazy" data-src="$7.jpg">
       </a>
       <a href="$11_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$11.jpg">
+        <img loading="lazy" data-src="$11.jpg">
       </a>
       <a href="$15_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$15.jpg">
+        <img loading="lazy" data-src="$15.jpg">
       </a>
       <a href="$19_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$19.jpg">
+        <img loading="lazy" data-src="$19.jpg">
       </a>
       <a href="$23_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$23.jpg">
+        <img loading="lazy" data-src="$23.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>title</em>
 </div>
 
@@ -318,57 +312,56 @@ replace:
   <div class="grid">
     <div class="grid-column-50">
       <a href="$1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$1.jpg">
+        <img loading="lazy" data-src="$1.jpg">
       </a>
       <a href="$5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$5.jpg">
+        <img loading="lazy" data-src="$5.jpg">
       </a>
       <a href="$9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$9.jpg">
+        <img loading="lazy" data-src="$9.jpg">
       </a>
       <a href="$13_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$13.jpg">
+        <img loading="lazy" data-src="$13.jpg">
       </a>
       <a href="$17_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$17.jpg">
+        <img loading="lazy" data-src="$17.jpg">
       </a>
       <a href="$21_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$21.jpg">
+        <img loading="lazy" data-src="$21.jpg">
       </a>
       <a href="$25_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$25.jpg">
+        <img loading="lazy" data-src="$25.jpg">
       </a>
       <a href="$29_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$29.jpg">
+        <img loading="lazy" data-src="$29.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="$3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$3.jpg">
+        <img loading="lazy" data-src="$3.jpg">
       </a>
       <a href="$7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$7.jpg">
+        <img loading="lazy" data-src="$7.jpg">
       </a>
       <a href="$11_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$11.jpg">
+        <img loading="lazy" data-src="$11.jpg">
       </a>
       <a href="$15_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$15.jpg">
+        <img loading="lazy" data-src="$15.jpg">
       </a>
       <a href="$19_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$19.jpg">
+        <img loading="lazy" data-src="$19.jpg">
       </a>
       <a href="$23_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$23.jpg">
+        <img loading="lazy" data-src="$23.jpg">
       </a>
       <a href="$27_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$27.jpg">
+        <img loading="lazy" data-src="$27.jpg">
       </a>
       <a href="$31_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$31.jpg">
+        <img loading="lazy" data-src="$31.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>title</em>
 </div>
 
@@ -402,62 +395,61 @@ replace:
   <div class="grid">
     <div class="grid-column-50">
       <a href="$1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$1.jpg">
+        <img loading="lazy" data-src="$1.jpg">
       </a>
       <a href="$5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$5.jpg">
+        <img loading="lazy" data-src="$5.jpg">
       </a>
       <a href="$9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$9.jpg">
+        <img loading="lazy" data-src="$9.jpg">
       </a>
       <a href="$13_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$13.jpg">
+        <img loading="lazy" data-src="$13.jpg">
       </a>
       <a href="$17_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$17.jpg">
+        <img loading="lazy" data-src="$17.jpg">
       </a>
       <a href="$21_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$21.jpg">
+        <img loading="lazy" data-src="$21.jpg">
       </a>
       <a href="$25_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$25.jpg">
+        <img loading="lazy" data-src="$25.jpg">
       </a>
       <a href="$29_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$29.jpg">
+        <img loading="lazy" data-src="$29.jpg">
       </a>
       <a href="$33_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$33.jpg">
+        <img loading="lazy" data-src="$33.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="$3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$3.jpg">
+        <img loading="lazy" data-src="$3.jpg">
       </a>
       <a href="$7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$7.jpg">
+        <img loading="lazy" data-src="$7.jpg">
       </a>
       <a href="$11_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$11.jpg">
+        <img loading="lazy" data-src="$11.jpg">
       </a>
       <a href="$15_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$15.jpg">
+        <img loading="lazy" data-src="$15.jpg">
       </a>
       <a href="$19_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$19.jpg">
+        <img loading="lazy" data-src="$19.jpg">
       </a>
       <a href="$23_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$23.jpg">
+        <img loading="lazy" data-src="$23.jpg">
       </a>
       <a href="$27_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$27.jpg">
+        <img loading="lazy" data-src="$27.jpg">
       </a>
       <a href="$31_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$31.jpg">
+        <img loading="lazy" data-src="$31.jpg">
       </a>
       <a href="$35_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="$35.jpg">
+        <img loading="lazy" data-src="$35.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>title</em>
 </div>

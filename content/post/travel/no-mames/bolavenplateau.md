@@ -17,7 +17,7 @@ We left Don Det in a similar fashion as we had entered it. Booked a boat + bus t
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48368943081_daf26c2dec_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48368943081_daf26c2dec_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48368943081_daf26c2dec_c.jpg">
   </a>
   <em>Bus feels, that guy in the background :joy:</em>
 </div>
@@ -30,7 +30,7 @@ I really liked that everyone called it **The LOOP**. It felt like being on **The
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48368942586_26cbbdd3e3_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48368942586_26cbbdd3e3_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48368942586_26cbbdd3e3_c.jpg">
   </a>
   <em>The route map</em>
 </div>
@@ -46,15 +46,14 @@ There were two parts of the loop, the short one which one could ideally do in 3 
 
 Oh wait! I forgot to tell you about the bikes :joy:. Okay, so first things first, these were semi automatic scooties and not the bike that I had imagined. This scooty was really very funny because it was geared but it does not have a clutch :joy:. The good part was that Miss Noy bikes were in a good condition.
 
-The session ended and we were undecided on how long we want to be on the loop. We were tilting towards the big loop. We anyway had to pay at the end, once we were back that is, so we agreed that we will decide the duration while we are on the loop. We confirmed  that we would be picking up one bike the next day and left. That night Karan gave in to his craving for Vietnamese food which had started when we had walked past a Vietnamese restaurant that morning. Pakse is very close to Vietnam hence Karan was sure the food would be authentic. It was my first time with Vietnamese food and it was delicious :yum:
+The session ended and we were undecided on how long we want to be on the loop. We were tilting towards the big loop. We anyway had to pay at the end, once we were back that is, so we agreed that we will decide the duration while we are on the loop. We confirmed that we would be picking up one bike the next day and left. That night Karan gave in to his craving for Vietnamese food which had started when we had walked past a Vietnamese restaurant that morning. Pakse is very close to Vietnam hence Karan was sure the food would be authentic. It was my first time with Vietnamese food and it was delicious :yum:
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48369077027_1f847fea33_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48369077027_1f847fea33_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48369077027_1f847fea33_c.jpg">
   </a>
   <em>That happy face :heart:</em>
 </div>
-
 
 ## Do We Want To Do This?
 
@@ -62,7 +61,7 @@ The next day we packed up one of our daypacks with clothes and another dry bag w
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467173607_1fedc218ed_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467173607_1fedc218ed_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467173607_1fedc218ed_z.jpg">
   </a>
   <em>Off we go!</em>
 </div>
@@ -71,32 +70,31 @@ I was the first driver and I was kinda dreading the entire left hand free system
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48506566632_b0a511cd7f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48506566632_b0a511cd7f_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48506566632_b0a511cd7f_z.jpg">
   </a>
   <em>Day 1 on the loop</em>
 </div>
 
-The roads were wide, there wasn't much traffic, we kept passing small villages and it was decently hot.  
+The roads were wide, there wasn't much traffic, we kept passing small villages and it was decently hot.
 
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48466962007_f6d7052be4_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48466962007_f6d7052be4.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48466962007_f6d7052be4.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48467007556_b7f2d92c90_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467007556_b7f2d92c90_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467007556_b7f2d92c90_z.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48466997871_35bf3b65e9_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48466997871_35bf3b65e9_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48466997871_35bf3b65e9_z.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48467123962_909b4339d5_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467123962_909b4339d5_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467123962_909b4339d5_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Road to Tad Hang</em>
 </div>
 
@@ -104,7 +102,7 @@ The locals were interested in who we were and on waving "Hi" to them they would 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467127247_c2f2946c45_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467127247_c2f2946c45_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467127247_c2f2946c45_z.jpg">
   </a>
   <em>Sorry not sorry for that getup :joy:</em>
 </div>
@@ -113,7 +111,7 @@ Our first stop was [Mr. Vieng's coffee Homestay](https://www.tripadvisor.com/Hot
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48369076172_ccb90c65b6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48369076172_ccb90c65b6_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48369076172_ccb90c65b6_z.jpg">
   </a>
   <em>Breather from the sun :sunny:</em>
 </div>
@@ -130,7 +128,7 @@ The waterfall was full of locals enjoying themselves. There were two ways to get
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467883361_124b45bcf3_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467883361_124b45bcf3_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467883361_124b45bcf3_c.jpg">
   </a>
   <em>Tad Hang waterfall</em>
 </div>
@@ -139,21 +137,20 @@ The waterfall was full of locals enjoying themselves. There were two ways to get
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48466962706_00e74ab0f9_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48466962706_00e74ab0f9_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48466962706_00e74ab0f9_z.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48468061177_defde117a1_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48468061177_defde117a1_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48468061177_defde117a1_z.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48467892226_a72a19ce9e_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467892226_a72a19ce9e_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467892226_a72a19ce9e_z.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48468007302_cd5b6f12ec_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48468007302_cd5b6f12ec_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48468007302_cd5b6f12ec_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>How to enjoy a waterfall in the hot sun 101 :sunglasses:</em>
 </div>
 
@@ -163,16 +160,14 @@ After frolicking enough in Tad Hang we decided to go to Tad Lo as well. It was a
 
 <div class="postimg">
   <div class="video-container">
-    <iframe src="https://player.vimeo.com/video/353276877" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
-  <em>Tad Lo</em>
-  </div>
+    <iframe src="https://player.vimeo.com/video/353276877" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
+  <em>Tad Lo</em>  </div>
 
 Too bad we had reached here after sun down, Karan would have loved to swim here as well. We sat here for a while wondering what it would have been like had we come earlier and how deep the pool was :stuck_out_tongue:.
 
 <div class="postimg vertimg">
  <a href="https://live.staticflickr.com/65535/48369066612_e285f461a8_c.jpg" data-toggle="lightbox">
-   <img class="lazy" data-src="https://live.staticflickr.com/65535/48369066612_e285f461a8_c.jpg">
+   <img loading="lazy" src="https://live.staticflickr.com/65535/48369066612_e285f461a8_c.jpg">
  </a>
  <em>Tad Lo & that temptation to jump in</em>
 </div>
@@ -181,8 +176,7 @@ We were losing light so we started heading back. By the time we had crossed the 
 
 <div class="postimg">
   <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/353274961" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+  <iframe src="https://player.vimeo.com/video/353274961" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Alien Sounds of Tad Hang</em>
 </div>
 
@@ -194,7 +188,7 @@ The next day started off well. The road transitioned to beautiful sceneries a fe
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48520990871_9f42806962_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48520990871_9f42806962_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48520990871_9f42806962_c.jpg">
   </a>
   <em>Day 2 on the Loop</em>
 </div>
@@ -205,33 +199,32 @@ The villages became sparse and the traffic thinned down. It rained a bit as well
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48467982277_83565b73e2_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467982277_83565b73e2_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467982277_83565b73e2_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48467083697_c7081cf143_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467083697_c7081cf143_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467083697_c7081cf143_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48467077902_6d2aab4ff6_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467077902_6d2aab4ff6_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467077902_6d2aab4ff6_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48467056752_98d8607b71_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467056752_98d8607b71_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467056752_98d8607b71_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48466900406_46d0437d87_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48466900406_46d0437d87_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48466900406_46d0437d87_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48467032932_514d1ee5df_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467032932_514d1ee5df_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467032932_514d1ee5df_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48466920206_484b14e25c_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48466920206_484b14e25c_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48466920206_484b14e25c_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48467916072_437b70a0b9_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467916072_437b70a0b9_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467916072_437b70a0b9_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Road to Tad Hua Khon waterfall(Sekong)</em>
 </div>
 
@@ -241,7 +234,7 @@ We reached P&S Garden well in time. It seemed like a very cool place and made us
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48369055792_251ca4b8d3_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48369055792_251ca4b8d3_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48369055792_251ca4b8d3_c.jpg">
   </a>
   <em>Walk way to Tad Hua Khon</em>
 </div>
@@ -250,7 +243,7 @@ Tad Hua Khon waterfall was so calm and beautiful. This wasn't exactly the peak r
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48368922931_77d2fa1574_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48368922931_77d2fa1574_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48368922931_77d2fa1574_c.jpg">
   </a>
   <em>The waterfall area</em>
 </div>
@@ -261,15 +254,14 @@ We sat down to breathe and take it all in. We were the only ones here. We were t
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48368923576_8687ec0c53_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48368923576_8687ec0c53_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48368923576_8687ec0c53_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48369060112_c1c84787f4_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48369060112_c1c84787f4_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48369060112_c1c84787f4_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Priceless buffoonery!</em>
 </div>
 
@@ -279,21 +271,20 @@ After we settled down for some coffee and tea the doggies melted our hearts. We 
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48368904541_12894bc052_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48368904541_12894bc052_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48368904541_12894bc052_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48369045222_d6004f539e_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48369045222_d6004f539e_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48369045222_d6004f539e_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48368916836_02ea5d29c9_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48368916836_02ea5d29c9_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48368916836_02ea5d29c9_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48369042557_8e0ddf1ee3_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48369042557_8e0ddf1ee3_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48369042557_8e0ddf1ee3_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Glamping :grin:</em>
 </div>
 
@@ -301,8 +292,7 @@ I was so happy we made this call. The café at the site was to close at 6 PM so 
 
 <div class="postimg">
   <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/353276274" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+  <iframe src="https://player.vimeo.com/video/353276274" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>In the jungle</em>
 </div>
 
@@ -310,8 +300,7 @@ I was super excited with all the sounds. Karan was sure I would scare myself wit
 
 <div class="postimg">
   <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/353276773" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+  <iframe src="https://player.vimeo.com/video/353276773" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>The Gecko seems to be saying "Fuck you" :joy:</em>
 </div>
 
@@ -319,7 +308,7 @@ At dinner Karan ended up giving a large portion of his dinner to the five dogs a
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48369048462_bc70c3d4fb_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48369048462_bc70c3d4fb_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48369048462_bc70c3d4fb_c.jpg">
   </a>
   <em>Good morning indeed :kiss:</em>
 </div>
@@ -328,14 +317,14 @@ We were thinking if we wanted to stay here for another day. The cute dogs were n
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48369038312_fe441320d8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48369038312_fe441320d8_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48369038312_fe441320d8_c.jpg">
   </a>
   <em>Are you guys thinking of leaving?</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48368899971_f9fbab24f8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48368899971_f9fbab24f8_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48368899971_f9fbab24f8_c.jpg">
   </a>
   <em>Are you seriously leaving?</em>
 </div>
@@ -354,7 +343,7 @@ The route looked like follows except that the missing link here was an actual ro
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48695344377_d6c36c10b9_z.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48695344377_d6c36c10b9_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48695344377_d6c36c10b9_z.jpg">
   </a>
   <em>Day 3 on the loop</em>
 </div>
@@ -363,7 +352,7 @@ Now, when we left P&S garden there was a petrol pump about 3kms in the opposite 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467016512_9f2789e2be_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467016512_9f2789e2be_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467016512_9f2789e2be_c.jpg">
   </a>
   <em>The road</em>
 </div>
@@ -372,7 +361,7 @@ Just before entering the national park it hit us that well we might not be able 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467006162_38be920b51_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467006162_38be920b51_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467006162_38be920b51_c.jpg">
   </a>
   <em>The hilly roads of the national park</em>
 </div>
@@ -383,21 +372,21 @@ The waterfall of the day was on the way to our stop for the day but then again Y
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48368896496_d891f1cb08_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48368896496_d891f1cb08_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48368896496_d891f1cb08_c.jpg">
   </a>
   <em>Our stay for the day</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48369034662_ddc0c94ba6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48369034662_ddc0c94ba6_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48369034662_ddc0c94ba6_c.jpg">
   </a>
   <em>More dogs :heart:</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48369033077_8db116bbbf_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48369033077_8db116bbbf_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48369033077_8db116bbbf_c.jpg">
   </a>
   <em>Yves said we should be careful about Noodle soups! :joy:</em>
 </div>
@@ -410,15 +399,14 @@ After leaving most of our stuff at our cute hotel we decided to take on the adve
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48467637477_8f877d4048_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467637477_8f877d4048_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467637477_8f877d4048_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48467836687_3b35dd2ef1_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467836687_3b35dd2ef1_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467836687_3b35dd2ef1_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Road to Tayicseua</em>
 </div>
 
@@ -426,7 +414,7 @@ We were not on the road which was the "mug" road. I was a little skeptical about
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48369002162_9ea30d3d8a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48369002162_9ea30d3d8a_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48369002162_9ea30d3d8a_c.jpg">
   </a>
   <em>The viewpoint</em>
 </div>
@@ -437,7 +425,7 @@ About a few meters after we started descending we saw the first waterfall. Now t
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48369031052_5fdce2945f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48369031052_5fdce2945f_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48369031052_5fdce2945f_c.jpg">
   </a>
   <em>Waterfall 1, not very far from the starting point :walking:</em>
 </div>
@@ -448,15 +436,12 @@ We started off to the jungle after this. It was hot and the warning signs of ven
  <div class="grid">
   <div class="grid-column-50">
   <a href="https://live.staticflickr.com/65535/48467645191_1d3ae188e6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467645191_1d3ae188e6_c.jpg">
-  </a>
-  </div>
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467645191_1d3ae188e6_c.jpg">
+  </a>  </div>
   <div class="grid-column-50">
   <a href="https://live.staticflickr.com/65535/48467631531_bbc1b77d51_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467631531_bbc1b77d51_c.jpg">
-  </a>
-  </div>
-  </div>
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467631531_bbc1b77d51_c.jpg">
+  </a>  </div>  </div>
   <em>Promising start :sunny: :snake:</em>
 </div>
 
@@ -464,7 +449,7 @@ The hike to the waterfalls starts with a descent. From one waterfall to another 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48532035342_92c028267c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48532035342_92c028267c_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48532035342_92c028267c_c.jpg">
   </a>
   <em>The beauty of Waterfall 2 :scream::heart:</em>
 </div>
@@ -473,8 +458,7 @@ While I was struggling with the slush and the fear of snakes Karan went close to
 
 <div class="postimg">
   <div class="video-container">
-    <iframe src="https://player.vimeo.com/video/353276479" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+    <iframe src="https://player.vimeo.com/video/353276479" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Closer look of waterfall 2 from my slushy viewpoint</em>
 </div>
 
@@ -482,7 +466,7 @@ We basked in the beauty of this waterfall from our different viewpoints as much 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467735672_fce92a52ed_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467735672_fce92a52ed_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467735672_fce92a52ed_c.jpg">
   </a>
   <em>Waterfall 3</em>
 </div>
@@ -491,7 +475,7 @@ Here we had enough space to rest. We dumped our tiny bag and took off our shoes 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48369020647_c25ee09a55_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48369020647_c25ee09a55_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48369020647_c25ee09a55_c.jpg">
   </a>
   <em>Checking the depth of water without glasses 101 :joy:</em>
 </div>
@@ -502,7 +486,7 @@ Karan meanwhile reached what was possibly Waterfall 4 but he wasn't super sure.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467707462_1e9aaa1c18_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467707462_1e9aaa1c18_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467707462_1e9aaa1c18_c.jpg">
   </a>
   <em>Waterfall 4? Maybe :confused:</em>
 </div>
@@ -513,15 +497,14 @@ I reached the café panting and ordered a cold tea for myself. The café was pre
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48368872296_38db62583e_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48368872296_38db62583e_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48368872296_38db62583e_c.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48369009937_16dc9f6ab1_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48369009937_16dc9f6ab1_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48369009937_16dc9f6ab1_c.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Pretty restaurant :smile:</em>
 </div>
 
@@ -533,21 +516,20 @@ The café also had a loving dog and a weird cat that wanted to play with me whil
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48369015527_8533a8a237_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48369015527_8533a8a237_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48369015527_8533a8a237_c.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48369014052_5a583a9a2c_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48369014052_5a583a9a2c_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48369014052_5a583a9a2c_c.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48369005812_3ea3e4c9bc_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48369005812_3ea3e4c9bc_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48369005812_3ea3e4c9bc_c.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48368863441_64143b2138_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48368863441_64143b2138_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48368863441_64143b2138_c.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The :dog: who wanted to go with us :heart: and the :cat: :angry:</em>
 </div>
 
@@ -557,15 +539,13 @@ After a day well spent we started our way back to the hotel. This time Karan wan
   <div class="grid">
   <div class="grid-column-50">
   <a href="https://live.staticflickr.com/65535/48466849901_e2c069199b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48466849901_e2c069199b_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48466849901_e2c069199b_c.jpg">
   </a>
 </div>
 <div class="grid-column-50">
   <a href="https://live.staticflickr.com/65535/48466994502_8d8c963018_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48466994502_8d8c963018_c.jpg">
-  </a>
-  </div>
-  </div>
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48466994502_8d8c963018_c.jpg">
+  </a>  </div>  </div>
   <em>The road back :v:</em>
 </div>
 
@@ -573,7 +553,7 @@ In the evening we were venturing out for some coffee when a man opposite to our 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48531871571_090c66dbea_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48531871571_090c66dbea_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48531871571_090c66dbea_c.jpg">
   </a>
   <em>Sweet water :grin:</em>
 </div>
@@ -588,7 +568,7 @@ We had breakfast and left for our next stop, Paksong. It wasn't far and we wante
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48532104366_7462cc4035_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48532104366_7462cc4035_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48532104366_7462cc4035_c.jpg">
   </a>
   <em>Day 4 on the loop</em>
 </div>
@@ -599,21 +579,20 @@ We were looking for a certain café to take a break, it was cold and we would ha
 
 There were birds and rabbits in a big enclosed setup with their preferred environments. And to meet them you had to enter the enclosure via a gate and feel comfortable with them. This was so relaxing.
 
-Our first stop was the rabbits :rabbit:. There were adults and babies and we had carrots for them of course.  
+Our first stop was the rabbits :rabbit:. There were adults and babies and we had carrots for them of course.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467414377_847fc99716_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467414377_847fc99716_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467414377_847fc99716_c.jpg">
   </a>
   <em>:heart:</em>
 </div>
 
 <div class="postimg">
   <div class="video-container">
-    <iframe src="https://player.vimeo.com/video/353679784" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+    <iframe src="https://player.vimeo.com/video/353679784" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>What's up doc?</em>
-</div>  
+</div>
 
 The really small babies were inside a small house which was obviously stinking of rabbit poop. They were with the mum growing up :heart:. I just couldn't get enough of the rabbits but eventually we left to move to the birds.
 
@@ -623,21 +602,20 @@ The next stop were the parakeets. We could already hear them while we were outsi
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48467381647_eab25c1cdb_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467381647_eab25c1cdb_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467381647_eab25c1cdb_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48467210736_7057d0c2e2_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467210736_7057d0c2e2_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467210736_7057d0c2e2_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48467371332_8451b16aa1_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467371332_8451b16aa1_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467371332_8451b16aa1_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48467394342_36c4b44625_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467394342_36c4b44625_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467394342_36c4b44625_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The madness of Parakeets :grin:</em>
 </div>
 
@@ -645,8 +623,7 @@ These random decisions of just going to a place turn out to be so good. We were 
 
 <div class="postimg">
   <div class="video-container">
-    <iframe src="https://player.vimeo.com/video/353680619" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+    <iframe src="https://player.vimeo.com/video/353680619" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em> Dance with me! </em>
 </div>
 
@@ -654,7 +631,7 @@ We thanked the family and discussed how happy we were as we started to make a mo
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48531866026_920964d3fc_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48531866026_920964d3fc_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48531866026_920964d3fc_c.jpg">
   </a>
   <em>Happy Birdie :relaxed:</em>
 </div>
@@ -663,7 +640,7 @@ We reached Paksong and found us a nice place to stay, [Xokbounmy Guest House](ht
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48368858791_8b07823ee2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48368858791_8b07823ee2_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48368858791_8b07823ee2_c.jpg">
   </a>
   <em>As good as it gets</em>
 </div>
@@ -672,7 +649,7 @@ We walked around the pretty little town. It was small and peaceful. There was a 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48466820706_88e6bbe4f5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48466820706_88e6bbe4f5_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48466820706_88e6bbe4f5_c.jpg">
   </a>
   <em>Sunset views of Paksong</em>
 </div>
@@ -685,15 +662,14 @@ The day started with us back at the lovely café we had seen the day before. It 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48368857616_2ba66aea33_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48368857616_2ba66aea33_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48368857616_2ba66aea33_c.jpg">
   </a>
   <em>JHAI coffee House. Damn that hat!</em>
 </div>
 
 <div class="postimg">
   <div class="video-container">
-    <iframe src="https://player.vimeo.com/video/358965012" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+    <iframe src="https://player.vimeo.com/video/358965012" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>The excitement to answer this question! :heart:</em>
 </div>
 
@@ -701,7 +677,7 @@ The target of the day was short, only 53 Kms back to Pakse. We had to see a few 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48532450686_8bc2b6f5e5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48532450686_8bc2b6f5e5_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48532450686_8bc2b6f5e5_c.jpg">
   </a>
   <em>Day 5 on the loop</em>
 </div>
@@ -712,7 +688,7 @@ The first stop was Tad Yuang waterfall followed by a few other waterfalls, all v
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467351392_72fb34266a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467351392_72fb34266a_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467351392_72fb34266a_c.jpg">
   </a>
   <em>Well developed tourist infra at Tad Yuang</em>
 </div>
@@ -721,14 +697,14 @@ We were skeptical about what to expect but Tad Yuang was beautiful. There were p
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467334007_7b0e3ec48a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467334007_7b0e3ec48a_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467334007_7b0e3ec48a_z.jpg">
   </a>
   <em>Tad Yuang Waterfall :heart: up close</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48368983697_3d38701470_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48368983697_3d38701470_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48368983697_3d38701470_c.jpg">
   </a>
 <em>Tad Yuang Viewpoint</em>
 </div>
@@ -745,18 +721,16 @@ We reached Tad Champee with black clouds hovering above. We parked our bike and 
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48467071731_cbe1317070_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467071731_cbe1317070_c.jpg">
-    </a>
-  </div>
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467071731_cbe1317070_c.jpg">
+    </a>  </div>
 
   <div class="grid-column-50">
   <a href="https://live.staticflickr.com/65535/48533297742_23f68748b2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48533297742_23f68748b2_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48533297742_23f68748b2_c.jpg">
   </a>
     </div>
     </div>
-    <em>Tad Champee(Laos) to the left and Krang Shuri(Meghalaya) to the right</em>
-  </div>
+    <em>Tad Champee(Laos) to the left and Krang Shuri(Meghalaya) to the right</em>  </div>
 
 The only difference was the weather. Krang Shuri was all blue and sunny and Tad Champee was all cloudy and thunder-stormy. We had only reached the base when it started raining. We had to get into the water so it didn't matter till I saw lightening. I told Karan that the only reason the guys at the swimming pool back home used to ask us to get out of the pool when it rained was that they did not want us electrocuted in case lightening struck the pool :stuck_out_tongue:. Karan made an unamused face and came out. We sat and chilled waiting for the rain to pass, once it did we were back to having fun. There was also a cave under the waterfall that one could go to.
 
@@ -764,21 +738,20 @@ The only difference was the weather. Krang Shuri was all blue and sunny and Tad 
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48467292792_4e32dd2821_c.jpg" data-toggle="lightbox">
-  <img class="lazy" data-src="https://live.staticflickr.com/65535/48467292792_4e32dd2821_c.jpg">
+  <img loading="lazy" src="https://live.staticflickr.com/65535/48467292792_4e32dd2821_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48466955122_3d93aff473_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48466955122_3d93aff473_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48466955122_3d93aff473_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48466799436_160de58e5a_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48466799436_160de58e5a_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48466799436_160de58e5a_c.jpg">
     </a>
     <a href="https://live.staticflickr.com/65535/48467096841_85c08aa1cb_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48467096841_85c08aa1cb_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48467096841_85c08aa1cb_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The art of having fun :sunglasses:</em>
 </div>
 
@@ -786,7 +759,7 @@ Happy and content we reached the restaurant, handed over my life jacket and orde
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48467203972_2315a7548c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48467203972_2315a7548c_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48467203972_2315a7548c_c.jpg">
   </a>
   <em>The man, the woman and the semi automatic scooter :stuck_out_tongue:</em>
 </div>
@@ -799,7 +772,7 @@ This was not the end of Pakse for us. We stayed on for another couple of days to
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48368829601_ec800cd719_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48368829601_ec800cd719_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48368829601_ec800cd719_c.jpg">
   </a>
   <em>How do you cut this? :angry:</em>
 </div>
@@ -810,21 +783,20 @@ Pakse is a perfect expat town which means that we could find all sorts of cuisin
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48709198088_20aa3a7a00_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48709198088_20aa3a7a00_c.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48709198088_20aa3a7a00_c.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48709540001_d328b3f107_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48709540001_d328b3f107_c.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48709540001_d328b3f107_c.jpg">
       </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48709198318_c52981eb44_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48709198318_c52981eb44_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48709198318_c52981eb44_c.jpg">
     </a>
       <a href="https://live.staticflickr.com/65535/48709539596_891cd5537e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48709539596_891cd5537e_c.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48709539596_891cd5537e_c.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Food scenes of Pakse and cuteness while waiting for it :grin:</em>
 </div>
 
@@ -832,7 +804,7 @@ On our last night we did discover something cool. There was a large compound wit
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48709198188_30c22c8007_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48709198188_30c22c8007_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48709198188_30c22c8007_c.jpg">
   </a>
   <em>The happy place</em>
 </div>

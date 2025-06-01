@@ -21,7 +21,7 @@ So we went to Dibrugarh to spend the night and dined at our favourite city resta
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7925/46562552724_7d456394f4_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7925/46562552724_7d456394f4.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7925/46562552724_7d456394f4.jpg">
   </a>
   <em>Waiting at the Bogibeel Ghat</em>
 </div>
@@ -32,15 +32,14 @@ We got hold of a boat for a reasonable price and put our bikes on board. Thence 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7925/32343987777_33eda4a914_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7925/32343987777_33eda4a914.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7925/32343987777_33eda4a914.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7924/40321218143_9db70a67dd_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7924/40321218143_9db70a67dd.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7924/40321218143_9db70a67dd.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Playing pirate</em>
 </div>
 
@@ -50,15 +49,14 @@ On the other side, at Kareng Ghat, I got the bikes off board again and then we s
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7826/46562548944_9726619df7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7826/46562548944_9726619df7.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7826/46562548944_9726619df7.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7848/32343987277_64125dc01a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7848/32343987277_64125dc01a.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7848/32343987277_64125dc01a.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The other side</em>
 </div>
 
@@ -76,7 +74,7 @@ _Dafuq!_ The ILP we had lost a day in procuring had not even been checked by the
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7846/40321219213_d881e0e977_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7846/40321219213_d881e0e977.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7846/40321219213_d881e0e977.jpg">
   </a>
   <em>Pretty room</em>
 </div>
@@ -85,24 +83,22 @@ _Dafuq!_ The ILP we had lost a day in procuring had not even been checked by the
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7846/40321217283_85ccbc3494_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7846/40321217283_85ccbc3494.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7846/40321217283_85ccbc3494.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7818/46562540054_0e37c06eef_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7818/46562540054_0e37c06eef.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7818/46562540054_0e37c06eef.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7838/46562540954_fc9e2f739a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7838/46562540954_fc9e2f739a.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7838/46562540954_fc9e2f739a.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7854/46562543324_4c6728136e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7854/46562543324_4c6728136e.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7854/46562543324_4c6728136e.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Pasighat summarised</em>
 </div>
-
 
 ## Arunachal Again
 
@@ -110,7 +106,7 @@ After spending two days in Pasighat doing little but idling, eating and arguing 
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7821/32343980637_4a1294543a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7821/32343980637_4a1294543a.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7821/32343980637_4a1294543a.jpg">
   </a>
   <em>Early morning findings :expressionless:</em>
 </div>
@@ -119,7 +115,7 @@ We headed out of Pasighat by 11 AM or so, late by our standards but still with e
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7874/40321216623_ba96c6c33f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7874/40321216623_ba96c6c33f.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7874/40321216623_ba96c6c33f.jpg">
   </a>
   <em>Ifrit completed her 10k somewhere on the way</em>
 </div>
@@ -128,7 +124,7 @@ We stopped somewhere midway for a late breakfast / early lunch. The _dhaba_ alre
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7846/47233678262_f41a539827_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7846/47233678262_f41a539827.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7846/47233678262_f41a539827.jpg">
   </a>
   <em>Lunch point</em>
 </div>
@@ -137,7 +133,7 @@ The last 20 kilometers from Pangin to Aalo were the worst of the day. There had 
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7848/47233677402_c301a35725_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7848/47233677402_c301a35725.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7848/47233677402_c301a35725.jpg">
   </a>
   <em>Sceneries from the Siang valley :heart:</em>
 </div>
@@ -150,7 +146,7 @@ The room itself was in shambles but at least it was a roof above our head. The p
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7897/32343982237_a78d6a1b92_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7897/32343982237_a78d6a1b92.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7897/32343982237_a78d6a1b92.jpg">
   </a>
   <em>This woman was running a racket while playing candy crush :disappointed:</em>
 </div>
@@ -159,7 +155,7 @@ After spending the night somehow, we packed up early and left the small town whi
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7848/47233674852_c92a0219fb_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7848/47233674852_c92a0219fb.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7848/47233674852_c92a0219fb.jpg">
   </a>
   <em>Roads like these...</em>
 </div>
@@ -168,7 +164,7 @@ We reached Siko Dido waterfalls around 11 AM. The falls were quite unexpected an
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7835/40321208463_e6570f925d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7835/40321208463_e6570f925d.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7835/40321208463_e6570f925d.jpg">
   </a>
   <em>"Do you see that?"</em>
 </div>
@@ -177,7 +173,7 @@ We stopped for a bit to take pictures and curious locals gathered around us. Par
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7860/40321208253_d75f34bc73_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7860/40321208253_d75f34bc73.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7860/40321208253_d75f34bc73.jpg">
   </a>
   <em>Local celebrity :stuck_out_tongue_closed_eyes:</em>
 </div>
@@ -190,15 +186,14 @@ The road continued much the same way after Tato. I was starting to wonder why pe
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7832/32343975867_cb0e586595_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7832/32343975867_cb0e586595.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7832/32343975867_cb0e586595.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7924/32343975747_2aee71510b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7924/32343975747_2aee71510b.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7924/32343975747_2aee71510b.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Entering Mechuka</em>
 </div>
 
@@ -208,7 +203,7 @@ We entered the Tourist Lodge to ask for availability. Of course they did not hav
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7866/32343960217_0dc74503d9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7866/32343960217_0dc74503d9.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7866/32343960217_0dc74503d9.jpg">
   </a>
   <em>The homestay</em>
 </div>
@@ -217,18 +212,17 @@ That evening we went to check out the Mechuka Adventure Festival. It seemed like
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7887/40321193893_997d214237_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7887/40321193893_997d214237.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7887/40321193893_997d214237.jpg">
   </a>
   <em>Market of Mechuka with the awesome backdrop</em>
 </div>
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7842/32343975007_9666113fa9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7842/32343975007_9666113fa9.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7842/32343975007_9666113fa9.jpg">
   </a>
   <em>With the Roing gang</em>
 </div>
-
 
 ## Stories of Men
 
@@ -236,13 +230,13 @@ The next morning we took out the bike and went in the direction of the _Gurudwar
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7862/47285734291_ce94e29880_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7862/47285734291_ce94e29880.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7862/47285734291_ce94e29880.jpg">
   </a>
 </div>
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7871/47233691472_7f6b1cf7d1_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7871/47233691472_7f6b1cf7d1.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7871/47233691472_7f6b1cf7d1.jpg">
   </a>
   <em>Sceneries</em>
 </div>
@@ -251,7 +245,7 @@ There was a cave in here that was used by Guru Nanak for meditation. Legend has 
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7891/47233665672_d469b57308_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7891/47233665672_d469b57308.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7891/47233665672_d469b57308.jpg">
   </a>
   <em>Entrance to Taposthal</em>
 </div>
@@ -260,14 +254,14 @@ As I parked the bike, a man came up to us and started talking. He was reeking of
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7801/40321193123_7f06986a3e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7801/40321193123_7f06986a3e.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7801/40321193123_7f06986a3e.jpg">
   </a>
   <em>Wooden stairway to the cave</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7842/32343973577_1745661293_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7842/32343973577_1745661293.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7842/32343973577_1745661293.jpg">
   </a>
   <em>The cave's test of purity</em>
 </div>
@@ -276,15 +270,14 @@ As I parked the bike, a man came up to us and started talking. He was reeking of
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7828/32343958687_272f53dd44_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7828/32343958687_272f53dd44.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7828/32343958687_272f53dd44.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7910/47285775491_e38410608a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7910/47285775491_e38410608a.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7910/47285775491_e38410608a.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Streamside</em>
 </div>
 
@@ -300,7 +293,7 @@ Parul was next and she picked up a white one as well. The man was in utter disbe
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7868/40321190663_e64c2d2f2e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7868/40321190663_e64c2d2f2e.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7868/40321190663_e64c2d2f2e.jpg">
   </a>
   <em>Utter disbelief!</em>
 </div>
@@ -311,15 +304,14 @@ Our drunken companions then pointed to another path and told us to follow it to 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7874/46562506904_b0b61f04a0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7874/46562506904_b0b61f04a0.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7874/46562506904_b0b61f04a0.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7900/47233689662_cf03acf8f8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7900/47233689662_cf03acf8f8.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7900/47233689662_cf03acf8f8.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Wandering on random paths</em>
 </div>
 
@@ -327,7 +319,7 @@ The Gurudwara was a little ahead and we went in there next. It was here that we 
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7867/32343972027_cce6eb83c5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7867/32343972027_cce6eb83c5.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7867/32343972027_cce6eb83c5.jpg">
   </a>
   <em>Gurudwara Sahib</em>
 </div>
@@ -336,7 +328,7 @@ We had a modest lunch at the _langar_ and then headed ahead to check out how clo
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7833/33510598378_82d740fbd7_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7833/33510598378_82d740fbd7.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7833/33510598378_82d740fbd7.jpg">
   </a>
   <em>Another close shave with the border</em>
 </div>
@@ -345,14 +337,14 @@ We ran into the Roing gang once again on the way back and then sought out the Ha
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7912/32343993567_139f0a798e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7912/32343993567_139f0a798e.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7912/32343993567_139f0a798e.jpg">
   </a>
   <em>Do you see what I see?</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7812/40321204443_c0db6971d8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7812/40321204443_c0db6971d8.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7812/40321204443_c0db6971d8.jpg">
   </a>
   <em>Jugaad Telephotography :joy:</em>
 </div>
@@ -361,21 +353,20 @@ We ran into the Roing gang once again on the way back and then sought out the Ha
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7811/40321188763_c7646f84ca_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7811/40321188763_c7646f84ca.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7811/40321188763_c7646f84ca.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7819/40321189293_3b8c693dbd_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7819/40321189293_3b8c693dbd.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7819/40321189293_3b8c693dbd.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7896/47285773821_d179cf599b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7896/47285773821_d179cf599b.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7896/47285773821_d179cf599b.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7896/47285773821_d179cf599b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7896/47285773821_d179cf599b.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7896/47285773821_d179cf599b.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Scenes from the road on Day 1</em>
 </div>
 
@@ -385,15 +376,14 @@ Back in Mechuka, we went to out favourite food joint, Snowland, for a hot plate 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7924/40321203153_567c4eb08f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7924/40321203153_567c4eb08f.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7924/40321203153_567c4eb08f.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7815/40321202673_d78f0e1f04_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7815/40321202673_d78f0e1f04.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7815/40321202673_d78f0e1f04.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The homestay stove</em>
 </div>
 
@@ -405,35 +395,34 @@ The next morning we decided to go wandering in the direction of Dorjeeling. It i
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7841/40321188433_e06b373f39_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7841/40321188433_e06b373f39.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7841/40321188433_e06b373f39.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7869/47285771931_78a7441dcc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7869/47285771931_78a7441dcc.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7869/47285771931_78a7441dcc.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7911/33410151638_e853e02ff8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7911/33410151638_e853e02ff8.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7911/33410151638_e853e02ff8.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7846/40321187923_146a57f772_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7846/40321187923_146a57f772.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7846/40321187923_146a57f772.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7847/47285771061_9ce449f55c_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7847/47285771061_9ce449f55c.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7847/47285771061_9ce449f55c.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7922/33410151168_8a7df0c740_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7922/33410151168_8a7df0c740.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7922/33410151168_8a7df0c740.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Fooling around in Dorjeeling</em>
 </div>
 
-We came  back and sat by the river, intending to chill and read our books but ending up taking a nap. :grimacing:
+We came back and sat by the river, intending to chill and read our books but ending up taking a nap. :grimacing:
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7801/33410150018_9656a674bc_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7801/33410150018_9656a674bc.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7801/33410150018_9656a674bc.jpg">
   </a>
   <em>View ke aage view :grin:</em>
 </div>
@@ -444,15 +433,14 @@ Later that evening we went to see the old monastery. It is a little away from Me
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7809/47285766781_cbcaf2a4b8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7809/47285766781_cbcaf2a4b8.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7809/47285766781_cbcaf2a4b8.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7843/47285767181_68e47c64dc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7843/47285767181_68e47c64dc.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7843/47285767181_68e47c64dc.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Samten Yongcha Gompa</em>
 </div>
 
@@ -460,7 +448,7 @@ The caretaker had opened it up for a few guests who turned out to be from the sa
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7849/33410152348_38bddd6838_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7849/33410152348_38bddd6838.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7849/33410152348_38bddd6838.jpg">
   </a>
   <em>Guru Rinpoche</em>
 </div>
@@ -471,15 +459,14 @@ We went outside to click some photographs and the caretaker locked up the monast
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7812/40321186993_04158a32f0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7812/40321186993_04158a32f0.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7812/40321186993_04158a32f0.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7905/40321186483_d5b2edd146_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7905/40321186483_d5b2edd146.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7905/40321186483_d5b2edd146.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Visitors and Denizens</em>
 </div>
 
@@ -487,7 +474,7 @@ The sun set soon enough and the world grew progressively darker. We left the pea
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7842/40321186153_d2a2f60125_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7842/40321186153_d2a2f60125.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7842/40321186153_d2a2f60125.jpg">
   </a>
   <em>Yet another sunset :relaxed:</em>
 </div>
@@ -496,18 +483,17 @@ That evening we spent more time around the fireplace and drank some more butter 
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7870/33410151888_34c553e2a4_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7870/33410151888_34c553e2a4.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7870/33410151888_34c553e2a4.jpg">
   </a>
   <em>I really like butter tea</em>
 </div>
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7887/40321186093_137d813895_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7887/40321186093_137d813895.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7887/40321186093_137d813895.jpg">
   </a>
   <em>Moonshot</em>
 </div>
-
 
 ## Aalo
 
@@ -515,7 +501,7 @@ We left early the next morning. The drill was all too familiar now but we waited
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7803/40321197793_5c34863cf9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7803/40321197793_5c34863cf9.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7803/40321197793_5c34863cf9.jpg">
   </a>
   <em>Rama, our hostess in Mechuka :smiley:</em>
 </div>
@@ -528,21 +514,20 @@ We were making good time so we stretched all the way till Aalo. While refuelling
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7850/40321197553_f971f0e7da_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7850/40321197553_f971f0e7da.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7850/40321197553_f971f0e7da.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7860/47285738281_73f01722eb_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7860/47285738281_73f01722eb.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7860/47285738281_73f01722eb.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7813/47285737961_4462ec2c6d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7813/47285737961_4462ec2c6d.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7813/47285737961_4462ec2c6d.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7887/47285739331_47755d8a8b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7887/47285739331_47755d8a8b.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7887/47285739331_47755d8a8b.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The beautiful Reyi Homestay</em>
 </div>
 
@@ -552,15 +537,14 @@ It was Parul's monthly break from riding so I also took the opportunity to get s
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7833/47285740861_70314ea786_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7833/47285740861_70314ea786.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7833/47285740861_70314ea786.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7865/47285740161_9b34497166_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7865/47285740161_9b34497166.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7865/47285740161_9b34497166.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Maintenance rituals</em>
 </div>
 
@@ -568,7 +552,7 @@ One of the days we also went on a tour of the nearby villages and came to the co
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7820/47285738861_df07e7de6c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7820/47285738861_df07e7de6c.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7820/47285738861_df07e7de6c.jpg">
   </a>
   <em>Fireplaces are always interesting</em>
 </div>

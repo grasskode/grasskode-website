@@ -24,61 +24,56 @@ It was a tad bit uncomfortable in the beginning. Neither of us are used to being
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20210925_212747.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20210925_212747.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20210925_212747.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220703162211.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220703162211.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220703162211.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Montmarte :heart:</em>
 </div>
 
-
 <div class="vertimg postimg">
   <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211024_114448.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211024_114448.jpg">
+    <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211024_114448.jpg">
   </a>
   <em>Ghar nahi, Dil bada hona chahiye :grin:</em>
 </div>
-
 
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/20211010_121643.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/20211010_121643.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/20211010_121643.jpg">
       </a>
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211016_141030.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211016_141030.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211016_141030.jpg">
       </a>
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220220145056.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220220145056.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220220145056.jpg">
       </a>
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220806170322.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220806170322.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220806170322.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211003_141335.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211003_141335.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211003_141335.jpg">
       </a>
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211110_233241.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211110_233241.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211110_233241.jpg">
       </a>
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220701202831.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220701202831.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220701202831.jpg">
       </a>
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211011_225534.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211011_225534.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20211011_225534.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Joys of discovering a New City</em>
 </div>
-
 
 A couple of months into it all, we were bothered by our first expatriation problem: the visa situation. We had moved to France on a long term visa (three months) that stated we needed to apply for a _titre de séjour_ upon our arrival. A good twenty days in, we were mailed by the relocation service about the beginning of the process and asked for documents. Why they had to wait so long is beyond me 🤷‍♂️ The stated timelines extended well beyond our visa expiry and Parul also needed a _titre_ to start working as a French resident. There was a lot of confusion about the process as well and no one seemed to be sure of how it works. I made a big deal out of this because as travellers with a weak passport, overstaying a visa is probably one of the things you are extremely wary of.
 
@@ -94,18 +89,16 @@ The next thing on our agenda was getting an apartment. This was another amusing 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220708131832.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220708131832.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220708131832.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_3158.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_3158.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_3158.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Home :heart:</em>
 </div>
-
 
 <hr/>
 
@@ -113,38 +106,35 @@ Travelling and discovering this part of the world was one of the main reasons th
 
 <div class="vertimg postimg">
   <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20220129_101355.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20220129_101355.jpg">
+    <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20220129_101355.jpg">
   </a>
 
 </div>
 
 <div class="postimg">
   <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220910100234.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220910100234.jpg">
+    <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220910100234.jpg">
   </a>
   <em>Paris is extremely well connected by trains</em>
 </div>
-
 
 Figuring out transportation within Paris was also easy. We have been public transport people since always and that is probably the best way to move around in Paris. The metro / bus / train connectivity is great. Whether you are a tourist or a denizen, there are [multiple options](https://www.ratp.fr/en/titres-et-tarifs) available to choose from. While it might seem expensive, it ends up saving you time and money as compared to any other means of transport in most cases. The only thing to be vary about is that there are frequent closures or delays because of strikes or forgotten bags. The app [Bonjour RATP](https://www.ratp.fr/en/apps/bonjour-ratp) can help you plan your commute better.
 
 <div class="vertimg postimg">
   <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20210930_135403.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20210930_135403.jpg">
+    <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20210930_135403.jpg">
   </a>
   <em>When in Paris, use the Metro</em>
 </div>
 
-
 <div class="postimg">
   <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221001214722.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221001214722.jpg">
+    <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221001214722.jpg">
   </a>
   <em>Messi -> PSG == Happy Coincidence</em>
 </div>
 
-
-Talking about strikes, it is, as my colleagues call it, one of the national sports in France :joy: It was amusing to witness at first. Every weekend, we could see a procession going around in some part of the town or crowds gathered in front of the city hall protesting for or against something. The gendarmerie defined a  perimeter and made sure that the protest followed the defined protocol. To our Indian mind, this seemed like an extremely bizarre setup. We are used to protests being violent or agitated with the role of the police being repressive. Later I was to find out that some companies here give days off to attend protests for issues that one cares about! A very different world indeed.
+Talking about strikes, it is, as my colleagues call it, one of the national sports in France :joy: It was amusing to witness at first. Every weekend, we could see a procession going around in some part of the town or crowds gathered in front of the city hall protesting for or against something. The gendarmerie defined a perimeter and made sure that the protest followed the defined protocol. To our Indian mind, this seemed like an extremely bizarre setup. We are used to protests being violent or agitated with the role of the police being repressive. Later I was to find out that some companies here give days off to attend protests for issues that one cares about! A very different world indeed.
 
 <hr/>
 
@@ -154,24 +144,22 @@ Making friends in France is a tough one to crack. Not that I am sociable to begi
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221015140914.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221015140914.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221015140914.jpg">
       </a>
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220714225011.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220714225011.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220714225011.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220331225008.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220331225008.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220331225008.jpg">
       </a>
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20220219_143423.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20220219_143423.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG_20220219_143423.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>We still had friends & family coming over 🤗</em>
 </div>
-
 
 The lack of a diverse Indian community also did not help much either. Since France is not an Anglophile nation, it is not a preferred destination for Indians to settle in (yet). There is a region around _Gare du Nord_ which is where you find most of the better Indian restaurants and grocery stores. While it is not our kind of crowd, we do enjoy our _dosas_ there whenever we go grocery shopping 😁
 
@@ -181,35 +169,31 @@ While it is not necessary in Paris and you can get by with English in most of th
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220806171859.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220806171859.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220806171859.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221015152636.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221015152636.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221015152636.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The French baked items are to die for 🤤</em>
 </div>
-
 
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220904234148.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220904234148.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220904234148.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221028233212.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221028233212.jpg">
+        <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20221028233212.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The city is crawling with some awesome pubs and clubs</em>
 </div>
-
 
 <hr/>
 
@@ -223,7 +207,7 @@ Even though we are unsure of how long we would stay in France, it was an extreme
 
 <div class="vertimg postimg">
   <a href="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220925212714.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220925212714.jpg">
+    <img loading="lazy" src="https://storage.googleapis.com/grasskode-public/posts/les-parisiens/IMG20220925212714.jpg">
   </a>
   <em>🥂</em>
 </div>

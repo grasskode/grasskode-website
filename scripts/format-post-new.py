@@ -50,26 +50,25 @@ def format_post(filename, img_store):
             for im in it:
                 col1 += """
       <a href="{0}" data-toggle="lightbox">
-        <img class="lazy" data-src="{0}">
+        <img loading="lazy" data-src="{0}">
       </a>""".format(im)
                 col2 += """
       <a href="{0}" data-toggle="lightbox">
-        <img class="lazy" data-src="{0}">
+        <img loading="lazy" data-src="{0}">
       </a>""".format(next(it))
             replacement_text = """<div class="{3}">
   <div class="grid">
     <div class="grid-column-50">{0}
     </div>
     <div class="grid-column-50">{1}
-    </div>
-  </div>
+    </div>  </div>
   {2}
 </div>
 """.format(col1, col2, "<em>%s</em>"%title if title is not None else "", " ".join(classes))
         else:
             replacement_text = """<div class="{1}">
   <a href="{0}" data-toggle="lightbox">
-    <img class="lazy" data-src="{0}">
+    <img loading="lazy" data-src="{0}">
   </a>
   {2}
 </div>

@@ -18,7 +18,7 @@ Holbox is an island at the north eastern tip of the Yucatan peninsula, in the st
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805645491_25ff9090e9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805645491_25ff9090e9.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805645491_25ff9090e9.jpg">
   </a>
   <em>Chiquila jetty (no, that's not our boat :stuck_out_tongue:)
 </em>
@@ -26,7 +26,7 @@ Holbox is an island at the north eastern tip of the Yucatan peninsula, in the st
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805091968_77dc74e6e7_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805091968_77dc74e6e7.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805091968_77dc74e6e7.jpg">
   </a>
   <em>Suitcases on an island holiday - :+1:
 </em>
@@ -38,7 +38,7 @@ The AirBnB was another simple one with a kitchenette and a attached bathroom. Th
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805956332_fbb30be2f3_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805956332_fbb30be2f3.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805956332_fbb30be2f3.jpg">
   </a>
   <em>Attempting to find some internet :expressionless:
 </em>
@@ -50,7 +50,7 @@ Once the sun mellowed down a bit, we went to the beach and spread our towel on t
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805956367_eb06aacae2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805956367_eb06aacae2.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805956367_eb06aacae2.jpg">
   </a>
   <em>This guy was right at the shore! :star:
 </em>
@@ -60,15 +60,13 @@ Once the sun mellowed down a bit, we went to the beach and spread our towel on t
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805956692_3bab2cf9e3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805956692_3bab2cf9e3.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805956692_3bab2cf9e3.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805956652_a0150254b7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805956652_a0150254b7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805956652_a0150254b7.jpg">
       </a>
-
     </div>
   </div>
   <em>Vikram Betal :stuck_out_tongue:
@@ -77,7 +75,7 @@ Once the sun mellowed down a bit, we went to the beach and spread our towel on t
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805956642_7dc0bbe907_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805956642_7dc0bbe907.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805956642_7dc0bbe907.jpg">
   </a>
   <em>Swimming practice
 </em>
@@ -87,15 +85,13 @@ Once the sun mellowed down a bit, we went to the beach and spread our towel on t
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805648511_166e44bdaa_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805648511_166e44bdaa.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805648511_166e44bdaa.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805956452_a16f71b9b2_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805956452_a16f71b9b2.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805956452_a16f71b9b2.jpg">
       </a>
-
     </div>
   </div>
   <em>Sunsets in places like these...
@@ -110,15 +106,13 @@ We walked around the centro a bit and grabbed some cheap roadside dinner. Holbox
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805648741_35bc4d5a0a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805648741_35bc4d5a0a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805648741_35bc4d5a0a.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805645441_30de7aa7f0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805645441_30de7aa7f0.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805645441_30de7aa7f0.jpg">
       </a>
-
     </div>
   </div>
   <em>Standard dinner in expensive towns - :arrow_left: elotes and tostadas :arrow_right:
@@ -129,7 +123,7 @@ When the online research did not yield much to go by, we walked to the hostel ne
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805091458_6c8bf6ebcf_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805091458_6c8bf6ebcf.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805091458_6c8bf6ebcf.jpg">
   </a>
   <em>Another variety of sope (probably memelas)
 </em>
@@ -141,21 +135,19 @@ We went back to the beach in the evening, a little earlier this time. The water 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805091333_91220e6133_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805091333_91220e6133.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805091333_91220e6133.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/49805956102_cca241d2c2_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805956102_cca241d2c2.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805956102_cca241d2c2.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805648051_99b185ec5e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805648051_99b185ec5e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805648051_99b185ec5e.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/49805648131_03449c46ac_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805648131_03449c46ac.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805648131_03449c46ac.jpg">
       </a>
-
     </div>
   </div>
   <em>How Parul spends time on a beach :palm_tree:
@@ -164,7 +156,7 @@ We went back to the beach in the evening, a little earlier this time. The water 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805956227_e2c04d2abd_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805956227_e2c04d2abd.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805956227_e2c04d2abd.jpg">
   </a>
   <em>How I spend my time on a beach :joy:
 </em>
@@ -176,15 +168,13 @@ We swam a lot and ended up spending a good couple of hours at the beach before t
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805088533_5cf671a71a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805088533_5cf671a71a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805088533_5cf671a71a.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805091163_f8c057f34e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805091163_f8c057f34e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805091163_f8c057f34e.jpg">
       </a>
-
     </div>
   </div>
   <em>In case you are confused where the sun is
@@ -193,7 +183,7 @@ We swam a lot and ended up spending a good couple of hours at the beach before t
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805955892_cbefeb3b63_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805955892_cbefeb3b63.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805955892_cbefeb3b63.jpg">
   </a>
   <em>Well, not quite what we intended :stuck_out_tongue:
 </em>
@@ -203,7 +193,7 @@ The next morning we were back on the beach and Gama Adventures honoured the arra
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805954732_75da1f5b64_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805954732_75da1f5b64.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805954732_75da1f5b64.jpg">
   </a>
   <em>Mirror mirror
 </em>
@@ -211,7 +201,7 @@ The next morning we were back on the beach and Gama Adventures honoured the arra
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805646611_54c4b06d71_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805646611_54c4b06d71.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805646611_54c4b06d71.jpg">
   </a>
   <em>Calm waters
 </em>
@@ -221,7 +211,7 @@ About half an hour later, we spotted our first big fish - a manta ray! These cre
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805953357_423e9d4c08_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805953357_423e9d4c08.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805953357_423e9d4c08.jpg">
   </a>
   <em>Mantas!
 </em>
@@ -231,7 +221,7 @@ We looked at it from the boat as it glided on the surface. Then the boat went fu
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805646511_ff7f424995_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805646511_ff7f424995.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805646511_ff7f424995.jpg">
   </a>
   <em>So big! :scream:
 </em>
@@ -254,7 +244,7 @@ Once everyone had their fill of the whale-sharks, a few of the more entusiastic 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805646486_5facfee29a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805646486_5facfee29a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805646486_5facfee29a.jpg">
   </a>
   <em>This manta no like hoomans
 </em>
@@ -264,7 +254,7 @@ We eventually turned back and I thought we were headed back to the town but no, 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805646531_48d1fd0339_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805646531_48d1fd0339.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805646531_48d1fd0339.jpg">
   </a>
   <em>The horizon had lighted up by the time we turned back
 </em>
@@ -272,7 +262,7 @@ We eventually turned back and I thought we were headed back to the town but no, 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805090588_c0724df21e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090588_c0724df21e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805090588_c0724df21e.jpg">
   </a>
   <em>Fisherman displaying his impressive catch
 </em>
@@ -284,15 +274,13 @@ The boats converged at a point and then let us have around half an hour to ourse
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805090393_294b7d43e4_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090393_294b7d43e4.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805090393_294b7d43e4.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805090293_6373aed880_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090293_6373aed880.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805090293_6373aed880.jpg">
       </a>
-
     </div>
   </div>
   <em>Baited Rays
@@ -303,15 +291,13 @@ The boats converged at a point and then let us have around half an hour to ourse
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805090233_3f1762d390_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090233_3f1762d390.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805090233_3f1762d390.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805090198_e455c4f9a8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090198_e455c4f9a8.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805090198_e455c4f9a8.jpg">
       </a>
-
     </div>
   </div>
   <em>Spot the :star:
@@ -322,15 +308,13 @@ The boats converged at a point and then let us have around half an hour to ourse
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805953437_c43569b3dd_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805953437_c43569b3dd.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805953437_c43569b3dd.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805090168_748d812172_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090168_748d812172.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805090168_748d812172.jpg">
       </a>
-
     </div>
   </div>
   <em>Suit up!
@@ -341,15 +325,13 @@ The boats converged at a point and then let us have around half an hour to ourse
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805090138_a1681caee5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090138_a1681caee5.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805090138_a1681caee5.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805954897_3d05980ee1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805954897_3d05980ee1.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805954897_3d05980ee1.jpg">
       </a>
-
     </div>
   </div>
   <em>Schools
@@ -358,7 +340,7 @@ The boats converged at a point and then let us have around half an hour to ourse
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805089993_87852bfe16_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805089993_87852bfe16.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805089993_87852bfe16.jpg">
   </a>
   <em>Pisces
 </em>
@@ -366,7 +348,7 @@ The boats converged at a point and then let us have around half an hour to ourse
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805089913_9ed54b0f49_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805089913_9ed54b0f49.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805089913_9ed54b0f49.jpg">
   </a>
   <em>Underwater colours
 </em>
@@ -381,7 +363,7 @@ The boats converged at a point and then let us have around half an hour to ourse
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805954747_ec9cfa40fa_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805954747_ec9cfa40fa.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805954747_ec9cfa40fa.jpg">
   </a>
   <em>The snorkelling afterglow
 </em>
@@ -391,7 +373,7 @@ We boarded the boats again and then it took us to a small beach - Cabo Catoche, 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805090903_57853730c1_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090903_57853730c1.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805090903_57853730c1.jpg">
   </a>
   <em>Cabo Catoche
 </em>
@@ -399,7 +381,7 @@ We boarded the boats again and then it took us to a small beach - Cabo Catoche, 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805647531_20de07ac48_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805647531_20de07ac48.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805647531_20de07ac48.jpg">
   </a>
   <em>There were dogs though
 </em>
@@ -409,13 +391,12 @@ We boarded the boats again and then it took us to a small beach - Cabo Catoche, 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805647436_fb1c43b287_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805647436_fb1c43b287.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805647436_fb1c43b287.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805090713_cdec36cf0a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090713_cdec36cf0a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805090713_cdec36cf0a.jpg">
       </a>
     </div>
   </div>
@@ -427,7 +408,7 @@ The lunch had included some _ceviche_ and nachos. Since we had informed beforeha
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805647516_a0d7da86e2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805647516_a0d7da86e2.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805647516_a0d7da86e2.jpg">
   </a>
   <em>Doesn't that look delicious!
 </em>
@@ -439,15 +420,13 @@ The final leg of the boat ride brought us back to Holbox town. On the way we pas
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805647696_1ffd60d732_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805647696_1ffd60d732.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805647696_1ffd60d732.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805647671_53bf3c78d6_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805647671_53bf3c78d6.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805647671_53bf3c78d6.jpg">
       </a>
-
     </div>
   </div>
   <em>The beautiful Yum Balam and some stupid tourists
@@ -456,7 +435,7 @@ The final leg of the boat ride brought us back to Holbox town. On the way we pas
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805955847_c903511fc6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805955847_c903511fc6.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805955847_c903511fc6.jpg">
   </a>
   <em>Hues of blue
 </em>
@@ -464,7 +443,7 @@ The final leg of the boat ride brought us back to Holbox town. On the way we pas
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805090948_1898095ef4_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090948_1898095ef4.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805090948_1898095ef4.jpg">
   </a>
   <em>:boat:
 </em>
@@ -474,7 +453,7 @@ Back at the jetty we thanked the captain and out guide. It had been a good day d
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805091038_8ed5556d5c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805091038_8ed5556d5c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805091038_8ed5556d5c.jpg">
   </a>
   <em>It had been a nice day
 </em>
@@ -482,15 +461,15 @@ Back at the jetty we thanked the captain and out guide. It had been a good day d
 
 We sat in a cafe where we talked about the day. Internet was abuzz with the [Amazon fires](https://www.bbc.com/news/world-latin-america-49971563) as well so it made for a rich discussion. We pondered on the ethical aspect of snorkelling with whale sharks. There is an [online debate](https://www.nationalgeographic.com/animals/2018/08/whale-sharks-tourism-philippines-benefit-harm-news/) on this, much similar to the ethical correctness of the [Sen Monorom elephant tourism](/post/travel/no-mames/2019-cambodia-part-1/). But here are my two cents.
 
->< rant >
+> < rant >
 >
-I think that calling this snorkelling a harassment of the whale-shark is extremely self centered. If I had the ability to run like Flash Gordon, and someone "harassed" me, would I not simply run away? Of course these whale-sharks heard us coming in our loud motor boats, heard us jump into the water and splash our way close to them. Had they been harassed, they would have simply turned around and we wouldn't have been able to do anything about it. We had chased two whale sharks today. The first had simply turned around and people were left thrashing in the water trying to find the fish. The second one was much more humouring. It let us swim while it fed on nonchalantly. It had no obligation to, but it did. The manta rays were the other extreme. They would have none of it and there was no way we could keep up with them. Despite Copernicus's discovery, we humans still believe that we are the center of the universe. We need to save the Amazon which is the "Earth's lungs". The Earth is the third rock from the sun and it's existence surpasses ours. Let us first understand that what we are trying to do is simply preserve our existence, trying to halt the evolutionary trend that gave us birth in the first place. It's out lungs that we want to preserve, not the Earth's. You are no altruist to donate to such causes. You are just a human being fighting for survival.
+> I think that calling this snorkelling a harassment of the whale-shark is extremely self centered. If I had the ability to run like Flash Gordon, and someone "harassed" me, would I not simply run away? Of course these whale-sharks heard us coming in our loud motor boats, heard us jump into the water and splash our way close to them. Had they been harassed, they would have simply turned around and we wouldn't have been able to do anything about it. We had chased two whale sharks today. The first had simply turned around and people were left thrashing in the water trying to find the fish. The second one was much more humouring. It let us swim while it fed on nonchalantly. It had no obligation to, but it did. The manta rays were the other extreme. They would have none of it and there was no way we could keep up with them. Despite Copernicus's discovery, we humans still believe that we are the center of the universe. We need to save the Amazon which is the "Earth's lungs". The Earth is the third rock from the sun and it's existence surpasses ours. Let us first understand that what we are trying to do is simply preserve our existence, trying to halt the evolutionary trend that gave us birth in the first place. It's out lungs that we want to preserve, not the Earth's. You are no altruist to donate to such causes. You are just a human being fighting for survival.
 >
->< / end rant>
+> < / end rant>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805090648_0c566247c7_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090648_0c566247c7.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805090648_0c566247c7.jpg">
   </a>
   <em>Fried chicken with rice for lunch :yum:
 </em>
@@ -500,7 +479,7 @@ We returned to the AirBnB to rest a bit and let the day die in peace.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805090483_90e7d63bd8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805090483_90e7d63bd8.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805090483_90e7d63bd8.jpg">
   </a>
   <em>There were loads of iguana all around the property
 </em>
@@ -510,15 +489,13 @@ We returned to the AirBnB to rest a bit and let the day die in peace.
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805645346_4896de2407_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805645346_4896de2407.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805645346_4896de2407.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805955292_71a63d3079_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805955292_71a63d3079.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805955292_71a63d3079.jpg">
       </a>
-
     </div>
   </div>
   <em>Heavy dinner - :arrow_left: Giant Burrito and Overloaded Nachos :arrow_right:
@@ -529,7 +506,6 @@ That evening, after dinner, we decided to go to the farther end of the island fo
 
 We walked back to the BnB, expecting the party that the hostel next door had invited us to. It was cancelled by the time we reached the place and thus ended our last night in Holbox, quite uneventfully.
 
-
 ## Cozumel
 
 The next morning we checked out and took a ferry back to Chiquila. While waiting for our bus to show up, we had some breakfast and then chilled at a cafe which offered some bleak internet.
@@ -538,15 +514,13 @@ The next morning we checked out and took a ferry back to Chiquila. While waiting
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805646411_a3fe17fac3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805646411_a3fe17fac3.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805646411_a3fe17fac3.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805089598_5dbfbf0596_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805089598_5dbfbf0596.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805089598_5dbfbf0596.jpg">
       </a>
-
     </div>
   </div>
   <em>Breakfast at Chiquila
@@ -557,7 +531,7 @@ At Playa del Cermen, where the bus dropped us, we walked around the port-side ma
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805954142_8aa84e775b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805954142_8aa84e775b.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805954142_8aa84e775b.jpg">
   </a>
   <em>Walking through Paseo del Carmen
 </em>
@@ -565,7 +539,7 @@ At Playa del Cermen, where the bus dropped us, we walked around the port-side ma
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805089503_36c7892ed9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805089503_36c7892ed9.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805089503_36c7892ed9.jpg">
   </a>
   <em>Too much Indian-ness
 </em>
@@ -575,15 +549,13 @@ At Playa del Cermen, where the bus dropped us, we walked around the port-side ma
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805954317_9ee7fb5c1a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805954317_9ee7fb5c1a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805954317_9ee7fb5c1a.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805646086_dd324c485d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805646086_dd324c485d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805646086_dd324c485d.jpg">
       </a>
-
     </div>
   </div>
   <em>:heart: Indian food :heart:
@@ -594,7 +566,7 @@ Once our tummies were full, we took a ferry to Cozumel - an island in the Caribb
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805645146_8f6e19c772_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805645146_8f6e19c772.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805645146_8f6e19c772.jpg">
   </a>
   <em>The jetty
 </em>
@@ -602,7 +574,7 @@ Once our tummies were full, we took a ferry to Cozumel - an island in the Caribb
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805954532_7490039b99_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805954532_7490039b99.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805954532_7490039b99.jpg">
   </a>
   <em>Luxury ferries
 </em>
@@ -612,7 +584,7 @@ In twenty odd minutes we were on the other side. Cozumel was much different from
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805089538_a3a753080d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805089538_a3a753080d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805089538_a3a753080d.jpg">
   </a>
   <em>Landing in Cozumel
 </em>
@@ -624,7 +596,7 @@ The next morning we returned to the shop early. The gear was already packed and 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805645801_dbe17d9acd_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805645801_dbe17d9acd.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805645801_dbe17d9acd.jpg">
   </a>
   <em>At the marina
 </em>
@@ -642,15 +614,13 @@ We came back happy as we could be. The dives had been extremely beautiful.
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805645116_d1f2f6814f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805645116_d1f2f6814f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805645116_d1f2f6814f.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805954017_8fec39b6da_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805954017_8fec39b6da.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805954017_8fec39b6da.jpg">
       </a>
-
     </div>
   </div>
   <em>Happy divers
@@ -661,7 +631,7 @@ After thanking Luis and Issac we were dropped back to the dive shop. For lunch w
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805645886_ce68157750_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805645886_ce68157750.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805645886_ce68157750.jpg">
   </a>
   <em>Finally! Some Chinese food in Mexico (chinmexi?)...
 </em>
@@ -673,15 +643,13 @@ That night we checked out a local restaurant recommended by our hosts. This one 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805089018_7851f8cce8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805089018_7851f8cce8.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805089018_7851f8cce8.jpg">
       </a>
-
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/49805645726_c0071a5b59_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/49805645726_c0071a5b59.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/49805645726_c0071a5b59.jpg">
       </a>
-
     </div>
   </div>
   <em>Gringa Pique!
@@ -692,7 +660,7 @@ The next day we decided to rest in Cozumel. The island has beautiful beaches to 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805088818_1efd95edec_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805088818_1efd95edec.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805088818_1efd95edec.jpg">
   </a>
   <em>Late breakfast at the guesthouse
 </em>
@@ -700,7 +668,7 @@ The next day we decided to rest in Cozumel. The island has beautiful beaches to 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805088813_f6f51cfed6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805088813_f6f51cfed6.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805088813_f6f51cfed6.jpg">
   </a>
   <em>We found BBC! :joy:
 </em>
@@ -708,7 +676,7 @@ The next day we decided to rest in Cozumel. The island has beautiful beaches to 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805645551_0fd9068921_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805645551_0fd9068921.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805645551_0fd9068921.jpg">
   </a>
   <em>Mercados is where you go for budget foods
 </em>
@@ -716,7 +684,7 @@ The next day we decided to rest in Cozumel. The island has beautiful beaches to 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/49805088233_3d68022d07_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805088233_3d68022d07.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805088233_3d68022d07.jpg">
   </a>
   <em>Loncheria Chelly - the yellow looked inviting
 </em>
@@ -724,7 +692,7 @@ The next day we decided to rest in Cozumel. The island has beautiful beaches to 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805088788_d3f1fceafd_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805088788_d3f1fceafd.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805088788_d3f1fceafd.jpg">
   </a>
   <em>Chicken with mole. Not as good as Oaxacan version but triggered those taste bud memories :yum:
 </em>
@@ -732,7 +700,7 @@ The next day we decided to rest in Cozumel. The island has beautiful beaches to 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/49805953772_317576702d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/49805953772_317576702d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/49805953772_317576702d.jpg">
   </a>
   <em>Late night hot-dog craving :smile:
 </em>

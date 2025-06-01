@@ -2,32 +2,25 @@
 <div class="list">
   <div class="row">
     <div class="col-sm-9">
-
       <header class="title"><h1>{{ .Title }}</h1></header>
 
-      {{ if (in "series categories" (lower .Title)) }}
-        {{/* display series and categories */}}
-        {{ range .Pages }}
-          <div class="row">
-            <div class="col-sm-8">
-              {{ .Render "terms_li" }}
-            </div>
-          </div>
-        {{ end }}
-      {{ else }}
-        {{/* default taxonomy display */}}
-        {{ range $key, $value := .Data.Terms.ByCount }}
-        <a href="/{{ $.Data.Plural }}/{{ $value.Name | urlize }}/" class="{{ $.Data.Singular }}">{{ $value.Name }}</a>
-        <br/>
-        {{ end }}
-      {{ end }}
-
+      {{ if (in "series categories" (lower .Title)) }} {{/* display series and
+      categories */}} {{ range .Pages }}
+      <div class="row">
+        <div class="col-sm-8">{{ .Render "terms_li" }}</div>
+      </div>
+      {{ end }} {{ else }} {{/* default taxonomy display */}} {{ range $key,
+      $value := .Data.Terms.ByCount }}
+      <a
+        href="/{{ $.Data.Plural }}/{{ $value.Name | urlize }}/"
+        class="{{ $.Data.Singular }}"
+        >{{ $value.Name }}</a
+      >
+      <br />
+      {{ end }} {{ end }}
     </div>
 
-    <div class="col-sm-3 sidebar">
-      {{ partial "sidebar.html" . }}
-    </div>
-
+    <div class="col-sm-3 sidebar">{{ partial "sidebar.html" . }}</div>
   </div>
 </div>
 {{ partial "default_foot.html" . }}

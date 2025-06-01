@@ -29,11 +29,9 @@ Ruma mausi had recommended Bhuban as one of the best guides to go around with wh
     <a href="https://farm5.staticflickr.com/4917/45796658855_42ee56beea_c.jpg" data-toggle="lightbox">
       <img src="https://farm5.staticflickr.com/4917/45796658855_42ee56beea.jpg" alt="Route to Kaziranga">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Route to Kaziranga</em>
 </div>
-
 
 The Kaziranga animal corridor is a part of the highway that leads to Dibrugarh. Sadly, commuters forget that the highway is also an animal corridor and despite there being a countless speed limit warnings of 40kmph no one really paid any attention to it. Almost everybody zoomed past us. There weren't any speed checks as well even when the boards screamed of heavy fines. I guess it is only when you do not have something you realize it's worth, or maybe it's more like who cares about the animals?
 
@@ -64,7 +62,6 @@ For all of the above activities one needs to obtain a permit for the Gypsy and/o
 
 Do note, no private vehicles are allowed in the park. The place you are staying with will most probably hook you up with someone who will complete all these formalities.
 
-
 ## The Foreign Bias
 
 Our first stop was the Central range to check the scene of the elephant safaris since Bhuban had mentioned it's not easy to book this one. Lo and Behold, the line for a morning elephant safaris in the Central Range started a day before, at 4PM and the ticket counter for which opened at 7PM.
@@ -77,7 +74,7 @@ On expressing our displeasure on the same we were told to go to the Western Rang
 
 ## Settling In
 
-More about Bhuban, he was recommended to us by my aunt, Ruma mausi. He is a very knowledgeable guide and having worked as an assistant to a BBC film makers he was a kick ass photographer too.  He had recommended that we reach the Central Range and look for accommodation in Banashree Tourist Lodge. Surprisingly, it was full. He had also searched for a few other options for us. We came out to look for places and after my _hangry_ episode we decided it was best to have lunch first :stuck_out_tongue:. Post lunch we finalised our stay at Home Staytion, a newly built homestay on the highway.
+More about Bhuban, he was recommended to us by my aunt, Ruma mausi. He is a very knowledgeable guide and having worked as an assistant to a BBC film makers he was a kick ass photographer too. He had recommended that we reach the Central Range and look for accommodation in Banashree Tourist Lodge. Surprisingly, it was full. He had also searched for a few other options for us. We came out to look for places and after my _hangry_ episode we decided it was best to have lunch first :stuck_out_tongue:. Post lunch we finalised our stay at Home Staytion, a newly built homestay on the highway.
 
 Bhuban came to meet us in the evening. He seemed like a fine chap. We planned our safaris over some tea and pedas. Apparently the central range has Government authorised elephants for safaris while the Western ones are operated privately. Off late the number of elephants had been reduced hence the availability was a problem. Bhuban suggested against the Central range as the grasslands were way too tall and would interrupt the sightings and the photography. The Eastern range was better for birds and the migration season had barely started so that was not advised as well. Western range it was.
 
@@ -111,8 +108,7 @@ We progressed at an enjoyable pace to the Dighali Beel(lake-like wetland). We co
       <a href="https://farm8.staticflickr.com/7816/32735868078_bff29d937a_c.jpg" data-toggle="lightbox">
         <img src="https://farm8.staticflickr.com/7816/32735868078_bff29d937a.jpg" alt="title2">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Elephant Safari Scenes</em>
 </div>
 
@@ -184,15 +180,14 @@ We reached the view point. The base of the building had water level readings of 
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://farm5.staticflickr.com/4811/31559349207_5a8ac95c12_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://farm5.staticflickr.com/4811/31559349207_5a8ac95c12.jpg">
+      <img loading="lazy" src="https://farm5.staticflickr.com/4811/31559349207_5a8ac95c12.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://farm5.staticflickr.com/4813/31559339867_59412e0224_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://farm5.staticflickr.com/4813/31559339867_59412e0224.jpg">
+      <img loading="lazy" src="https://farm5.staticflickr.com/4813/31559339867_59412e0224.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>This is where the :moneybag: drain will be</em>
 </div>
 

@@ -1,10 +1,9 @@
 <aside class="site">
-
   <div class="section taxonomies">
     <header><div class="title">Featured Series</div></header>
     <div class="content">
       {{ range first 10 .Site.Taxonomies.series.ByCount }}
-        <a href="/series/{{ .Name | urlize }}">{{ .Name }} ({{ .Count }})</a>
+      <a href="/series/{{ .Name | urlize }}">{{ .Name }} ({{ .Count }})</a>
       {{ end }}
     </div>
   </div>
@@ -13,7 +12,7 @@
     <header><div class="title">Top Tags</div></header>
     <div class="content">
       {{ range first 10 .Site.Taxonomies.tags.ByCount }}
-        <a href="/tags/{{ .Name | urlize }}">{{ .Name }} ({{ .Count }})</a>
+      <a href="/tags/{{ .Name | urlize }}">{{ .Name }} ({{ .Count }})</a>
       {{ end }}
     </div>
   </div>
@@ -22,10 +21,17 @@
     <header><div class="title">Connect</div></header>
     <div class="content">
       <ul class="icons">
-        <li><a href="https://www.facebook.com/grasskode/"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i></a></li>
-        <li><a href="https://www.instagram.com/grasskode/"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
+        <li>
+          <a href="https://www.facebook.com/grasskode/"
+            ><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i
+          ></a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/grasskode/"
+            ><i class="fa fa-instagram fa-2x" aria-hidden="true"></i
+          ></a>
+        </li>
       </ul>
     </div>
   </div>
-  
 </aside>

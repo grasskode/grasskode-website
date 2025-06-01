@@ -17,7 +17,7 @@ The day started off with the 20 km long Aalo-Panging stretch. So we were somewha
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/33756068858_75c534a402_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/33756068858_75c534a402.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/33756068858_75c534a402.jpg">
   </a>
   <em>The Siam</em>
 </div>
@@ -28,7 +28,7 @@ We rode on though and the incident was pushed aside as a minor one. Right before
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/40666981353_20ee23996e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/40666981353_20ee23996e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/40666981353_20ee23996e.jpg">
   </a>
 </div>
 
@@ -36,15 +36,14 @@ We rode on though and the incident was pushed aside as a minor one. Right before
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/32690914057_4fdbb39843_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/32690914057_4fdbb39843.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/32690914057_4fdbb39843.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/40666974463_993c4ce95a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/40666974463_993c4ce95a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/40666974463_993c4ce95a.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Pitstop before Pasighat</em>
 </div>
 
@@ -52,7 +51,7 @@ We crossed the bridge right before Pasighat. The roads had gained their usual sm
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/33773107408_71a5ca7b60_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/33773107408_71a5ca7b60.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/33773107408_71a5ca7b60.jpg">
   </a>
   <em>Where are you going?</em>
 </div>
@@ -65,15 +64,14 @@ Armed with more information, we headed back and found the stone crusher not too 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/47633373221_df30733c82_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/47633373221_df30733c82.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/47633373221_df30733c82.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/40666971643_c10580fe2f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/40666971643_c10580fe2f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/40666971643_c10580fe2f.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Endless riverbed</em>
 </div>
 
@@ -83,7 +81,7 @@ The river bed was followed by an endless stretch of jungle track on this side as
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/46717820145_5d68790187_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/46717820145_5d68790187.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/46717820145_5d68790187.jpg">
   </a>
   <em>Pretty Sunset</em>
 </div>
@@ -92,7 +90,7 @@ There was a spectacular sunset happening in the skies while we were finding our 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/33756051278_8178e5cb4f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/33756051278_8178e5cb4f.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/33756051278_8178e5cb4f.jpg">
   </a>
   <em>All we wanted</em>
 </div>
@@ -107,14 +105,14 @@ We reached Tezu around 10 AM and stopped for some breakfast. 13 kilometers after
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/46717817925_c71663be41_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/46717817925_c71663be41.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/46717817925_c71663be41.jpg">
   </a>
   <em>Good roads to start the day</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/46717814255_e63f89d6e8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/46717814255_e63f89d6e8.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/46717814255_e63f89d6e8.jpg">
   </a>
   <em>Biohazard in Dembe :grimacing:</em>
 </div>
@@ -127,21 +125,20 @@ A couple of kilometers later we stopped again to check a sound that she thought 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/33756048008_fdaf3e1a98_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/33756048008_fdaf3e1a98.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/33756048008_fdaf3e1a98.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/47633362321_56a03d96f6_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/47633362321_56a03d96f6.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/47633362321_56a03d96f6.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/47580560292_38cd85e0c9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/47580560292_38cd85e0c9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/47580560292_38cd85e0c9.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/47633360261_b2dd1faa3f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/47633360261_b2dd1faa3f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/47633360261_b2dd1faa3f.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Impressions of the Lohit Valley</em>
 </div>
 
@@ -153,7 +150,7 @@ The next morning, as we made our way past the town of Hayuliang, we discussed th
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/32702612687_140ce436b0_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/32702612687_140ce436b0.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/32702612687_140ce436b0.jpg">
   </a>
   <em>The beautiful colour of Lohit</em>
 </div>
@@ -164,21 +161,20 @@ The beauty of the valley started becoming much more apparent the deeper we pushe
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/47645092841_be44170fc7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/47645092841_be44170fc7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/47645092841_be44170fc7.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/40678434823_a902b37712_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/40678434823_a902b37712.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/40678434823_a902b37712.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/46729423145_3218c692e4_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/46729423145_3218c692e4.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/46729423145_3218c692e4.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/46921088424_5b03303d84_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/46921088424_5b03303d84.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/46921088424_5b03303d84.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Scenic stretch right before Kibithoo</em>
 </div>
 
@@ -186,13 +182,13 @@ We stopped for a considerable amount of time at the board that proclaimed entry 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/46729437045_2b7bb7826a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/46729437045_2b7bb7826a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/46729437045_2b7bb7826a.jpg">
   </a>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47633354071_c0446b70c9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47633354071_c0446b70c9.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47633354071_c0446b70c9.jpg">
   </a>
   <em>Eastern most road :v:</em>
 </div>
@@ -203,7 +199,7 @@ We still had time on our hands so we decided to stretch back till Hawai. This me
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/46909125604_b63fdba93e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/46909125604_b63fdba93e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/46909125604_b63fdba93e.jpg">
   </a>
   <em>We forgot :disappointed:</em>
 </div>
@@ -214,15 +210,14 @@ The highway here was probably one of the best we had in the entire hilly stretch
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/47580551712_f999f3c445_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/47580551712_f999f3c445.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/47580551712_f999f3c445.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/46909124404_cec74788b7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/46909124404_cec74788b7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/46909124404_cec74788b7.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Hawa Hawai</em>
 </div>
 
@@ -236,7 +231,7 @@ The next morning, as we were strapping our bags on the motorbikes, a certain Doc
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47580551222_e95c8791cf_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47580551222_e95c8791cf.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47580551222_e95c8791cf.jpg">
   </a>
   <em>Way out</em>
 </div>
@@ -245,7 +240,7 @@ Parul's bike had been squeaking near the odometer pinion since the day before. T
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/40666922553_468da7037a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/40666922553_468da7037a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/40666922553_468da7037a.jpg">
   </a>
   <em>:five: :zero: :zero: :zero: :triumph:</em>
 </div>
@@ -254,7 +249,7 @@ We returned to Khupa for a refuel. We had planned to have breakfast in a small s
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/46909123864_5ce8b48248_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/46909123864_5ce8b48248.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/46909123864_5ce8b48248.jpg">
   </a>
   <em>Breakfast :dizzy_face:</em>
 </div>
@@ -265,7 +260,7 @@ The next morning we headed out for Tinsukia. While the plan was to take the Sadi
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/33756033948_e2ab406c3c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/33756033948_e2ab406c3c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/33756033948_e2ab406c3c.jpg">
   </a>
 </div>
 
@@ -273,26 +268,24 @@ The next morning we headed out for Tinsukia. While the plan was to take the Sadi
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/40666949293_747e02c8d0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/40666949293_747e02c8d0.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/40666949293_747e02c8d0.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/47633335301_c3e4ae89fa_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/47633335301_c3e4ae89fa.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/47633335301_c3e4ae89fa.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/40666948693_e39e8b2792_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/40666948693_e39e8b2792.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/40666948693_e39e8b2792.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/47633333941_8141b78ac8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/47633333941_8141b78ac8.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/47633333941_8141b78ac8.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Scenes from the Golden Pagoda</em>
 </div>
 
 We could have gone back for Sadia-Dhola but decided to get to Tinsukia in time for the repairs. Assam was it's usual self - beautiful tea estates, pretty fenced villages and shit traffic. But thankfully Tinsukia was not too far and we reached our hotel after battling some traffic. The entire evening was spent in getting the repairs done. The _sardarji_ running the place finally escalated our jobs once it started getting late. On a whole, it was one of the more satisfactory RE workshops I have been to on the road.
-
 
 ## The Longding Chapter
 
@@ -300,7 +293,7 @@ The next morning I got my rear shockers fixed and, thus delayed, we left for Sap
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/40666938923_5e5de8c363_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/40666938923_5e5de8c363.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/40666938923_5e5de8c363.jpg">
   </a>
   <em>Last bit of repairs</em>
 </div>
@@ -309,7 +302,7 @@ It was not a long ride so we took it easy. As we took the bypass for Namrup, the
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/46717779975_c86ebe4ffe_c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/46717779975_c86ebe4ffe_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/46717779975_c86ebe4ffe_c.jpg">
   </a>
   <em>Blame it on the Samosa :joy:</em>
 </div>
@@ -320,7 +313,7 @@ At Sapekhati a police van rolled up next to us. ASI Lowang walked up to us and w
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/46717783865_26fa461290_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/46717783865_26fa461290.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/46717783865_26fa461290.jpg">
   </a>
   <em>Researching our next leg of travel</em>
 </div>
@@ -331,15 +324,14 @@ The next morning the OC took us on a tour of the tea estates and the tea factory
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/33756017358_01e1ecaf10_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/33756017358_01e1ecaf10.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/33756017358_01e1ecaf10.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/40678643183_8f7ae947a9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/40678643183_8f7ae947a9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/40678643183_8f7ae947a9.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Tea Estate</em>
 </div>
 
@@ -347,26 +339,25 @@ The next morning the OC took us on a tour of the tea estates and the tea factory
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/40666939473_302e09d265_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/40666939473_302e09d265.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/40666939473_302e09d265.jpg">
       </a>
       <a href="https://live.staticflickr.com/31337/47580528252_a05c63e69e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/31337/47580528252_a05c63e69e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/31337/47580528252_a05c63e69e.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/46717783015_001b10a850_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/46717783015_001b10a850.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/46717783015_001b10a850.jpg">
       </a>
       <a href="https://live.staticflickr.com/31337/33756014268_905fcda435_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/31337/33756014268_905fcda435.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/31337/33756014268_905fcda435.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47592445122_c79376abc4_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47592445122_c79376abc4.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47592445122_c79376abc4.jpg">
   </a>
   <em>The tea making process</em>
 </div>
@@ -375,7 +366,7 @@ Our bikes were stowed away in the Kanubari Police Station and we loaded our bags
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/46717782265_dab462956a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/46717782265_dab462956a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/46717782265_dab462956a.jpg">
   </a>
   <em>Gypsyyyyy! :sunglasses:</em>
 </div>
@@ -384,7 +375,7 @@ The Gypsy was prone to all the dust on the road which was plenty because of the 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47592396062_ddf220c4b8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47592396062_ddf220c4b8.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47592396062_ddf220c4b8.jpg">
   </a>
   <em>The Longding mood</em>
 </div>
@@ -399,15 +390,14 @@ Another amusing story was that of the CC steps. Every year the DC office release
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/46717779275_abe16b1624_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/46717779275_abe16b1624.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/46717779275_abe16b1624.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/33756022888_d20368fac3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/33756022888_d20368fac3.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/33756022888_d20368fac3.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>At least the tribal clothes were fun :joy:</em>
 </div>
 
@@ -419,21 +409,20 @@ One of the days we went to the army camp at the Burmese border. The officer ther
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/33756018738_684001308b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/33756018738_684001308b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/33756018738_684001308b.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/40666925263_93cf68c712_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/40666925263_93cf68c712.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/40666925263_93cf68c712.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>At the Konsa camp</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/33756018168_2a34b917ec_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/33756018168_2a34b917ec.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/33756018168_2a34b917ec.jpg">
   </a>
   <em>One sided love affair :heart:</em>
 </div>
@@ -442,7 +431,7 @@ I went to the local ground to watch a bunch of kids play football on one of the 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/33756021448_ae85e7bfdb_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/33756021448_ae85e7bfdb.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/33756021448_ae85e7bfdb.jpg">
   </a>
   <em>Evening football</em>
 </div>
@@ -451,21 +440,21 @@ Evenings also meant bonfires and _Yadavji_ kept us stuffed almost all the time. 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/32690874077_a534be3b04_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/32690874077_a534be3b04.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/32690874077_a534be3b04.jpg">
   </a>
   <em>We saw some of the most beautiful sunsets out here</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47633317251_078f5ec48b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47633317251_078f5ec48b.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47633317251_078f5ec48b.jpg">
   </a>
   <em>The bonfires kept us warm</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/33756017418_0195267e39_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/33756017418_0195267e39.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/33756017418_0195267e39.jpg">
   </a>
   <em>An unamused Yadavji kept us stuffed :smile:</em>
 </div>

@@ -18,7 +18,7 @@ We left Koh Rong Samloem after spending seven days in bliss on the paradise isla
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48235315811_80f3387c3b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235315811_80f3387c3b.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235315811_80f3387c3b.jpg">
   </a>
   <em>Long Cambodian transits</em>
 </div>
@@ -33,15 +33,14 @@ Parul and I took a bus to Phnom Penh and checked into the guesthouse. We went to
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235462132_1bbcc2f707_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235462132_1bbcc2f707.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235462132_1bbcc2f707.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235461907_f33ab559ec_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235461907_f33ab559ec.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235461907_f33ab559ec.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Phnom Penh!</em>
 </div>
 
@@ -53,29 +52,27 @@ The biggest challenge was to identify what the dads would enjoy doing. We tried 
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/48235461747_5967b983bf_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/48235461747_5967b983bf.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/48235461747_5967b983bf.jpg">
     </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235461637_558cb61c6a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235461637_558cb61c6a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235461637_558cb61c6a.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Lunch date with the dads</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48235383371_21f5d08c55_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235383371_21f5d08c55.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235383371_21f5d08c55.jpg">
   </a>
   <em>Chopsticks lesson in progress</em>
 </div>
 
 <div class="postimg">
   <div class="video-container">
-    <iframe src="https://player.vimeo.com/video/346953774" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+    <iframe src="https://player.vimeo.com/video/346953774" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>I'd say I'm a good teacher :joy:</em>
 </div>
 
@@ -85,33 +82,32 @@ We walked around the streets of the city and saw some pagodas nearby. Phnom Penh
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235460702_ac9d980454_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235460702_ac9d980454.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235460702_ac9d980454.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235457192_ccf28c3e00_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235457192_ccf28c3e00.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235457192_ccf28c3e00.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235378546_a0d53d3cdf_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235378546_a0d53d3cdf.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235378546_a0d53d3cdf.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235460822_51224749ac_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235460822_51224749ac.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235460822_51224749ac.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235379151_3a1cfa19e5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235379151_3a1cfa19e5.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235379151_3a1cfa19e5.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235382391_57a6f77ae9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235382391_57a6f77ae9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235382391_57a6f77ae9.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235377981_65f08d05ee_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235377981_65f08d05ee.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235377981_65f08d05ee.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235457737_ffd53f30ca_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235457737_ffd53f30ca.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235457737_ffd53f30ca.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Walking around Phnom Penh</em>
 </div>
 
@@ -125,33 +121,31 @@ Another highlight of the trip was the **Apsara Dance**. [Cambodian Living Arts](
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235458572_4c7b59026f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235458572_4c7b59026f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235458572_4c7b59026f.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235460002_5e8ff63896_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235460002_5e8ff63896.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235460002_5e8ff63896.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235381916_fd92aa1bce_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235381916_fd92aa1bce.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235381916_fd92aa1bce.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235380926_2dff9d60ea_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235380926_2dff9d60ea.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235380926_2dff9d60ea.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235459742_f0daee9f1f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235459742_f0daee9f1f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235459742_f0daee9f1f.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235381466_953f8974b2_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235381466_953f8974b2.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235381466_953f8974b2.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
 </div>
 
 <div class="postimg">
   <div class="video-container">
-    <iframe src="https://player.vimeo.com/video/344961405" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+    <iframe src="https://player.vimeo.com/video/344961405" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Apsara Dance at the National Museum</em>
 </div>
 
@@ -163,33 +157,32 @@ On our last morning in town we went walking around the Royal Palace. This was th
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235454507_26210c72d8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235454507_26210c72d8.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235454507_26210c72d8.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235376811_67e63f7c54_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235376811_67e63f7c54.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235376811_67e63f7c54.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235375641_658cc3ee84_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235375641_658cc3ee84.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235375641_658cc3ee84.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235376461_489f07480d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235376461_489f07480d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235376461_489f07480d.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235454332_2e38980256_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235454332_2e38980256.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235454332_2e38980256.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235375741_b38339bba6_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235375741_b38339bba6.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235375741_b38339bba6.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The Royal Palace</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48235454807_1285101a7a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235454807_1285101a7a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235454807_1285101a7a.jpg">
   </a>
   <em>Getting these guys to pose is a task! :expressionless:</em>
 </div>
@@ -208,15 +201,14 @@ The first night we hit the Pub Street to give the dads a taste of what our trave
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235373351_418dd82b7b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235373351_418dd82b7b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235373351_418dd82b7b.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235450392_5e3f61e9ae_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235450392_5e3f61e9ae.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235450392_5e3f61e9ae.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Miss Wong was a tastefully done speakeasy</em>
 </div>
 
@@ -224,26 +216,25 @@ The first night we hit the Pub Street to give the dads a taste of what our trave
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235452037_3fd331cfca_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235452037_3fd331cfca.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235452037_3fd331cfca.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235374166_f4f54f4cb5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235374166_f4f54f4cb5.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235374166_f4f54f4cb5.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
 </div>
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235451787_d9d41a75c5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235451787_d9d41a75c5.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235451787_d9d41a75c5.jpg">
   </a>
   <em>The legendary ice-cream rolls of Pub Street</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235450292_82eac9c55f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235450292_82eac9c55f.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235450292_82eac9c55f.jpg">
   </a>
   <em>The fish spa was an unexpected success :v:</em>
 </div>
@@ -252,21 +243,20 @@ The first night we hit the Pub Street to give the dads a taste of what our trave
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235373736_b4807cf57d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235373736_b4807cf57d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235373736_b4807cf57d.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235435297_3e0cd4561b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235435297_3e0cd4561b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235435297_3e0cd4561b.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Surprisingly, Papa was interested in shopping! :astonished:</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48235448932_882f346014_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235448932_882f346014.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235448932_882f346014.jpg">
   </a>
   <em>A dinner to wrap it all :clap:</em>
 </div>
@@ -277,14 +267,14 @@ The next morning we headed to the Angkor temples, the most famous thing to do in
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235366576_6db46646b9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235366576_6db46646b9.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235366576_6db46646b9.jpg">
   </a>
   <em>The hyped Angkor Wat sunrise :unamused:</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235448282_fe2544d5a1_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235448282_fe2544d5a1.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235448282_fe2544d5a1.jpg">
   </a>
   <em>Catching the sun rise without the bhasad</em>
 </div>
@@ -295,15 +285,14 @@ We headed to Angkor Thom, thinking that we might be able to enjoy some temples w
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235443347_45360cbc7f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235443347_45360cbc7f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235443347_45360cbc7f.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235371656_cb260fbb68_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235371656_cb260fbb68.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235371656_cb260fbb68.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Crossing the Southern gate into Angkor Thom</em>
 </div>
 
@@ -313,21 +302,20 @@ We went to Baphuon first. This is one of my favourite temples in the Angkor Thom
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235364361_9c59e9d7cc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235364361_9c59e9d7cc.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235364361_9c59e9d7cc.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235442672_6ff6564a8d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235442672_6ff6564a8d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235442672_6ff6564a8d.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235441517_c4a511729b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235441517_c4a511729b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235441517_c4a511729b.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235441962_52f3439e6d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235441962_52f3439e6d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235441962_52f3439e6d.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Baphuon</em>
 </div>
 
@@ -335,7 +323,7 @@ Papa decided to sit it out after the first few flights of steps. To each his own
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48235370036_22b9cb5f4b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235370036_22b9cb5f4b.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235370036_22b9cb5f4b.jpg">
   </a>
   <em>Papa chilling at the lower level</em>
 </div>
@@ -344,7 +332,7 @@ Next up was the famed Bayon.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235438682_9506886226_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235438682_9506886226.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235438682_9506886226.jpg">
   </a>
 </div>
 
@@ -352,15 +340,14 @@ Next up was the famed Bayon.
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235447512_ce571b6dba_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235447512_ce571b6dba.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235447512_ce571b6dba.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235438557_16b025b924_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235438557_16b025b924.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235438557_16b025b924.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The temple of faces</em>
 </div>
 
@@ -368,7 +355,7 @@ Although I love this site as well, the gazillion tourists here make the site a r
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235361916_0398cbc682_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235361916_0398cbc682.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235361916_0398cbc682.jpg">
   </a>
   <em>WAY too many faces :grimacing:</em>
 </div>
@@ -377,7 +364,7 @@ But it's a fun place to click photos. :stuck_out_tongue:
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48235369636_56a6341974_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235369636_56a6341974.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235369636_56a6341974.jpg">
   </a>
   <em>Head to head talks :stuck_out_tongue:</em>
 </div>
@@ -386,15 +373,14 @@ But it's a fun place to click photos. :stuck_out_tongue:
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235363071_f96eecfd18_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235363071_f96eecfd18.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235363071_f96eecfd18.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235439592_ee71a86d6d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235439592_ee71a86d6d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235439592_ee71a86d6d.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Window shopping :smile:</em>
 </div>
 
@@ -402,21 +388,20 @@ But it's a fun place to click photos. :stuck_out_tongue:
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235440107_63e23c704f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235440107_63e23c704f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235440107_63e23c704f.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235448157_9ed93250b3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235448157_9ed93250b3.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235448157_9ed93250b3.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The peril of having two cameras (guess which one of us clicked which :expressionless:)</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48235369431_a8efc40df9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235369431_a8efc40df9.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235369431_a8efc40df9.jpg">
   </a>
   <em>But first, let me put my sunscreen :sunny: :sunglasses:</em>
 </div>
@@ -425,7 +410,7 @@ We broke at Thommanon next for a few more pictures.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235360721_cab69fbd96_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235360721_cab69fbd96.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235360721_cab69fbd96.jpg">
   </a>
 </div>
 
@@ -433,15 +418,14 @@ We broke at Thommanon next for a few more pictures.
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235446257_9fc079f7b4_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235446257_9fc079f7b4.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235446257_9fc079f7b4.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235445887_b0f9d89a8f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235445887_b0f9d89a8f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235445887_b0f9d89a8f.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Picture break :camera:</em>
 </div>
 
@@ -449,27 +433,26 @@ Then we headed to Ta Keo, the mountain temple. This one is an imposing structure
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235358786_69cc38d97b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235358786_69cc38d97b.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235358786_69cc38d97b.jpg">
   </a>
 </div>
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235445212_3863a06569_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235445212_3863a06569.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235445212_3863a06569.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235445407_9793c0802e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235445407_9793c0802e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235445407_9793c0802e.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235435832_466f6e402e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235435832_466f6e402e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235435832_466f6e402e.jpg">
   </a>
   <em>The imposing Ta Keo</em>
 </div>
@@ -478,7 +461,7 @@ We wrapped up Ta Prohm fast enough since every one had gotten hungry and we were
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48235444622_87825a0c39_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235444622_87825a0c39.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235444622_87825a0c39.jpg">
   </a>
   <em>Tomb Raider much?</em>
 </div>
@@ -489,21 +472,20 @@ After lunch we went back to Angkor Wat to explore the temple. The crowd had thin
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235356441_a90b85af5f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235356441_a90b85af5f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235356441_a90b85af5f.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235356661_9a61950e59_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235356661_9a61950e59.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235356661_9a61950e59.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235357406_bc2c2d2b77_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235357406_bc2c2d2b77.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235357406_bc2c2d2b77.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235357086_fb8155c27b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235357086_fb8155c27b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235357086_fb8155c27b.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The return to Angkor Wat</em>
 </div>
 
@@ -511,7 +493,7 @@ It had gotten really hot though. So we grabbed some coconuts before calling it a
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235443942_3a08f0edb8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235443942_3a08f0edb8.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235443942_3a08f0edb8.jpg">
   </a>
   <em>Coconut to the rescue :green_heart:</em>
 </div>
@@ -520,7 +502,7 @@ We went to [Georges](https://www.georges-rhumerie.com/) that evening for dinner.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235437912_82a7e3c69e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235437912_82a7e3c69e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235437912_82a7e3c69e.jpg">
   </a>
   <em>Rum tasting!</em>
 </div>
@@ -529,15 +511,14 @@ We went to [Georges](https://www.georges-rhumerie.com/) that evening for dinner.
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235436422_492fe2b57f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235436422_492fe2b57f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235436422_492fe2b57f.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235360151_d2583fb9b9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235360151_d2583fb9b9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235360151_d2583fb9b9.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Never knew French food was so delicious!</em>
 </div>
 
@@ -545,7 +526,7 @@ The next morning we bid Papa and Chachu goodbye. They would return to Phnom Penh
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48235356131_40580dfc8e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235356131_40580dfc8e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235356131_40580dfc8e.jpg">
   </a>
   <em>The goodbye selfie</em>
 </div>
@@ -556,21 +537,20 @@ We stuck around in Siem Reap for another day to plan our travel ahead. We visite
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235354921_ffa218b8b8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235354921_ffa218b8b8.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235354921_ffa218b8b8.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235433147_f492da8b60_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235433147_f492da8b60.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235433147_f492da8b60.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235432867_4a820d660c_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235432867_4a820d660c.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235432867_4a820d660c.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235432287_c62022bfa5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235432287_c62022bfa5.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235432287_c62022bfa5.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>:dog:</em>
 </div>
 
@@ -578,15 +558,14 @@ We stuck around in Siem Reap for another day to plan our travel ahead. We visite
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235354551_0b934e035b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235354551_0b934e035b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235354551_0b934e035b.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235354271_69a77c2e97_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235354271_69a77c2e97.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235354271_69a77c2e97.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Dosa and Pho :yum:</em>
 </div>
 
@@ -598,28 +577,27 @@ Preah Vihear is a personal favourite of all the temples I have been to anywhere 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235353881_00e9689c15_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235353881_00e9689c15.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235353881_00e9689c15.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235430432_e4fce07495_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235430432_e4fce07495.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235430432_e4fce07495.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The long climb</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235344266_be7d4b6b61_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235344266_be7d4b6b61.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235344266_be7d4b6b61.jpg">
   </a>
   <em>"Why you make me do this?!"</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48235348791_f411fc6413_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48235348791_f411fc6413.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48235348791_f411fc6413.jpg">
   </a>
   <em>The unfriendly dogs of Preah Vihear</em>
 </div>
@@ -628,63 +606,62 @@ Preah Vihear is a personal favourite of all the temples I have been to anywhere 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235426582_78e870576f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235426582_78e870576f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235426582_78e870576f.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235348521_19d25ca9b2_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235348521_19d25ca9b2.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235348521_19d25ca9b2.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235423072_ffbe9a238e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235423072_ffbe9a238e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235423072_ffbe9a238e.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235342641_f287744d28_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235342641_f287744d28.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235342641_f287744d28.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235414107_f6b8f4fa91_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235414107_f6b8f4fa91.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235414107_f6b8f4fa91.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235420827_110cd99a35_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235420827_110cd99a35.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235420827_110cd99a35.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235323221_3180cd36a1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235323221_3180cd36a1.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235323221_3180cd36a1.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235397602_50cc0154cb_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235397602_50cc0154cb.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235397602_50cc0154cb.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235313061_ff0647eb97_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235313061_ff0647eb97.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235313061_ff0647eb97.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235424712_d6acfbb8d8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235424712_d6acfbb8d8.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235424712_d6acfbb8d8.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235333206_21f6641cc9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235333206_21f6641cc9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235333206_21f6641cc9.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235314726_42a157f65e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235314726_42a157f65e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235314726_42a157f65e.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235418672_8faa317d75_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235418672_8faa317d75.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235418672_8faa317d75.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235325256_5385407c01_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235325256_5385407c01.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235325256_5385407c01.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235351361_0efb32bd6a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235351361_0efb32bd6a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235351361_0efb32bd6a.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235343871_d70a4069d3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235343871_d70a4069d3.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235343871_d70a4069d3.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235334671_5db505a520_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235334671_5db505a520.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235334671_5db505a520.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48235328921_8c98b702a4_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235328921_8c98b702a4.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235328921_8c98b702a4.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Beyond descriptions</em>
 </div>
 
@@ -694,15 +671,14 @@ After a few hours on the top, we took a couple of motos back to the town.
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235427957_b15f67bfaf_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235427957_b15f67bfaf.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235427957_b15f67bfaf.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48235350316_6e3a724cd1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48235350316_6e3a724cd1.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48235350316_6e3a724cd1.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The way back</em>
 </div>
 

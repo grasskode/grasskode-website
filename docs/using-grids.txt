@@ -6,8 +6,7 @@
       <a href="image" data-toggle="lightbox">
         <img src="image" alt="title">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>title</em>
 </div>
 
@@ -24,8 +23,7 @@ For two images use two grid columns with one image each.
       <a href="image" data-toggle="lightbox">
         <img src="image2" alt="title2">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>title</em>
 </div>
 
@@ -48,7 +46,6 @@ For four images use two grid columns with two images each and so on.
       <a href="image" data-toggle="lightbox">
         <img src="image4" alt="title4">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>title</em>
 </div>

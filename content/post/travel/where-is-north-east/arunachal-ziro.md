@@ -27,24 +27,22 @@ I admittedly knew little about Arunachal Pradesh before I set foot inside it. Wh
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7881/32615552148_38680dfa16_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7881/32615552148_38680dfa16.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7881/32615552148_38680dfa16.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7802/32615542968_350197ff3d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7802/32615542968_350197ff3d.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7802/32615542968_350197ff3d.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7854/31548276697_e17c01e3fb_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7854/31548276697_e17c01e3fb.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7854/31548276697_e17c01e3fb.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7912/32615533838_30d71fe28c_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7912/32615533838_30d71fe28c.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7912/32615533838_30d71fe28c.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Scenes from the Bus Journey</em>
 </div>
-
 
 We got our [ILP](/post/travel/where-is-north-east/ilp/) checked at the gate and then proceeded to the other side to catch another bus to Naharlagun - the sister town to Itanagar, Arunachal's administrative capital. Almost immediately after we crossed the gate, it started drizzling and the rain picked up a bit on the way to Naharlagun. The rains were the primary reason that we were using public transport instead of our motorbikes. The road to Ziro was not one of the best ones and Parul was not yet comfortable negotiating slopes and hilly roads.
 
@@ -52,7 +50,7 @@ We reached Naharlagun in less than an hour and quickly found a decent hotel near
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7864/46487744781_b4da1492f8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7864/46487744781_b4da1492f8.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7864/46487744781_b4da1492f8.jpg">
   </a>
   <em>First Meal in Arunachal</em>
 </div>
@@ -61,7 +59,7 @@ At 6 the next morning I went to ask around for a bus or Sumo. The counters were 
 
 <div class="postimg vertimg">
   <a href="https://farm5.staticflickr.com/4918/32615012748_a45dbb7ee8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm5.staticflickr.com/4918/32615012748_a45dbb7ee8.jpg">
+    <img loading="lazy" src="https://farm5.staticflickr.com/4918/32615012748_a45dbb7ee8.jpg">
   </a>
   <em>THE Sumo!</em>
 </div>
@@ -70,7 +68,7 @@ It was cloudy throughout but the rains spared us after some light activity. The 
 
 <div class="postimg vertimg">
   <a href="https://farm5.staticflickr.com/4819/45764498114_112cc8eb61_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm5.staticflickr.com/4819/45764498114_112cc8eb61.jpg">
+    <img loading="lazy" src="https://farm5.staticflickr.com/4819/45764498114_112cc8eb61.jpg">
   </a>
   <em>Checkpost on the way to Ziro</em>
 </div>
@@ -81,7 +79,6 @@ I called a friend who had been to Ziro before and he gave me some vague directio
 
 At the BSNL office, right after we had got a SIM, Parul suffered from a spell of illness; probably something she had eaten. Once she felt better we debated once more what we wanted to do and she said she was up to checking out the hotels. So we walked a good 20 minutes in the direction of "Old Ziro" and upon reaching the hotels, found out that they did not have a vacant room. Perfect. Where could we find one? Would be very difficult since the festival was coming up. Had we not made a reservation?
 
-
 ## Gimme Shelter
 
 We set camp in the hotel's cafe and started making calls to a list of homestays that Parul had found online. Almost every one of them had the same answer. They were booked. They had been booked for the festival dates atleast 4 months in advance. They also recommended that we should have made a booking. We thanked them and moved to the next option. Almost an hour went by (or maybe two) before we finally gave up and decided to take a homestay close by which was free for the next two days before the festival began. We would figure out the other days tomorrow. Today we were running out of patience and energy.
@@ -90,10 +87,9 @@ We set camp in the hotel's cafe and started making calls to a list of homestays 
 
 The homestay owner came to pick us up from the hotel and drove us to his house. It was a beautiful property overlooking the paddy fields. Uncle also showed us in a distance the festival grounds. Too bad he did not have a vacancy for the entire duration. His house also had a big garden where he grew all kinds of herbs and a kiwi tree that on which the unripe fruits had started hanging. All in all, we were happy with the result of the day's effort. :smile:
 
-
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7860/46436477892_867fb3d662_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7860/46436477892_867fb3d662.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7860/46436477892_867fb3d662.jpg">
   </a>
   <em>Welcome drink :tea:</em>
 </div>
@@ -102,20 +98,19 @@ The homestay owner came to pick us up from the hotel and drove us to his house. 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7844/44670818890_132198bbf1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7844/44670818890_132198bbf1.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7844/44670818890_132198bbf1.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm5.staticflickr.com/4827/45574721055_128bf01891_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm5.staticflickr.com/4827/45574721055_128bf01891.jpg">
+        <img loading="lazy" src="https://farm5.staticflickr.com/4827/45574721055_128bf01891.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
 </div>
 
 <div class="postimg">
   <a href="https://farm5.staticflickr.com/4889/45764199364_e66fd39cb2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm5.staticflickr.com/4889/45764199364_e66fd39cb2.jpg">
+    <img loading="lazy" src="https://farm5.staticflickr.com/4889/45764199364_e66fd39cb2.jpg">
   </a>
   <em>Homestay Feels</em>
 </div>
@@ -124,7 +119,7 @@ At night we were treated to a buffet of homecooked food in the pretty dining hal
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7833/45574765995_bfda9144d6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7833/45574765995_bfda9144d6.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7833/45574765995_bfda9144d6.jpg">
   </a>
   <em>Home cooked dinner</em>
 </div>
@@ -133,7 +128,7 @@ After dinner we sat down with the hosts and Aunty poured us glasses of "organic 
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7859/32615283978_e86aeb5ae6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7859/32615283978_e86aeb5ae6.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7859/32615283978_e86aeb5ae6.jpg">
   </a>
   <em>:fire:</em>
 </div>
@@ -144,21 +139,20 @@ The next morning Uncle introduced us to a relation of his who had a homestay in 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm5.staticflickr.com/4909/45764493464_e476aa89c2_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm5.staticflickr.com/4909/45764493464_e476aa89c2.jpg">
+        <img loading="lazy" src="https://farm5.staticflickr.com/4909/45764493464_e476aa89c2.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7820/32615200498_95c0fea17f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7820/32615200498_95c0fea17f.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7820/32615200498_95c0fea17f.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm5.staticflickr.com/4830/44670546470_12149f28dd_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm5.staticflickr.com/4830/44670546470_12149f28dd.jpg">
+        <img loading="lazy" src="https://farm5.staticflickr.com/4830/44670546470_12149f28dd.jpg">
       </a>
       <a href="https://farm5.staticflickr.com/4915/46436329822_7a32f6063a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm5.staticflickr.com/4915/46436329822_7a32f6063a.jpg">
+        <img loading="lazy" src="https://farm5.staticflickr.com/4915/46436329822_7a32f6063a.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Hues of Ziro</em>
 </div>
 
@@ -168,33 +162,32 @@ We found Uncle's relative's place after asking around a bit and checked it out. 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7832/46487729021_e68878ca11_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7832/46487729021_e68878ca11.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7832/46487729021_e68878ca11.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7908/45574683355_8ea77d3735_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7908/45574683355_8ea77d3735.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7908/45574683355_8ea77d3735.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7860/31547955577_d532448c30_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7860/31547955577_d532448c30.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7860/31547955577_d532448c30.jpg">
       </a>
       <a href="https://farm5.staticflickr.com/4869/46436416562_8b093abc5f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm5.staticflickr.com/4869/46436416562_8b093abc5f.jpg">
+        <img loading="lazy" src="https://farm5.staticflickr.com/4869/46436416562_8b093abc5f.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7817/45574638305_765c8202c0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7817/45574638305_765c8202c0.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7817/45574638305_765c8202c0.jpg">
       </a>
       <a href="https://farm5.staticflickr.com/4868/31547921627_2d208f8611_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm5.staticflickr.com/4868/31547921627_2d208f8611.jpg">
+        <img loading="lazy" src="https://farm5.staticflickr.com/4868/31547921627_2d208f8611.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7923/46436342622_c29f98690e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7923/46436342622_c29f98690e.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7923/46436342622_c29f98690e.jpg">
       </a>
       <a href="https://farm8.staticflickr.com/7923/44670662490_2987cc33b1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7923/44670662490_2987cc33b1.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7923/44670662490_2987cc33b1.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The Village of Hong</em>
 </div>
 
@@ -204,20 +197,19 @@ The festival grounds were still being prepared but we asked permission to check 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm5.staticflickr.com/4910/46435701872_f7a783a543_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm5.staticflickr.com/4910/46435701872_f7a783a543.jpg">
+        <img loading="lazy" src="https://farm5.staticflickr.com/4910/46435701872_f7a783a543.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm5.staticflickr.com/4864/46435746802_c811d90f6f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm5.staticflickr.com/4864/46435746802_c811d90f6f.jpg">
+        <img loading="lazy" src="https://farm5.staticflickr.com/4864/46435746802_c811d90f6f.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7802/46435691022_6a6214972e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7802/46435691022_6a6214972e.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7802/46435691022_6a6214972e.jpg">
   </a>
   <em>A Promising Setup!</em>
 </div>
@@ -226,13 +218,12 @@ More importantly though, we found a few boards right next to the entrance which 
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7894/31548259627_2f86cd43b9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7894/31548259627_2f86cd43b9.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7894/31548259627_2f86cd43b9.jpg">
   </a>
   <em>The Accidental Home</em>
 </div>
 
 > Birii (pronounced bee-ree) is the village closest to the Ziro Festival of Music grounds. Just in case someone wants to know. :grimacing:
-
 
 ## Days of ZFM
 
@@ -242,7 +233,7 @@ After the hour long walk to Birii, we came to know that the rooms we had selecte
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7923/46488063221_be8a3bd4e4_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7923/46488063221_be8a3bd4e4.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7923/46488063221_be8a3bd4e4.jpg">
   </a>
   <em>Serene</em>
 </div>
@@ -251,7 +242,7 @@ We settled in, got ready and left for the festival which was to start later in t
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7907/46487092761_3f44780cf7_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7907/46487092761_3f44780cf7.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7907/46487092761_3f44780cf7.jpg">
   </a>
   <em>Namaste ZFM!</em>
 </div>
@@ -266,15 +257,14 @@ On a lighter note, we also had a gala time at the guesthouse. The group who had 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7841/45763909944_c41a36741c_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7841/45763909944_c41a36741c.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7841/45763909944_c41a36741c.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7835/46436695722_1c5f1acec7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7835/46436695722_1c5f1acec7.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7835/46436695722_1c5f1acec7.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Outside the Festival Grounds</em>
 </div>
 
@@ -284,39 +274,37 @@ The festival itself was something quite unlike what I have attended before. It w
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7811/45573856695_8294546a80_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7811/45573856695_8294546a80.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7811/45573856695_8294546a80.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7828/31547122157_4eedb86969_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7828/31547122157_4eedb86969.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7828/31547122157_4eedb86969.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Inside the Festival Grounds</em>
 </div>
 
 <div class="postimg">
   <a href="https://farm5.staticflickr.com/4875/32614263588_9493ae2eb9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm5.staticflickr.com/4875/32614263588_9493ae2eb9.jpg">
+    <img loading="lazy" src="https://farm5.staticflickr.com/4875/32614263588_9493ae2eb9.jpg">
   </a>
   <em>Spectacular Sunsets</em>
 </div>
 
 <div class="postimg">
   <a href="https://farm5.staticflickr.com/4901/46487360481_2f71497c92_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm5.staticflickr.com/4901/46487360481_2f71497c92.jpg">
+    <img loading="lazy" src="https://farm5.staticflickr.com/4901/46487360481_2f71497c92.jpg">
   </a>
   <em>MONOmania</em>
 </div>
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7844/46487478211_59faf11bf7_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7844/46487478211_59faf11bf7.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7844/46487478211_59faf11bf7.jpg">
   </a>
   <em>The colourful night stage</em>
 </div>
-
 
 ## A World Apart
 
@@ -326,7 +314,7 @@ We came to know that Ziro has an interesting systen of _panikheti_, as we learnt
 
 <div class="postimg">
   <a href="https://farm5.staticflickr.com/4816/46436671072_0905940ce1_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm5.staticflickr.com/4816/46436671072_0905940ce1.jpg">
+    <img loading="lazy" src="https://farm5.staticflickr.com/4816/46436671072_0905940ce1.jpg">
   </a>
   <em>Panikheti</em>
 </div>
@@ -337,13 +325,13 @@ One of the days we walked around the villages on this side of Ziro - Hari and Bu
 
 <div class="postimg">
   <a href="https://farm8.staticflickr.com/7890/32615368878_c99caa0aeb_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7890/32615368878_c99caa0aeb.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7890/32615368878_c99caa0aeb.jpg">
   </a>
   <a href="https://farm5.staticflickr.com/4868/46488044591_ca1fb9d327_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm5.staticflickr.com/4868/46488044591_ca1fb9d327.jpg">
+    <img loading="lazy" src="https://farm5.staticflickr.com/4868/46488044591_ca1fb9d327.jpg">
   </a>
   <a href="https://farm5.staticflickr.com/4914/44670881250_e9841ecc22_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm5.staticflickr.com/4914/44670881250_e9841ecc22.jpg">
+    <img loading="lazy" src="https://farm5.staticflickr.com/4914/44670881250_e9841ecc22.jpg">
   </a>
   <em>Walking around the villages</em>
 </div>
@@ -354,15 +342,14 @@ On another day, we tried seeing the famous _Shivling_ that had been discovered n
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7921/45764473594_70a03082cc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7921/45764473594_70a03082cc.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7921/45764473594_70a03082cc.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://farm8.staticflickr.com/7856/45764464134_592c11689b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://farm8.staticflickr.com/7856/45764464134_592c11689b.jpg">
+        <img loading="lazy" src="https://farm8.staticflickr.com/7856/45764464134_592c11689b.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Guesthouse vibes!</em>
 </div>
 
@@ -370,7 +357,7 @@ After two days we bade goodbye to our hosts and friends and exchanged numbers to
 
 <div class="postimg vertimg">
   <a href="https://farm8.staticflickr.com/7802/44670509450_8dd52c8633_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://farm8.staticflickr.com/7802/44670509450_8dd52c8633.jpg">
+    <img loading="lazy" src="https://farm8.staticflickr.com/7802/44670509450_8dd52c8633.jpg">
   </a>
   <em>Returning to the plains</em>
 </div>

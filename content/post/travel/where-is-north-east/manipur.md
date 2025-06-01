@@ -15,15 +15,14 @@ The road after Kohima was suddenly so good. If you have been reading through the
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47975432738_6d31eb4b34_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47975432738_6d31eb4b34_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47975432738_6d31eb4b34_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47975476966_54a9b7689d_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47975476966_54a9b7689d_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47975476966_54a9b7689d_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Bye Bye Kohima</em>
 </div>
 
@@ -35,7 +34,7 @@ The road to Imphal was going fine till we hit the Nagaland - Manipur border. Wel
 
 <div class="postimg inline40">
   <a href="https://live.staticflickr.com/65535/47975478576_b998089bb8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47975478576_b998089bb8_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47975478576_b998089bb8_c.jpg">
   </a>
   <em>The place where it started</em>
 </div>
@@ -48,21 +47,20 @@ We had begun riding full tango. Karan in lead and me in the follow signaling eac
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47975434203_cddd60d1cc_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47975434203_cddd60d1cc_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47975434203_cddd60d1cc_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47975424297_349ab07bd8_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47975424297_349ab07bd8_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47975424297_349ab07bd8_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Lovely roads of Manipur :heart:</em>
 </div>
 
 <div class="postimg inline40">
   <a href="https://live.staticflickr.com/65535/47975697106_ed5c904d33_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47975697106_ed5c904d33_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47975697106_ed5c904d33_c.jpg">
   </a>
   <em>Home away from home in Imphal</em>
 </div>
@@ -73,14 +71,13 @@ The next day we decided to go to the Kangla fort. But first things first, we had
 
 <div class="postimg">
   <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/340766420" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+  <iframe src="https://player.vimeo.com/video/340766420" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Buffoonery at Kangla fort :stuck_out_tongue:</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47975433948_2e81da5cdf_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47975433948_2e81da5cdf_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47975433948_2e81da5cdf_c.jpg">
   </a>
   <em>Kangla fort temple :sunny:</em>
 </div>
@@ -91,25 +88,24 @@ Our breakfast was usually at some bakery. Likla Bakery had become one of our fav
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47983020808_ef1f4edcb2_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47983020808_ef1f4edcb2_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47983020808_ef1f4edcb2_z.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47975423907_87d06e04a0_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47975423907_87d06e04a0_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47975423907_87d06e04a0_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Likla bakery savories(left); Michelle's sweet temptation(right)</em>
 </div>
 
 That night the guy managing the homestay suggested we should go to Govindajee temple for a visit. It would require dressing up in the local attire and sitting for a mass meal. We were so game.
 
-The next day started off eventfully. I had contracted a pretty serious UTI. We had to do a round to the another part of the city for tests and medicine. This was horrible. After initial battle and whining we decided to keep up the plan to go to the temple. The owner's mother helped me get decked up in the beautiful Manipuri attire. She and I did the entire thing without either of us understanding a word of what the other person said. She spoke only Manipuri and I could speak only English and Hindi. But I like to believe language is a barrier only if you want it to be. We smiled and giggled at each other and the end result was something like this :heart:.  
+The next day started off eventfully. I had contracted a pretty serious UTI. We had to do a round to the another part of the city for tests and medicine. This was horrible. After initial battle and whining we decided to keep up the plan to go to the temple. The owner's mother helped me get decked up in the beautiful Manipuri attire. She and I did the entire thing without either of us understanding a word of what the other person said. She spoke only Manipuri and I could speak only English and Hindi. But I like to believe language is a barrier only if you want it to be. We smiled and giggled at each other and the end result was something like this :heart:.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47975477576_2daccae1c2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47975477576_2daccae1c2_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47975477576_2daccae1c2_z.jpg">
   </a>
   <em>What do you think?</em>
 </div>
@@ -118,7 +114,7 @@ Karan, well, got only a kurta for the "traditional attire". He was quite jealous
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47975423082_2523b9a43b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47975423082_2523b9a43b_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47975423082_2523b9a43b_z.jpg">
   </a>
   <em> Govindajee temple meal :yum:</em>
 </div>
@@ -127,16 +123,16 @@ The meal was great and the entire atmosphere was wonderful. We were clearly tour
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47975432988_64a5420e6a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47975432988_64a5420e6a_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47975432988_64a5420e6a_z.jpg">
   </a>
   <em>Govindajee temple :pray:</em>
-</div>  
+</div>
 
 After a nap we got ready for the Riverbank Music Festival. I had been looking for performances by a local band [Sam Paa](http://grasskode.xyz/post/travel/where-is-north-east/zfm2018/#day-4-ziro-is-an-experience) which we had seen at [Ziro Music Festival 2018](http://grasskode.xyz/post/travel/where-is-north-east/zfm2018/). We found out that they were performing at a certain Riverbank Music Festival. So while hopping one of the cafés we bought the tickets for the same. We reached the festival grounds soon. Due to some technical glitches the festival started really really late. It was beginning to get cold and I had fashionably just worn a sweater and a shawl I had acquired from Nagaland and Karan was casually in a jacket. As the name suggested the festival was at the banks of a river and the idea of the festival was to promote the need to keep the river clean.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47983071576_d9affea482_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47983071576_d9affea482_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47983071576_d9affea482_z.jpg">
   </a>
   <em>Fashion vs warmth?</em>
 </div>
@@ -145,15 +141,14 @@ After a nap we got ready for the Riverbank Music Festival. I had been looking fo
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47983071701_f952b9af7b_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47983071701_f952b9af7b_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47983071701_f952b9af7b_z.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47983019643_491a3149ae_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47983019643_491a3149ae_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47983019643_491a3149ae_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Riverbank Music Festival, SamPaa(to the right)</em>
 </div>
 
@@ -161,8 +156,7 @@ The bands were local with SamPaa being the biggest of them all. The only thing w
 
 <div class="postimg">
   <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/340766445" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+  <iframe src="https://player.vimeo.com/video/340766445" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>SamPaa in action</em>
 </div>
 
@@ -172,7 +166,7 @@ The next day we picked up on another suggestion from our hosts, to go and visit 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47983020783_035f5df239_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47983020783_035f5df239_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47983020783_035f5df239_z.jpg">
   </a>
   <em>Inside RKCS gallery</em>
 </div>
@@ -181,7 +175,7 @@ Post the museum we headed out to the World war II memorial in Imphal. It was sup
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47983021082_d666ea5868_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47983021082_d666ea5868_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47983021082_d666ea5868_z.jpg">
   </a>
   <em>Ghaat ghaat ka paani poori :grin:</em>
 </div>
@@ -192,15 +186,14 @@ That night we decided to have our long pending anniversary dinner at a nice roof
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47983020688_4010363a6c_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47983020688_4010363a6c_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47983020688_4010363a6c_z.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47983020393_747df2d6da_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47983020393_747df2d6da_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47983020393_747df2d6da_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Love in Imphal :heart:</em>
 </div>
 The next day we decided to go to attempt the World war II memorial again, earlier than the day before. We also decided that we will be leaving for the Loktak lake the next day. I was feeling fine and the time seemed right. We would be spending Christmas in homestay on the lake. What could be better than that, right?
@@ -209,23 +202,22 @@ The next day we decided to go to attempt the World war II memorial again, earlie
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47983070091_fb845c66e4_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47983070091_fb845c66e4_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47983070091_fb845c66e4_z.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47983069946_c883fbc80d_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47983069946_c883fbc80d_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47983069946_c883fbc80d_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>World War II memorial :sunny:</em>
-</div>  
+</div>
 
 Of course we did another round of Paani poori here. I had no idea when I was going to get the next one :stuck_out_tongue:.
 
 <div class="postimg vertimg">
     <a href="https://live.staticflickr.com/65535/47983019843_0f18a1ea2b_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47983019843_0f18a1ea2b_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47983019843_0f18a1ea2b_z.jpg">
     </a>
   <em>Paani poori monster :japanese_ogre:</em>
 </div>
@@ -236,15 +228,14 @@ We found [Sid Expresso](https://www.facebook.com/sidespress0/), a nice café wit
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47983020342_33f282f427_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47983020342_33f282f427_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47983020342_33f282f427_z.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47983019788_994daa7b1b_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47983019788_994daa7b1b_z.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47983019788_994daa7b1b_z.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Sid Expresso :coffee:</em>
 </div>
 
@@ -254,7 +245,7 @@ After five lovely days with our gracious hosts it was time to ride to our next d
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47985740981_012c895153_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47985740981_012c895153_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47985740981_012c895153_c.jpg">
   </a>
   <em>Bags are packed and we are ready to go :airplane: </em>
 </div>
@@ -263,7 +254,7 @@ The ride to Moirang was short, 3 hours. We were heading to this town to see the 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47985740961_c3723ba4e9_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47985740961_c3723ba4e9_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47985740961_c3723ba4e9_c.jpg">
   </a>
   <em>INA museum</em>
 </div>
@@ -274,23 +265,22 @@ We left shortly for the lake as we wanted to dump our luggage before we headed o
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47985696747_57cb067ed8_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47985696747_57cb067ed8_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47985696747_57cb067ed8_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47985692703_6a7ce90718_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47985692703_6a7ce90718_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47985692703_6a7ce90718_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Hello Loktak Lake :wave: </em>
 </div>
 
-The first view of the homestay was quite mesmerizing. We were going to stay here for a day. The lake is famous for the *Phumdis* (heterogeneous mass of vegetation, soil and organic matter at various stages of decomposition) floating over it. The local fishermen had tied these together in various formations to cultivate fish. The tied up structures look like big circles from a higher ground. The homestay was build on one such mass. We kept our luggage at the "dock" and could feel the base of the homestay move as we walked on it. We giggled, took a look around and decided to go to the viewpoint from where we could see the lake. Once again we were ferried to the shore. There really wasn't any other way to go the shore and the boat ride was so calming. The staff of the homestay like in most other places of Manipur spoke Manipuri only but always had a big smile on their face.
+The first view of the homestay was quite mesmerizing. We were going to stay here for a day. The lake is famous for the _Phumdis_ (heterogeneous mass of vegetation, soil and organic matter at various stages of decomposition) floating over it. The local fishermen had tied these together in various formations to cultivate fish. The tied up structures look like big circles from a higher ground. The homestay was build on one such mass. We kept our luggage at the "dock" and could feel the base of the homestay move as we walked on it. We giggled, took a look around and decided to go to the viewpoint from where we could see the lake. Once again we were ferried to the shore. There really wasn't any other way to go the shore and the boat ride was so calming. The staff of the homestay like in most other places of Manipur spoke Manipuri only but always had a big smile on their face.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47985693368_91c3cf5d73_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47985693368_91c3cf5d73_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47985693368_91c3cf5d73_c.jpg">
   </a>
   <em>View from Loktak Aquamarine Homestay</em>
 </div>
@@ -299,58 +289,57 @@ We picked up one of the bikes and started for the viewpoint. It wasn't close, it
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47991085996_2e0540c57d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47991085996_2e0540c57d_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47991085996_2e0540c57d_c.jpg">
   </a>
   <em>Life at Loktak Lake</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47850562532_6bcea533dd_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47850562532_6bcea533dd_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47850562532_6bcea533dd_c.jpg">
   </a>
   <em> Going around in circles? :grin:</em>
 </div>
 
 <div class="postimg inline40">
   <a href="https://live.staticflickr.com/65535/47985692533_708bdfe431_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47985692533_708bdfe431_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47985692533_708bdfe431_c.jpg">
   </a>
   <em>Pakodas :heart:</em>
 </div>
 
-We had not really had anything to eat since morning so we sat down and had some lemongrass tea and pakodas in the shade of an umbrella that had been set for us. We discussed how humans can manage to live anywhere. We saw entire villages on the edge of the lake, fishermen out fishing and homes being made on the *Phumdis*. It was brilliant. Karan tapped his wrist suggesting we should make a move for the national park. We dashed to the park and reached there by 4 PM. There was still an hour before the park closed.
+We had not really had anything to eat since morning so we sat down and had some lemongrass tea and pakodas in the shade of an umbrella that had been set for us. We discussed how humans can manage to live anywhere. We saw entire villages on the edge of the lake, fishermen out fishing and homes being made on the _Phumdis_. It was brilliant. Karan tapped his wrist suggesting we should make a move for the national park. We dashed to the park and reached there by 4 PM. There was still an hour before the park closed.
 </br>
 </br>
 We reached a viewpoint where the forest guards gave us a binocular to see the Sangai deer, which is an endangered species of brow-antlered deer found only in Manipur, India. The park was the last natural refuge of the endangered Sangai which was also the state animal of Manipur. And what do you know! We saw one and then two and then oh so many! We had been told they were shy animals but OMG, we saw so many of them. We tried taking some photos but our telephoto lens were not good enough.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47985694652_54c9cb9835_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47985694652_54c9cb9835_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47985694652_54c9cb9835_c.jpg">
   </a>
   <em>Spot the brows of the Sangai deer</em>
 </div>
 
-We took a short boat ride in the *Phumdis* to see if we can get a closer look at the deer. The boatman even asked us to de-board at a point and Karan jumped on what seemed like land; only to realise it was *Phumdis* which moved as he jumped, this is also what gave a dancing effect to the Sangai when they run. Must be some sight!
+We took a short boat ride in the _Phumdis_ to see if we can get a closer look at the deer. The boatman even asked us to de-board at a point and Karan jumped on what seemed like land; only to realise it was _Phumdis_ which moved as he jumped, this is also what gave a dancing effect to the Sangai when they run. Must be some sight!
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47985693972_16e938ec66_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47985693972_16e938ec66_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47985693972_16e938ec66_c.jpg">
   </a>
   <em>Boat ride in the national park</em>
 </div>
 
 <div class="postimg">
   <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/340768762" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+  <iframe src="https://player.vimeo.com/video/340768762" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Jumping deer feels :joy:</em>
 </div>
 
-It was dark by the time we reached the boat pick up point of our homestay. The happy staff took us back to the cottage which was now ready for us. The homestay had a room or a hut with mosquito net tents with a double bed  mattress inside it. We had been provided with sleeping bags to beat the cold. There was a kitchen and dining hut and then there was a verandah sort of a place, a dock and the toilet and bathroom. Cozy enough. We settled in and came out to see the stars shining bright like diamonds. Soon the moon was out in it's full glory and reflected beautifully on the lake. How I thanked Julia at that very moment for pushing us to come here. It was so so romantic!
+It was dark by the time we reached the boat pick up point of our homestay. The happy staff took us back to the cottage which was now ready for us. The homestay had a room or a hut with mosquito net tents with a double bed mattress inside it. We had been provided with sleeping bags to beat the cold. There was a kitchen and dining hut and then there was a verandah sort of a place, a dock and the toilet and bathroom. Cozy enough. We settled in and came out to see the stars shining bright like diamonds. Soon the moon was out in it's full glory and reflected beautifully on the lake. How I thanked Julia at that very moment for pushing us to come here. It was so so romantic!
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47943309198_831821a168_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47943309198_831821a168_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47943309198_831821a168_c.jpg">
   </a>
   <em>To the moon and back?</em>
 </div>
@@ -363,8 +352,7 @@ Language is a barrier only if you want it to be.
 
 <div class="postimg">
   <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/340768776" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+  <iframe src="https://player.vimeo.com/video/340768776" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Karaoke time!</em>
 </div>
 
@@ -372,7 +360,7 @@ Eventually we retired to our cottage. It had gotten cold. The temperature was ar
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47943309188_50f4f0c8cc_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47943309188_50f4f0c8cc_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47943309188_50f4f0c8cc_c.jpg">
   </a>
   <em>Boatman in the clouds?</em>
 </div>
@@ -383,30 +371,28 @@ We left for our morning boat ride to see fishermen with their morning catch and 
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47985694287_b04f13ecb1_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47985694287_b04f13ecb1_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47985694287_b04f13ecb1_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47985741836_0686ea1d98_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47985741836_0686ea1d98_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47985741836_0686ea1d98_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Isn't it heavenly?</em>
 </div>
 
 <div class="postimg">
   <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/340768803" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+  <iframe src="https://player.vimeo.com/video/340768803" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Sound of peace</em>
 </div>
 
-After floating in the clouds for over an hour we reached the homestay for some warm breakfast. I wished we could stay another day but the cold of the night still gave me jitters. We said our goodbyes to the staff one last time and after a memorable photo we picked up our luggage for a beautiful boat ride back to the shore. The greens of the *Phumdis* and the blues in the sky filled our hearts with joy.
+After floating in the clouds for over an hour we reached the homestay for some warm breakfast. I wished we could stay another day but the cold of the night still gave me jitters. We said our goodbyes to the staff one last time and after a memorable photo we picked up our luggage for a beautiful boat ride back to the shore. The greens of the _Phumdis_ and the blues in the sky filled our hearts with joy.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47991159363_c090be2ec2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47991159363_c090be2ec2_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47991159363_c090be2ec2_c.jpg">
   </a>
   <em>One last view of the homestay :heart:</em>
 </div>
@@ -415,15 +401,16 @@ Ashok escorted us to the parking area. When we reached the bike park he told us 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47985695112_3b2ddd08af_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47985695112_3b2ddd08af_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47985695112_3b2ddd08af_c.jpg">
   </a>
   <em>Alien territory?</em>
 </div>
 
 We bid farewell to Ashok and started our journey to Moreh.
+
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47991209566_6a3e691642_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47991209566_6a3e691642_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47991209566_6a3e691642_c.jpg">
   </a>
   <em>Beauties with Beauties :grin:</em>
 </div>
@@ -436,22 +423,20 @@ The road to Moreh was beyond beautiful. The empty well tarred and winding roads 
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47997135176_5c0043b7ae_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47997135176_5c0043b7ae_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47997135176_5c0043b7ae_c.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47997091523_44ce1d002d_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47997091523_44ce1d002d_c.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47997091523_44ce1d002d_c.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Them roads!</em>
 </div>
 
 <div class="postimg">
   <div class="video-container">
-  <iframe src="https://player.vimeo.com/video/340442886" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+  <iframe src="https://player.vimeo.com/video/340442886" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Just another landslide</em>
 </div>
 
@@ -459,7 +444,7 @@ The roads were fairly empty except a few vehicles from the other side full of we
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47997084448_5d63523259_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47997084448_5d63523259_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47997084448_5d63523259_c.jpg">
   </a>
   <em>:v: out </em>
 </div>
@@ -468,7 +453,7 @@ We came across the first army camp. This camp took our IDs and gave us a token w
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47997080468_b2d3c3ab4d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47997080468_b2d3c3ab4d_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47997080468_b2d3c3ab4d_c.jpg">
   </a>
   <em>Doing as I was told, pose! :grin:</em>
 </div>
@@ -479,7 +464,7 @@ We reached Moreh soon only to realise everything was full because it was Christm
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47997130491_b255e7cefc_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47997130491_b255e7cefc_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47997130491_b255e7cefc_c.jpg">
   </a>
   <em>Myanmar :heart:</em>
 </div>
@@ -490,15 +475,14 @@ Next day started early with a trip to Namphalong market. It was one side of the 
   <div class="grid">
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47997082183_e91153e7d0_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47997082183_e91153e7d0.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47997082183_e91153e7d0.jpg">
     </a>
     </div>
     <div class="grid-column-50">
     <a href="https://live.staticflickr.com/65535/47997082053_fa7c5dedb5_c.jpg" data-toggle="lightbox">
-      <img class="lazy" data-src="https://live.staticflickr.com/65535/47997082053_fa7c5dedb5.jpg">
+      <img loading="lazy" src="https://live.staticflickr.com/65535/47997082053_fa7c5dedb5.jpg">
     </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>All the glitters is gold</em>
 </div>
 
@@ -506,26 +490,27 @@ The moment we were done with the sightseeing we started on our real agenda, a be
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47997127781_2a5fd424f1_c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47997127781_2a5fd424f1_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47997127781_2a5fd424f1_c.jpg">
   </a>
   <em>Unfiltered Happiness :smile:</em>
 </div>
 
-Extremely satisfied with our lunch and happy on beers we left Myanmar to enter India one more time. It was as effortless as leaving it. It felt so good to have friendly neighbors.  
+Extremely satisfied with our lunch and happy on beers we left Myanmar to enter India one more time. It was as effortless as leaving it. It felt so good to have friendly neighbors.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/47997125426_d503a873aa_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47997125426_d503a873aa.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47997125426_d503a873aa.jpg">
   </a>
   <em>There and back again</em>
 </div>
 
 ## Imphal Again
+
 Next morning we took out our bikes from the common parking and left for Imphal. Julia and her husband owned a hotel in Imphal and we were booked to stay in the same. We started off on the beautiful roads and stopped at Gaby's which was open this time. It was at a beautiful location on the mountains. We had a hot breakfast in the cold weather and then geared up to head for Imphal.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/47997088447_bc5ce71c3a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/47997088447_bc5ce71c3a_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/47997088447_bc5ce71c3a_z.jpg">
   </a>
   <em>Gaby's</em>
 </div>
@@ -534,7 +519,7 @@ Once on the plains the usual stupidity of drivers started. We were making good t
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48008036382_519cc50820_c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48008036382_519cc50820_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48008036382_519cc50820_c.jpg">
   </a>
   <em> How can anyone miss this gate?</em>
 </div>
@@ -550,8 +535,7 @@ Once on the plains the usual stupidity of drivers started. We were making good t
       <a href="https://live.staticflickr.com/65535/47997127356_0682ca5d6d_c.jpg" data-toggle="lightbox">
         <img src="https://live.staticflickr.com/65535/47997127356_0682ca5d6d_c.jpg" alt="title2">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Memorial(left) and view from the memorial(right)</em>
 </div>
 
@@ -559,7 +543,7 @@ We continued to Imphal and settled in the hotel. We met Julia again and this tim
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48007951921_76ea3bac89_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48007951921_76ea3bac89_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48007951921_76ea3bac89_z.jpg">
   </a>
   <em>Colors of Ema Keithel :rainbow:</em>
 </div>
@@ -572,14 +556,14 @@ We started early as decided. There were 2 possible routes to Guwahati, the short
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48007902556_8b3b3a51bb_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48007902556_8b3b3a51bb_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48007902556_8b3b3a51bb_z.jpg">
   </a>
   <em>Beautiful roads of Manipur</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48007987427_6b54b2a59e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48007987427_6b54b2a59e_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48007987427_6b54b2a59e_z.jpg">
   </a>
   <em>Imphal-Silchar highway</em>
 </div>
@@ -588,7 +572,7 @@ We had covered 100 kms in less than 3 hours which was very good for the hills. I
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48007913983_92f2c0571d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48007913983_92f2c0571d_z.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48007913983_92f2c0571d_z.jpg">
   </a>
   <em>How did this happen?</em>
 </div>
@@ -597,7 +581,7 @@ Karan rode off on Ifrit(my bike) to scan the area for a puncture repair shop. We
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48007913918_d674936cf2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48007913918_d674936cf2_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48007913918_d674936cf2_c.jpg">
   </a>
   <em>Are you kidding me? Come here and help :stuck_out_tongue:</em>
 </div>
@@ -606,14 +590,14 @@ The repair was an ordeal of it's own. First there was another nail in the tyre w
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48007987557_aaa46794ba_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48007987557_aaa46794ba_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48007987557_aaa46794ba_c.jpg">
   </a>
   <em>That's how we roll</em>
 </div>
 
 Well even after all this we had time to aim for Silchar. All we had to do was put the tyre back in place. We reached where the bike was parked and the old man was now sitting on a chair guarding our luggage :heart:. We concluded with all the love in our heart that it's not the poor man who is the thief but the rich and the greedy.
 
-Here is when shit started hitting the roof. Somehow instead of putting pieces together we were taking them apart. We had somehow dismantled the disk brake and after almost an hour of being at it, we did not have much luck. There was no internet to see any videos as to how to put this back. We took a break. Karan started reverse engineering all the scattered parts and suddenly we heard the sound of a click, this is what we had been looking for. This was progress, now we had to repeat this with all the parts and with the tyre in place. We had lost 4 hours by now.  We took a deep breath, looked at each other and started again. This time we did it!!! The old man next to us also felt kind of victorious :v:. Karan took a few rounds to feel if the tyre felt out of place. We loaded up soon, thanked the old man and were on our way.
+Here is when shit started hitting the roof. Somehow instead of putting pieces together we were taking them apart. We had somehow dismantled the disk brake and after almost an hour of being at it, we did not have much luck. There was no internet to see any videos as to how to put this back. We took a break. Karan started reverse engineering all the scattered parts and suddenly we heard the sound of a click, this is what we had been looking for. This was progress, now we had to repeat this with all the parts and with the tyre in place. We had lost 4 hours by now. We took a deep breath, looked at each other and started again. This time we did it!!! The old man next to us also felt kind of victorious :v:. Karan took a few rounds to feel if the tyre felt out of place. We loaded up soon, thanked the old man and were on our way.
 
 We were speeding now, we had to reach Silchar which was 150 kms away. We were still in the hills which meant complete darkness by 5:15 PM. It was not really a realistic target anymore but none of us said it out loud. We were about 50 Kms away from Silchar when sun started to set. We continued riding in the dark for about 25 kms more. The road had muddy and slushy patches and there were trucks all around. It was getting really hard to see and locate these patches. After one such spot where I almost took my bike head on in a big pothole I decided we had to stop. Karan insisted that in an hour we would be at Silchar but I just refused to go ahead. We reached Jiribam and settled in a clean lodge for the night.
 
@@ -623,7 +607,7 @@ Next morning we started early for Guwahati. It was going to be a push again toda
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48007902311_17a8d71f1a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48007902311_17a8d71f1a_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48007902311_17a8d71f1a_c.jpg">
   </a>
   <em>A delicious parantha a day keep hunger at bay :joy:</em>
 </div>
@@ -632,7 +616,7 @@ We soon entered Meghalaya and the usual convoy of trucks started, with all the q
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48007902251_3c0a733bf5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48007902251_3c0a733bf5_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48007902251_3c0a733bf5_c.jpg">
   </a>
   <em>Hello beautiful Meghalaya :wave:</em>
 </div>
@@ -641,7 +625,7 @@ We did not halt a lot in the fear of the trucks over taking us again. We soon cr
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48007913393_9187880014_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48007913393_9187880014_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48007913393_9187880014_c.jpg">
   </a>
   <em>Umaim Lake once more</em>
 </div>
@@ -650,7 +634,7 @@ The sun was still up! We had done really well. The Meghalayan roads had helped u
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48007987392_bb717ca585_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48007987392_bb717ca585_c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48007987392_bb717ca585_c.jpg">
   </a>
   <em>Love :heart:</em>
 </div>

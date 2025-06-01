@@ -13,11 +13,10 @@ We had reached Guwahati after officially ending this spell of our biking in the 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48050230897_3aa8b94aa5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48050230897_3aa8b94aa5.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48050230897_3aa8b94aa5.jpg">
   </a>
   <em>At Home in Guwahati</em>
 </div>
-
 
 ## The River Island
 
@@ -29,7 +28,7 @@ The following morning we were at Jorhat, a bit too early for the town to have wo
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48046255153_df2f53ab93_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046255153_df2f53ab93.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046255153_df2f53ab93.jpg">
   </a>
   <em>Early Morning Ride to the Ghat</em>
 </div>
@@ -42,15 +41,14 @@ The ferry ride took a while and was mostly uneventful. We saw something move in 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046255223_abf2c6d4ab_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046255223_abf2c6d4ab.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046255223_abf2c6d4ab.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046217966_3d23c64369_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046217966_3d23c64369.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046217966_3d23c64369.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Ferry Ride; Someone did not have a good night's sleep :expressionless:</em>
 </div>
 
@@ -60,7 +58,7 @@ As we approached the Ygdrasill Bamboo Cottages, I was struck by the idyllic sett
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48046936156_cb949a1c48_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046936156_cb949a1c48.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046936156_cb949a1c48.jpg">
   </a>
   <em>Idyllic</em>
 </div>
@@ -71,25 +69,23 @@ I was just hoping that the place would suit our budget and Parul would like the 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046255578_88ea167a3a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046255578_88ea167a3a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046255578_88ea167a3a.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046217321_e22c4ab1c2_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046217321_e22c4ab1c2.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046217321_e22c4ab1c2.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Simple Rooms be like...</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48046305992_8ba1eb46a2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046305992_8ba1eb46a2.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046305992_8ba1eb46a2.jpg">
   </a>
   <em>Happy us!</em>
 </div>
-
 
 ## Charms of the Simple Life
 
@@ -97,7 +93,7 @@ Majuli is the kind of place where days merge into each other and you would want 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48046253953_255601b93e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046253953_255601b93e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046253953_255601b93e.jpg">
   </a>
   <em>Morning Scenes</em>
 </div>
@@ -106,21 +102,20 @@ Majuli is the kind of place where days merge into each other and you would want 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046308502_1ded2abfbf_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046308502_1ded2abfbf.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046308502_1ded2abfbf.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046305057_15933497ee_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046305057_15933497ee.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046305057_15933497ee.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046305182_ab5f6bcb31_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046305182_ab5f6bcb31.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046305182_ab5f6bcb31.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046304847_c36b79f83e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046304847_c36b79f83e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046304847_c36b79f83e.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Simple Life</em>
 </div>
 
@@ -128,7 +123,7 @@ On one of the evening we even tried to boat around the little pond. I could have
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48046975693_0cfaefed4e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046975693_0cfaefed4e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046975693_0cfaefed4e.jpg">
   </a>
   <em>Row your boat!</em>
 </div>
@@ -139,67 +134,66 @@ Birds were probably the highlight of Majuli for me. There were birds **everywher
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046253618_8223fcbabc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046253618_8223fcbabc.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046253618_8223fcbabc.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046216321_c40fe6dbe0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046216321_c40fe6dbe0.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046216321_c40fe6dbe0.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046216236_c6f0960228_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046216236_c6f0960228.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046216236_c6f0960228.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046215911_7e5f99912e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046215911_7e5f99912e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046215911_7e5f99912e.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046252843_ff00017da7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046252843_ff00017da7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046252843_ff00017da7.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046252833_ec75fbdbc1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046252833_ec75fbdbc1.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046252833_ec75fbdbc1.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046215151_01637c3eea_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046215151_01637c3eea.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046215151_01637c3eea.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046252473_8c6c966b36_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046252473_8c6c966b36.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046252473_8c6c966b36.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046215026_b7708d33ec_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046215026_b7708d33ec.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046215026_b7708d33ec.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046302612_1f575b9901_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046302612_1f575b9901.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046302612_1f575b9901.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046214986_f0f136731f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046214986_f0f136731f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046214986_f0f136731f.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046252338_08a26bfeab_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046252338_08a26bfeab.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046252338_08a26bfeab.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046252263_e0a9c5e0c0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046252263_e0a9c5e0c0.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046252263_e0a9c5e0c0.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046214631_116d222c74_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046214631_116d222c74.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046214631_116d222c74.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046252008_1c1b157299_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046252008_1c1b157299.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046252008_1c1b157299.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046214306_0d0206d8f6_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046214306_0d0206d8f6.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046214306_0d0206d8f6.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Birds of Majuli</em>
 </div>
 
 > Click on the pictures for a higher definition version. There are more pictures of the birds of Majuli in the album embedded at the end of the post. Do check it out as well :smiley:
 
-While the Ygdrasill Cottage was a perfect enough location to click through the day, we also rented out the bicycles they provided. We went to see the ***satras*** that the island is famous for.
+While the Ygdrasill Cottage was a perfect enough location to click through the day, we also rented out the bicycles they provided. We went to see the **_satras_** that the island is famous for.
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48046218531_330282e0df_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046218531_330282e0df.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046218531_330282e0df.jpg">
   </a>
   <em>Map of Satras</em>
 </div>
@@ -208,7 +202,7 @@ These _satras_ are monasteries which practice their own traditions and studies. 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48046257563_05dd9d3818_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046257563_05dd9d3818.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046257563_05dd9d3818.jpg">
   </a>
   <em>Samaguri Satra</em>
 </div>
@@ -217,15 +211,14 @@ These _satras_ are monasteries which practice their own traditions and studies. 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046257533_926d7b3ba3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046257533_926d7b3ba3.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046257533_926d7b3ba3.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046307692_d5a14f2a71_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046307692_d5a14f2a71.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046307692_d5a14f2a71.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The Art of Making and Wearing Masks</em>
 </div>
 
@@ -235,30 +228,28 @@ Then there were the big ones - Auniati and Dakhinpat, with massive setups, libra
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046219461_a57e9c6437_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046219461_a57e9c6437.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046219461_a57e9c6437.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046307232_9620aed5f9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046307232_9620aed5f9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046307232_9620aed5f9.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
 </div>
 
 <div class="postimg">
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046251478_103001a7e5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046251478_103001a7e5.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046251478_103001a7e5.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046218921_a0ffa387f3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046218921_a0ffa387f3.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046218921_a0ffa387f3.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Exploring Satras</em>
 </div>
 
@@ -266,13 +257,13 @@ While visiting two of the Satras on the farther side of the island, we ended up 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48046307527_c797697710_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046307527_c797697710.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046307527_c797697710.jpg">
   </a>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48046256713_d4e5a37337_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046256713_d4e5a37337.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046256713_d4e5a37337.jpg">
   </a>
   <em>:bicyclist: Ride or Die! :skull:</em>
 </div>
@@ -281,7 +272,7 @@ The ride was thoroughly enjoyable though. There were a lot of hi's that Parul pr
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48046252818_630b5df116_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046252818_630b5df116.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046252818_630b5df116.jpg">
   </a>
   <em>Beautiful Majuli Landscapes</em>
 </div>
@@ -290,27 +281,26 @@ The ride was thoroughly enjoyable though. There were a lot of hi's that Parul pr
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046256403_e143063a3c_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046256403_e143063a3c.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046256403_e143063a3c.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046306427_5cb5e4b951_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046306427_5cb5e4b951.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046306427_5cb5e4b951.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046306512_e72f3dc1f2_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046306512_e72f3dc1f2.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046306512_e72f3dc1f2.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046257653_7c6604c709_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046257653_7c6604c709.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046257653_7c6604c709.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Cycling Around</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48046252583_22bb4977af_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046252583_22bb4977af.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046252583_22bb4977af.jpg">
   </a>
   <em>Countryside</em>
 </div>
@@ -319,7 +309,7 @@ On one such stop a young man came up to me to get his picture clicked. I happily
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48046252693_a165965e68_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046252693_a165965e68.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046252693_a165965e68.jpg">
   </a>
   <em>:man:</em>
 </div>
@@ -330,21 +320,20 @@ We also saw some amazing sunsets during our stay on the river island. The skies 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046252888_a21500c042_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046252888_a21500c042.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046252888_a21500c042.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046252233_3f4bc3afa7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046252233_3f4bc3afa7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046252233_3f4bc3afa7.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046214826_d1cdd9981d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046214826_d1cdd9981d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046214826_d1cdd9981d.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48046302442_faf2291aab_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046302442_faf2291aab.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046302442_faf2291aab.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Sunsets</em>
 </div>
 
@@ -354,21 +343,20 @@ We usually went to one of the adjoining towns for lunch. Assamese food is one of
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046257758_95ff45281a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046257758_95ff45281a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046257758_95ff45281a.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046220776_603b6973fe_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046220776_603b6973fe.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046220776_603b6973fe.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Rosogulla; KFC anyone? :joy:</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48046258113_55156b6433_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046258113_55156b6433.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046258113_55156b6433.jpg">
   </a>
   <em>Thali at Ural</em>
 </div>
@@ -377,7 +365,7 @@ We even tried _tamul_ on one of the days. I cannot say that I am a fan, though I
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48046305082_74a0a8af0a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046305082_74a0a8af0a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046305082_74a0a8af0a.jpg">
   </a>
   <em>Tamul : Sasti Masti (Cheap Thrills) :grimacing:</em>
 </div>
@@ -386,8 +374,7 @@ The evenings were mostly about drinking a bottle of white rice wine that Surende
 
 <div class="postimg">
   <div class="video-container">
-    <iframe src="https://player.vimeo.com/video/341803830" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  </div>
+    <iframe src="https://player.vimeo.com/video/341803830" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  </div>
   <em>Majuli's Famous Bamboo Chicken</em>
 </div>
 
@@ -401,15 +388,14 @@ On the morning of the fifth day since we landed in Majuli, we packed up our bags
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046254248_7539056797_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046254248_7539056797.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046254248_7539056797.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48046304412_72d98d4a95_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48046304412_72d98d4a95.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48046304412_72d98d4a95.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Checking out with love :heart:</em>
 </div>
 
@@ -417,14 +403,14 @@ The way back was simple enough. We found an auto to take us to Kamalabari and th
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48046254073_36fe159d26_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046254073_36fe159d26.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046254073_36fe159d26.jpg">
   </a>
   <em>Special tourist seats</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48046254058_e1e2e9409d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48046254058_e1e2e9409d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48046254058_e1e2e9409d.jpg">
   </a>
   <em>Jorhat Market</em>
 </div>

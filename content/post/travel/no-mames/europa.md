@@ -11,18 +11,17 @@ author = "Karan"
 
 Late September 2018, Priyanko and Di had informed us that a new addition to the Basu-Gupta family was expected. This meant that the family trip to Turkey that had been under consideration was no longer under consideration. While we would not have otherwise changed hemispheres during our travel, Parul and I decided to go to US to spend some time with the families. This is one of the agendas that our current jobless stint has - to spend some quality time with loved ones. Something that usually gets shelved in the bustle of a regular work life. And then, of course, I have a soft spot where my siblings are involved. So US it was! But en route, to break the oh-so-long journey (:joy:), we decided to stop in Europe for a few days. Lot and Arno (C&A), the Dutch couple I had befriended while they were [travelling across the globe](http://www.lotandarnotraveltheworld.com/) a few years back, had been inviting us to visit them in the Netherlands for a while now. Plus we had a house in Vienna as well since Chacha was posted there. So we decided to make a trip of it :smile:
 
-
 ## Going Dutch
 
 ### A Warm Welcome
 
-The planning for our time in The Netherlands had been left up to C&A. When they had first told us the suggested itinerary, the procrastinator in me had kicked back and put on his lazy hat. This was well taken care of! :wine_glass: Our flight was through Moscow (Aeroflot has become our flight of choice these days  :smile:) and we reached Netherlands late in the afternoon. Rita and Wietze, Arno's parents, met us and took us to their home where we were supposed to meet C&A later that evening. They stayed in Alphen, a small town south of Amsterdam and we drove there in their car. Of course, at this time I had no idea about how far a "town south of Amsterdam" would be. Turns out, people commute from one city to another for work on a daily basis in this country. If you are from India, daily commute in Bangalore would probably take more time. :expressionless:
+The planning for our time in The Netherlands had been left up to C&A. When they had first told us the suggested itinerary, the procrastinator in me had kicked back and put on his lazy hat. This was well taken care of! :wine_glass: Our flight was through Moscow (Aeroflot has become our flight of choice these days :smile:) and we reached Netherlands late in the afternoon. Rita and Wietze, Arno's parents, met us and took us to their home where we were supposed to meet C&A later that evening. They stayed in Alphen, a small town south of Amsterdam and we drove there in their car. Of course, at this time I had no idea about how far a "town south of Amsterdam" would be. Turns out, people commute from one city to another for work on a daily basis in this country. If you are from India, daily commute in Bangalore would probably take more time. :expressionless:
 
 We stopped in a mall first where Rita picked up some stuff for our stay. I, as usual, was going crazy exploring the alleys :joy: I think I will make this one of the things to do in every country. Randomly walk the aisles of a grocery mall :stuck_out_tongue:
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688085386_f1b95bba9c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688085386_f1b95bba9c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688085386_f1b95bba9c.jpg">
   </a>
   <em>First things first!</em>
 </div>
@@ -35,28 +34,27 @@ Next, we drove to their pretty home and settled in. It was one of those pretty h
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688254072_2783492467_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688254072_2783492467.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688254072_2783492467.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687746343_baa689c0e5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687746343_baa689c0e5.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687746343_baa689c0e5.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Pretty Home</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688255592_a9a9209412_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688255592_a9a9209412.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688255592_a9a9209412.jpg">
   </a>
   <em>Pretty Room</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688254717_fb60ed5c3d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688254717_fb60ed5c3d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688254717_fb60ed5c3d.jpg">
   </a>
   <em>Pretty Fireplace</em>
 </div>
@@ -69,7 +67,7 @@ That evening, after their working hours, C&A came over for dinner and we talked 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688255667_a004f56955_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688255667_a004f56955.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688255667_a004f56955.jpg">
   </a>
   <em>White Asparagus :heart_eyes:</em>
 </div>
@@ -82,7 +80,7 @@ After breakfast we left for a drive. Wietze loved driving and had been a rally d
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687752723_eb11c799ee_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687752723_eb11c799ee.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687752723_eb11c799ee.jpg">
   </a>
   <em>Navigation before Google :joy:</em>
 </div>
@@ -91,7 +89,7 @@ We drove on country roads along canals. Wietze explained more about the Dutch cr
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688262877_88320f0e1c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688262877_88320f0e1c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688262877_88320f0e1c.jpg">
   </a>
   <em>Countryside</em>
 </div>
@@ -100,7 +98,7 @@ We stopped in a small town called Oudewater first. It had a small town feel and 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688091341_1c52a3fe7d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688091341_1c52a3fe7d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688091341_1c52a3fe7d.jpg">
   </a>
   <em>The Oudewater Heksenwaag</em>
 </div>
@@ -109,19 +107,18 @@ We stopped in a small town called Oudewater first. It had a small town feel and 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687750378_1ff82730df_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687750378_1ff82730df.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687750378_1ff82730df.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688260227_a44d67c940_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688260227_a44d67c940.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688260227_a44d67c940.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
 </div>
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688261227_74f4b07c46_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688261227_74f4b07c46.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688261227_74f4b07c46.jpg">
   </a>
   <em>Sights of Oudewater</em>
 </div>
@@ -130,7 +127,7 @@ We took a short coffee break next to the river crossing on The Lek. The hotel th
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687747193_483c05b429_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687747193_483c05b429.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687747193_483c05b429.jpg">
   </a>
   <em>Coffee break by the river</em>
 </div>
@@ -141,15 +138,14 @@ As we crossed the river, Wietze passed over the ferry tickets to Parul for a scr
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688257097_80feb09657_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688257097_80feb09657.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688257097_80feb09657.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688256852_9fe980b5ab_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688256852_9fe980b5ab.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688256852_9fe980b5ab.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Windmills of Kinderdijk</em>
 </div>
 
@@ -159,21 +155,20 @@ The Kinderdijk museum was an interesting display of the typical lifestyle of the
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688257592_b60b029018_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688257592_b60b029018.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688257592_b60b029018.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688088121_dabd2615f6_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688088121_dabd2615f6.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688088121_dabd2615f6.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688257757_1ef5ee96f2_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688257757_1ef5ee96f2.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688257757_1ef5ee96f2.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688258287_50e09d35a1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688258287_50e09d35a1.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688258287_50e09d35a1.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The Kinderdijk Museum</em>
 </div>
 
@@ -183,19 +178,18 @@ From Kinderdijk, it was a short drive to Rotterdam. This city is a bustling port
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687753743_281a807ddc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687753743_281a807ddc.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687753743_281a807ddc.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688093296_cdcf8a5caf_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688093296_cdcf8a5caf.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688093296_cdcf8a5caf.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
 </div>
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688263582_da7c90be4c_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688263582_da7c90be4c.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688263582_da7c90be4c.jpg">
   </a>
   <em>Rotterdam</em>
 </div>
@@ -206,7 +200,7 @@ We were now dropped at Arno and Charlotte's place which was a pretty apartment r
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687746843_c1229ce6c5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687746843_c1229ce6c5.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687746843_c1229ce6c5.jpg">
   </a>
   <em>Amsterdam!</em>
 </div>
@@ -217,15 +211,14 @@ That night we had a delicious dinner that Lot had prepared and then headed out t
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688086116_97a080019d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688086116_97a080019d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688086116_97a080019d.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688256277_a85c162500_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688256277_a85c162500.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688256277_a85c162500.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Kevin digs the dinner!</em>
 </div>
 
@@ -235,20 +228,18 @@ The concert was in Paradiso, a chapel that had been converted into a music club 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688091386_af0b1ef9e9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688091386_af0b1ef9e9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688091386_af0b1ef9e9.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688091446_fefc18151f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688091446_fefc18151f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688091446_fefc18151f.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Paradiso!</em>
 </div>
 
 We enjoyed the band's performance for a bit with C&A and their friends but had to skip the later half because Parul was feeling faint. It might have been claustrophobia (the Dutch are tall and the hall was jam packed) but we are not quite sure yet. After returning to the house we talked some more over some wine and Arno's Spotify playlist before calling it a night.
-
 
 ### When in Amsterdam
 
@@ -256,7 +247,7 @@ The next morning while Lot headed for work, Arno and I rented out cycles. Cycles
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687757173_d11bae3ef2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687757173_d11bae3ef2.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687757173_d11bae3ef2.jpg">
   </a>
   <em>Amsterdam's thing with cycles</em>
 </div>
@@ -265,14 +256,14 @@ We rode along the roads as Arno explained to us the way Amsterdam was structured
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688266552_64225269fa_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688266552_64225269fa.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688266552_64225269fa.jpg">
   </a>
   <em>Being a tourist :bicyclist:</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48687756073_7e72851d9a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687756073_7e72851d9a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687756073_7e72851d9a.jpg">
   </a>
   <em>In front of the Anne Frank House</em>
 </div>
@@ -281,33 +272,32 @@ We rode along the roads as Arno explained to us the way Amsterdam was structured
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688093561_95b74e309b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688093561_95b74e309b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688093561_95b74e309b.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688265187_b9a3e3b37d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688265187_b9a3e3b37d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688265187_b9a3e3b37d.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688264762_d5d025c7be_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688264762_d5d025c7be.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688264762_d5d025c7be.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687754743_6709c37448_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687754743_6709c37448.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687754743_6709c37448.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687754938_5a1daf41a9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687754938_5a1daf41a9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687754938_5a1daf41a9.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688094556_0b2182bbe7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688094556_0b2182bbe7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688094556_0b2182bbe7.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Sights around the city</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688096061_4bd64ec912_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688096061_4bd64ec912.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688096061_4bd64ec912.jpg">
   </a>
   <em>Our rides</em>
 </div>
@@ -320,15 +310,14 @@ Arno's tour of Amsterdam lasted for half of the day post which we met some of hi
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688266747_f557b7e482_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688266747_f557b7e482.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688266747_f557b7e482.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687756863_e45e8ca4b0_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687756863_e45e8ca4b0.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687756863_e45e8ca4b0.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>King's Day preparations</em>
 </div>
 
@@ -336,14 +325,14 @@ That evening after another amazing dinner (prepared by Lot of course), we went t
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688096241_d12d967356_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688096241_d12d967356.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688096241_d12d967356.jpg">
   </a>
   <em>Another delicious dinner</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687757758_b3ed07704f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687757758_b3ed07704f.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687757758_b3ed07704f.jpg">
   </a>
   <em>Roorkee Junta</em>
 </div>
@@ -354,27 +343,26 @@ The next day was an extended party. We were out the whole day. Drinking, standin
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687758378_31669fc907_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687758378_31669fc907.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687758378_31669fc907.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688097331_0456be0490_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688097331_0456be0490.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688097331_0456be0490.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687759893_e9f049bc96_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687759893_e9f049bc96.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687759893_e9f049bc96.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688097886_8bda056904_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688097886_8bda056904.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688097886_8bda056904.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688097586_19984fd704_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688097586_19984fd704.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688097586_19984fd704.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688268867_a02fb181b1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688268867_a02fb181b1.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688268867_a02fb181b1.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>King's Day shenanigans :wine_glass:</em>
 </div>
 
@@ -384,14 +372,14 @@ The morning after, C&A had another plan for us and we left in their car to the n
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687763653_6613e30eda_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687763653_6613e30eda.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687763653_6613e30eda.jpg">
   </a>
   <em>On the Road Again</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687764463_a471f2207f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687764463_a471f2207f.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687764463_a471f2207f.jpg">
   </a>
   <em>Crossing the Afsluitdijk</em>
 </div>
@@ -400,12 +388,12 @@ After driving for almost an hour, we reached the lake house, a pretty house with
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687765188_f250ae1e9a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687765188_f250ae1e9a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687765188_f250ae1e9a.jpg">
   </a>
 </div>
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48687765253_86c760d8d3_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687765253_86c760d8d3.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687765253_86c760d8d3.jpg">
   </a>
   <em>The pretty lake house</em>
 </div>
@@ -414,7 +402,7 @@ We had an early lunch by the lake side and relaxed in the shining sun. Since the
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687765468_e8ae02f58d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687765468_e8ae02f58d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687765468_e8ae02f58d.jpg">
   </a>
   <em>Discussing Lunch :joy:</em>
 </div>
@@ -425,45 +413,44 @@ After hanging by the lake for a while we headed out to see the countryside. The 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687767438_662332e110_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687767438_662332e110.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687767438_662332e110.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688276482_4e978a2a2a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688276482_4e978a2a2a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688276482_4e978a2a2a.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688280402_bb31211877_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688280402_bb31211877.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688280402_bb31211877.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688279897_b4aed1c362_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688279897_b4aed1c362.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688279897_b4aed1c362.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688111996_c70ee6ba16_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688111996_c70ee6ba16.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688111996_c70ee6ba16.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688277667_4cf717909f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688277667_4cf717909f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688277667_4cf717909f.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688113516_32fd3b6dbb_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688113516_32fd3b6dbb.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688113516_32fd3b6dbb.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688105766_2474a6b276_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688105766_2474a6b276.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688105766_2474a6b276.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687741048_82de6f1e75_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687741048_82de6f1e75.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687741048_82de6f1e75.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688111526_8cd4244407_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688111526_8cd4244407.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688111526_8cd4244407.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688104751_deacc9eb09_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688104751_deacc9eb09.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688104751_deacc9eb09.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687766803_784cca4aa8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687766803_784cca4aa8.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687766803_784cca4aa8.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Sloten - Pretty as a picture :heart:</em>
 </div>
 
@@ -471,14 +458,14 @@ We came back and chilled by the lakeside some more. Arno's Spotify playlist prov
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688098511_e6f8a0b386_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688098511_e6f8a0b386.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688098511_e6f8a0b386.jpg">
   </a>
   <em>Arno was definitely tired :sleeping:</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688285257_b63f884443_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688285257_b63f884443.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688285257_b63f884443.jpg">
   </a>
   <em>The art of boat watching</em>
 </div>
@@ -487,15 +474,14 @@ We came back and chilled by the lakeside some more. Arno's Spotify playlist prov
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688102316_0478097602_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688102316_0478097602.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688102316_0478097602.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688275697_27dc00ae7a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688275697_27dc00ae7a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688275697_27dc00ae7a.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Chilling by the lake</em>
 </div>
 
@@ -503,7 +489,7 @@ Later that evening we set up a barbecue. The ladies cut up and prepared the meat
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687741168_31f17f1295_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687741168_31f17f1295.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687741168_31f17f1295.jpg">
   </a>
   <em>:scream:</em>
 </div>
@@ -512,38 +498,37 @@ Later that evening we set up a barbecue. The ladies cut up and prepared the meat
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687762463_b04314c4e8_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687762463_b04314c4e8.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687762463_b04314c4e8.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687761393_8d3b6fe294_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687761393_8d3b6fe294.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687761393_8d3b6fe294.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688273842_3da6ebeda3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688273842_3da6ebeda3.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688273842_3da6ebeda3.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688272682_cfc72252aa_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688272682_cfc72252aa.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688272682_cfc72252aa.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688080576_1e7256cdbc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688080576_1e7256cdbc.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688080576_1e7256cdbc.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687763603_49688507e9_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687763603_49688507e9.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687763603_49688507e9.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687764913_e6e6d8301d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687764913_e6e6d8301d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687764913_e6e6d8301d.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688270022_f06a709679_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688270022_f06a709679.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688270022_f06a709679.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687760448_7339d34b22_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687760448_7339d34b22.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687760448_7339d34b22.jpg">
   </a>
   <em>Team Barbecue :v:</em>
 </div>
@@ -552,14 +537,14 @@ The table was wrapped up as the sun set after it's extended hours of work. Then 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48687744703_50c4f47633_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687744703_50c4f47633.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687744703_50c4f47633.jpg">
   </a>
   <em>Sunset</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688275372_8276dec5a3_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688275372_8276dec5a3.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688275372_8276dec5a3.jpg">
   </a>
   <em>Sjoelen</em>
 </div>
@@ -568,7 +553,7 @@ The next morning we had another easy breakfast by the lake and in the sun.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688285542_8e8dba6d3d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688285542_8e8dba6d3d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688285542_8e8dba6d3d.jpg">
   </a>
   <em>Don't judge! :expressionless:</em>
 </div>
@@ -577,32 +562,31 @@ Then while Charlotte put in her working hours, we took to doing some laundry and
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48687775668_04f81db5f5_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687775668_04f81db5f5.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687775668_04f81db5f5.jpg">
   </a>
   <em>Boats like these</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688115186_eddebbf08f_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688115186_eddebbf08f.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688115186_eddebbf08f.jpg">
   </a>
   <em>Driving around</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48708663877_6e92bec2f8_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48708663877_6e92bec2f8.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48708663877_6e92bec2f8.jpg">
   </a>
   <em>IJsselmeer</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48708661502_e31a65c762_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48708661502_e31a65c762.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48708661502_e31a65c762.jpg">
   </a>
   <em>Friesian horses</em>
 </div>
-
 
 Once Charlotte was done with her work, we took off to Hindeloopen for some lunch. This city has a harbour which houses many a boats which sail in the IJsselmeer. We walked around a bit and learnt how the canals connected to the lake via lock gates. Then we settled for our lunch of fish and chips which were extremely good!
 
@@ -610,31 +594,30 @@ Once Charlotte was done with her work, we took off to Hindeloopen for some lunch
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688286332_21b1d4821d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688286332_21b1d4821d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688286332_21b1d4821d.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687778903_e7144bf05b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687778903_e7144bf05b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687778903_e7144bf05b.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688115806_a5a227d918_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688115806_a5a227d918.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688115806_a5a227d918.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688286472_6c18bb4db1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688286472_6c18bb4db1.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688286472_6c18bb4db1.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687778293_c7244abd2c_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687778293_c7244abd2c.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687778293_c7244abd2c.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687777628_1f321bb1f5_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687777628_1f321bb1f5.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687777628_1f321bb1f5.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
 </div>
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688288527_5abeafaa86_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688288527_5abeafaa86.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688288527_5abeafaa86.jpg">
   </a>
   <em>At Hindeloopen</em>
 </div>
@@ -643,12 +626,12 @@ Then we bid goodbye to Friesland and headed to Haarlem where Arno's sister had i
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688285992_ed456983ff_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688285992_ed456983ff.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688285992_ed456983ff.jpg">
   </a>
 </div>
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688115601_c5e0e165ff_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688115601_c5e0e165ff.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688115601_c5e0e165ff.jpg">
   </a>
   <em>Happiness :laughing:</em>
 </div>
@@ -657,13 +640,12 @@ The dinner saw some good Italian food, more stories and lots of wine.
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688285637_235f4834d4_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688285637_235f4834d4.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688285637_235f4834d4.jpg">
   </a>
   <em>Kevin certainly had a gala time in Netherlands :laughing:</em>
 </div>
 
 Here we bid C&A goodbye and hitched a ride with Rita to her place in Alphen. The next morning she dropped us at the airport and we took a flight to Vienna, moving from one family to another :smile:
-
 
 ## Eastbound
 
@@ -675,7 +657,7 @@ We took the train to the center of the city. We bought the tickets and then boar
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688289147_13f60a3dea_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688289147_13f60a3dea.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688289147_13f60a3dea.jpg">
   </a>
   <em>Train station at Airport</em>
 </div>
@@ -684,7 +666,7 @@ We found the Indian embassy with some difficulty in a drizzle. It was right next
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48687779808_b135f1e281_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687779808_b135f1e281.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687779808_b135f1e281.jpg">
   </a>
   <em>Opera House</em>
 </div>
@@ -695,7 +677,7 @@ The house was a beautiful old construction that was very tastefully decorated wi
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687780108_b3f20d4f4a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687780108_b3f20d4f4a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687780108_b3f20d4f4a.jpg">
   </a>
   <em>Home :heart:</em>
 </div>
@@ -704,7 +686,7 @@ The morning after our arrival all of us left on a road trip to the Wachau Valley
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687780243_4f5fc9d466_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687780243_4f5fc9d466.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687780243_4f5fc9d466.jpg">
   </a>
   <em>Road tripping</em>
 </div>
@@ -713,15 +695,14 @@ The morning after our arrival all of us left on a road trip to the Wachau Valley
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688121321_ef81b2245e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688121321_ef81b2245e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688121321_ef81b2245e.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687783143_f7586d2a8b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687783143_f7586d2a8b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687783143_f7586d2a8b.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Wachau Valley</em>
 </div>
 
@@ -731,21 +712,20 @@ We made another stop on the outskirts of Vienna at Kahlenberg, a hill that affor
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688118451_a82fe71155_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688118451_a82fe71155.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688118451_a82fe71155.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688289522_99afb06dea_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688289522_99afb06dea.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688289522_99afb06dea.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Kahlenberg</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688118741_0a54dbd933_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688118741_0a54dbd933.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688118741_0a54dbd933.jpg">
   </a>
   <em>:lock:</em>
 </div>
@@ -756,21 +736,20 @@ The long days of Europe helped us make more use of our time here. We headed out 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688250707_6baa112a0d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688250707_6baa112a0d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688250707_6baa112a0d.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687781073_6d4209266e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687781073_6d4209266e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687781073_6d4209266e.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688119106_6b345269b2_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688119106_6b345269b2.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688119106_6b345269b2.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688119726_8bd7498925_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688119726_8bd7498925.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688119726_8bd7498925.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Stephenplatz</em>
 </div>
 
@@ -780,33 +759,32 @@ We walked around some more in random directions. There were the horse drawn cart
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687781173_004e25ce6c_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687781173_004e25ce6c.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687781173_004e25ce6c.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688290927_3a869f47bc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688290927_3a869f47bc.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688290927_3a869f47bc.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687782148_216ec9d0f7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687782148_216ec9d0f7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687782148_216ec9d0f7.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688291217_2f8ba389d1_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688291217_2f8ba389d1.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688291217_2f8ba389d1.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688290222_d647f62b17_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688290222_d647f62b17.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688290222_d647f62b17.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688290797_c6e1b57f07_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688290797_c6e1b57f07.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688290797_c6e1b57f07.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687782248_8b91e9646b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687782248_8b91e9646b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687782248_8b91e9646b.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688291322_8ecd2a30d6_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688291322_8ecd2a30d6.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688291322_8ecd2a30d6.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Walking the streets of Vienna</em>
 </div>
 
@@ -816,15 +794,14 @@ I found the entire town of Vienna to be extremely impressive. I could have spent
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687782713_e4a89b013f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687782713_e4a89b013f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687782713_e4a89b013f.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688291437_6f2184061e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688291437_6f2184061e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688291437_6f2184061e.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Beautiful sculptures everywhere :heart_eyes:</em>
 </div>
 
@@ -832,7 +809,7 @@ We walked all the way till Karlskirche and sat in front of it, admiring the refl
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687780738_3352dde51d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687780738_3352dde51d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687780738_3352dde51d.jpg">
   </a>
   <em>Karlskirche :church:</em>
 </div>
@@ -841,7 +818,7 @@ Tired as we were, spent the dying hours of daylight sipping coffee and eating so
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688292282_28ecc680d6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688292282_28ecc680d6.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688292282_28ecc680d6.jpg">
   </a>
   <em>Ending the day</em>
 </div>
@@ -850,7 +827,7 @@ The next morning was spent exploring more of Vienna. We started by looking at Pa
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48687785523_cbd7ef372e_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687785523_cbd7ef372e.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687785523_cbd7ef372e.jpg">
   </a>
   <em>Pallas Athena at the Vienna Parliament</em>
 </div>
@@ -859,7 +836,7 @@ Then we headed to the Maria-Theresian-Platz with the impressive statue of Maria 
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688123676_6f538d28f7_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688123676_6f538d28f7.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688123676_6f538d28f7.jpg">
   </a>
   <em>Maria Theresa</em>
 </div>
@@ -868,15 +845,14 @@ Then we headed to the Maria-Theresian-Platz with the impressive statue of Maria 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688294352_7dd79c909a_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688294352_7dd79c909a.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688294352_7dd79c909a.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688294092_53b4801a63_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688294092_53b4801a63.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688294092_53b4801a63.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The Square</em>
 </div>
 
@@ -884,15 +860,14 @@ Then we headed to the Maria-Theresian-Platz with the impressive statue of Maria 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688122721_34f849b1dc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688122721_34f849b1dc.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688122721_34f849b1dc.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687784713_848acbb4d7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687784713_848acbb4d7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687784713_848acbb4d7.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Cultural high-ground :grimacing:</em>
 </div>
 
@@ -902,27 +877,26 @@ We got a lesson in the history of Austrian and European art at the Leopold museu
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688122566_d207490cfa_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688122566_d207490cfa.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688122566_d207490cfa.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688121971_883054e770_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688121971_883054e770.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688121971_883054e770.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688122296_d199403f48_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688122296_d199403f48.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688122296_d199403f48.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687783653_bfbeab6182_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687783653_bfbeab6182.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687783653_bfbeab6182.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688292957_8032680a8e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688292957_8032680a8e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688292957_8032680a8e.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688122361_32b9ed4aa7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688122361_32b9ed4aa7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688122361_32b9ed4aa7.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Art!</em>
 </div>
 
@@ -930,7 +904,7 @@ We had some simple lunch bought off the shelves of a nearby supermarket and then
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688082686_2f16c3c7fd_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688082686_2f16c3c7fd.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688082686_2f16c3c7fd.jpg">
   </a>
   <em>Facade of Schonbrunn</em>
 </div>
@@ -941,21 +915,20 @@ On the way back, we stopped at Stephenplatz once more to look at the impressive 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687743408_6dee13ae11_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687743408_6dee13ae11.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687743408_6dee13ae11.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688294852_fdb12026de_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688294852_fdb12026de.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688294852_fdb12026de.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Stephenplatz again</em>
 </div>
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687783578_4b64dfede6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687783578_4b64dfede6.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687783578_4b64dfede6.jpg">
   </a>
   <em>Of Coffee and sweets</em>
 </div>
@@ -964,18 +937,17 @@ While there was a considerable amount of daylight left, we decided to head back 
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688294687_5a816fb0e6_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688294687_5a816fb0e6.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688294687_5a816fb0e6.jpg">
   </a>
   <em>Picking pine cones with the kids</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48719061732_612fa9c857_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48719061732_612fa9c857.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48719061732_612fa9c857.jpg">
   </a>
   <em>Home in Vienna :smiley:</em>
 </div>
-
 
 ### A Hungarian Encounter
 
@@ -983,7 +955,7 @@ That night, picking up on Chacha's insistence that we should see more of this si
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688125466_0aa04cc9fb_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688125466_0aa04cc9fb.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688125466_0aa04cc9fb.jpg">
   </a>
   <em>Bus ride to Budapest</em>
 </div>
@@ -992,21 +964,20 @@ That night, picking up on Chacha's insistence that we should see more of this si
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688125291_e71906b44c_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688125291_e71906b44c.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688125291_e71906b44c.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688126056_6a2a9c200d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688126056_6a2a9c200d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688126056_6a2a9c200d.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Budapest Eye</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688126326_2da7a55ed0_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688126326_2da7a55ed0.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688126326_2da7a55ed0.jpg">
   </a>
   <em>Starting the walking tour at Erzsebet Square</em>
 </div>
@@ -1017,21 +988,20 @@ Budapest is quite charming as a city. The two sides of the river have quite a hi
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688124446_e4d874d1d7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688124446_e4d874d1d7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688124446_e4d874d1d7.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687788493_b3606f9598_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687788493_b3606f9598.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687788493_b3606f9598.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688126881_082e7e458e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688126881_082e7e458e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688126881_082e7e458e.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687788623_5ca9d0a735_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687788623_5ca9d0a735.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687788623_5ca9d0a735.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Walking to the Basilica of Saint Stephen</em>
 </div>
 
@@ -1039,15 +1009,14 @@ Budapest is quite charming as a city. The two sides of the river have quite a hi
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688125591_6aacd82935_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688125591_6aacd82935.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688125591_6aacd82935.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687787418_3d9d79ea50_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687787418_3d9d79ea50.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687787418_3d9d79ea50.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Buda and Pest with the Chain Bridge</em>
 </div>
 
@@ -1055,15 +1024,14 @@ Budapest is quite charming as a city. The two sides of the river have quite a hi
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688124326_4a2ff9b246_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688124326_4a2ff9b246.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688124326_4a2ff9b246.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687788043_1a72621e5e_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687788043_1a72621e5e.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687788043_1a72621e5e.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Buda Castle funicular and the Parliament</em>
 </div>
 
@@ -1071,15 +1039,14 @@ Budapest is quite charming as a city. The two sides of the river have quite a hi
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687787948_f387d84304_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687787948_f387d84304.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687787948_f387d84304.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688249762_125bd1caf3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688249762_125bd1caf3.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688249762_125bd1caf3.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Fisherman's Bastion</em>
 </div>
 
@@ -1087,27 +1054,26 @@ Budapest is quite charming as a city. The two sides of the river have quite a hi
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688082441_2881699e2f_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688082441_2881699e2f.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688082441_2881699e2f.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687786768_dd418b4f78_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687786768_dd418b4f78.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687786768_dd418b4f78.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688124546_d0d6a6478c_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688124546_d0d6a6478c.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688124546_d0d6a6478c.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688252247_64f7e7ced6_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688252247_64f7e7ced6.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688252247_64f7e7ced6.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Matthias Church</em>
 </div>
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688124856_c1c088f1cd_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688124856_c1c088f1cd.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688124856_c1c088f1cd.jpg">
   </a>
   <em>The streets of Pest</em>
 </div>
@@ -1118,15 +1084,14 @@ Tired, we returned to the hostel and checked in. We took a nap and then after a 
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687788113_9efc2fbcdc_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687788113_9efc2fbcdc.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687788113_9efc2fbcdc.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688297322_2626ed8364_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688297322_2626ed8364.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688297322_2626ed8364.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>The happening nightlife of Jewish Quarter</em>
 </div>
 
@@ -1134,11 +1099,10 @@ The next morning we woke to gray skies and intermittent rains. We had booked a l
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48688127256_9fc0564f4b_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688127256_9fc0564f4b.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688127256_9fc0564f4b.jpg">
   </a>
   <em>The :yum: Hungarian Langos!</em>
 </div>
-
 
 ## Back to The Netherlands
 
@@ -1146,7 +1110,7 @@ The next morning we caught a flight back to Schipol and then finally took a trai
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687789053_24ef2e747d_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687789053_24ef2e747d.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687789053_24ef2e747d.jpg">
   </a>
   <em>Second class train service :joy:</em>
 </div>
@@ -1157,7 +1121,7 @@ When it was time for us to visit the Rijksmuseum, we bade farewell to our friend
 
 <div class="postimg vertimg">
   <a href="https://live.staticflickr.com/65535/48687789633_02b4efd08a_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48687789633_02b4efd08a.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48687789633_02b4efd08a.jpg">
   </a>
   <em>Rijksmuseum</em>
 </div>
@@ -1170,21 +1134,20 @@ Rembrandt blew me away. His works were exquisite! I mostly liked his etches sinc
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688128026_b3cba88dcf_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688128026_b3cba88dcf.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688128026_b3cba88dcf.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48687789513_68581043a7_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687789513_68581043a7.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687789513_68581043a7.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688298347_c52a82ed80_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688298347_c52a82ed80.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688298347_c52a82ed80.jpg">
       </a>
       <a href="https://live.staticflickr.com/65535/48688127956_72440246ff_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688127956_72440246ff.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688127956_72440246ff.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Admiring Rembrandt</em>
 </div>
 
@@ -1194,15 +1157,14 @@ We went for some delicious Dutch fries after the museum. They really are worth a
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687789878_4acd0be72b_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687789878_4acd0be72b.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687789878_4acd0be72b.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688298032_e66e539a9d_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688298032_e66e539a9d.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688298032_e66e539a9d.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Post Museum hours</em>
 </div>
 
@@ -1210,7 +1172,7 @@ Next we met with Charlotte and said our goodbyes. Arno had left for another road
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48688298082_21cdbd8c58_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48688298082_21cdbd8c58.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48688298082_21cdbd8c58.jpg">
   </a>
   <em>With Rita and Wietze :smile:</em>
 </div>
@@ -1219,15 +1181,14 @@ Next we met with Charlotte and said our goodbyes. Arno had left for another road
   <div class="grid">
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48687790013_6598757723_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48687790013_6598757723.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48687790013_6598757723.jpg">
       </a>
     </div>
     <div class="grid-column-50">
       <a href="https://live.staticflickr.com/65535/48688298962_fc812e03f3_c.jpg" data-toggle="lightbox">
-        <img class="lazy" data-src="https://live.staticflickr.com/65535/48688298962_fc812e03f3.jpg">
+        <img loading="lazy" src="https://live.staticflickr.com/65535/48688298962_fc812e03f3.jpg">
       </a>
-    </div>
-  </div>
+    </div>  </div>
   <em>Wrapping it up!</em>
 </div>
 

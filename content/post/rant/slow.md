@@ -18,18 +18,17 @@ Parul and I have been drifting into this style of travel. It started as 3 week i
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/4537/37618298144_eaedae7cd1_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/4537/37618298144_eaedae7cd1.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/4537/37618298144_eaedae7cd1.jpg">
   </a>
 </div>
 
-And the attitude of slow goes beyond travel. It actually started with food, as my latest online probing has informed me. Some time in 1986, an Italian guy did not like the idea of a McDonald's in his town and started the [slow food movement](https://en.wikipedia.org/wiki/Slow_Food) which trenched itself against the fast food culture. The idea slowly got extended to other aspects of life and it is a [cultural movement](https://en.wikipedia.org/wiki/Slow_movement_(culture)) today (I think everything is a cultural movement today). Weirdly, I had never heard about this cultural movement before I started researching for this post. I guess it is spreading "slowly" (pun intended) :stuck_out_tongue: Clearly, I am not alone in finding comfort in slowing down. People have associated the concept of slowing down to many things - education, technology, gardening, parenting and more. While my introduction to slow has been through travel, the concept in itself seems quite enticing.
-
+And the attitude of slow goes beyond travel. It actually started with food, as my latest online probing has informed me. Some time in 1986, an Italian guy did not like the idea of a McDonald's in his town and started the [slow food movement](https://en.wikipedia.org/wiki/Slow_Food) which trenched itself against the fast food culture. The idea slowly got extended to other aspects of life and it is a [cultural movement](<https://en.wikipedia.org/wiki/Slow_movement_(culture)>) today (I think everything is a cultural movement today). Weirdly, I had never heard about this cultural movement before I started researching for this post. I guess it is spreading "slowly" (pun intended) :stuck_out_tongue: Clearly, I am not alone in finding comfort in slowing down. People have associated the concept of slowing down to many things - education, technology, gardening, parenting and more. While my introduction to slow has been through travel, the concept in itself seems quite enticing.
 
 ## Life in Numbers
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48532601707_b6668c06e4_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48532601707_b6668c06e4.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48532601707_b6668c06e4.jpg">
   </a>
 </div>
 
@@ -41,12 +40,11 @@ Over the past year year I have realised that this does not sit right with me. Ev
 
 This is still a naive philosophy for me and I am trying to find my way about it. But it feels quite liberating to not be a slave to numbers. Not saying that all numbers are imaginary. The bank balance I have is a real indicator of how long I can travel. The days on my visa is similar. The cost of a dive limits how many I can do. But the idea is to not let these numbers determine what makes you happy. The idea is to find happiness and let the numbers settle at any amount they would.
 
-
 ## Slowing Down
 
 <div class="postimg">
   <a href="https://live.staticflickr.com/65535/48532472786_9a980fd1b2_c.jpg" data-toggle="lightbox">
-    <img class="lazy" data-src="https://live.staticflickr.com/65535/48532472786_9a980fd1b2.jpg">
+    <img loading="lazy" src="https://live.staticflickr.com/65535/48532472786_9a980fd1b2.jpg">
   </a>
 </div>
 
@@ -54,23 +52,24 @@ I have found a big value in slowing down. It has given me time to think, more th
 
 A lot of practical things help in the process of slowing down. These might change from person to person but here is a bunch of things that have helped me (bullet pointed because that is essential :stuck_out_tongue:)
 
-* **Disconnect** As often you can and whenever you can. One of the reasons we live life so fast is that small device that every one of us carries in our pockets. It allows us so many possibilities that we are naturally inclined to going fast. My phone died on me twice in the last year. It was during those days when I did not have it that I realised that I did not even need it.
+- **Disconnect** As often you can and whenever you can. One of the reasons we live life so fast is that small device that every one of us carries in our pockets. It allows us so many possibilities that we are naturally inclined to going fast. My phone died on me twice in the last year. It was during those days when I did not have it that I realised that I did not even need it.
 
-* **Me Time** Just you. No sweethearts. No work. No correspondences. No smart device. Perhaps a cup of coffee. Or cook a meal. Or listen to a vinyl as you smoke a Cuban. Maybe draw something. Maybe read a book. Or just daydream. Allow yourself the freedom.
+- **Me Time** Just you. No sweethearts. No work. No correspondences. No smart device. Perhaps a cup of coffee. Or cook a meal. Or listen to a vinyl as you smoke a Cuban. Maybe draw something. Maybe read a book. Or just daydream. Allow yourself the freedom.
 
-* **Plan Less** Really. Just stop planning your days and weekends on a calendar. Don't go to every party you are invited to. The fear of missing out is absurd. Life is too short to do it all. You might just as well sleep an extra hour.
+- **Plan Less** Really. Just stop planning your days and weekends on a calendar. Don't go to every party you are invited to. The fear of missing out is absurd. Life is too short to do it all. You might just as well sleep an extra hour.
 
-* **Read More** I like reading. I like reading books. Not a list of the top 10 things to do when you go to Bali. Or scroll through bullet points for improving your time management. Reading is an art that we are losing. Slow down, pick a book and take your time to go through it. You don't need to finish 24 books in a year. Dump that stupid challenge. Just one book read with interest is enough.
+- **Read More** I like reading. I like reading books. Not a list of the top 10 things to do when you go to Bali. Or scroll through bullet points for improving your time management. Reading is an art that we are losing. Slow down, pick a book and take your time to go through it. You don't need to finish 24 books in a year. Dump that stupid challenge. Just one book read with interest is enough.
 
-* **Choose Your Challenges** It's good to challenge yourself in order to grow. But don't do it in everything. At least not in things you really like. Let a few things be left for the sake of it. If someone managed to learn 100 songs on guitar in 100 days, good for him! Take your own sweet time in working your way through things you like. Life is not a mission.
+- **Choose Your Challenges** It's good to challenge yourself in order to grow. But don't do it in everything. At least not in things you really like. Let a few things be left for the sake of it. If someone managed to learn 100 songs on guitar in 100 days, good for him! Take your own sweet time in working your way through things you like. Life is not a mission.
 
-* **You Cannot Do It All** No. You just cannot. It's the sad reality of mortality. You cannot do it all. You cannot travel to all those beautiful destinations you see on instagram. You cannot be a kickass photographer as well as an amazing football player. Try not to swim against the current. Do what you like and for as long as you like. Checklists are stupid.
+- **You Cannot Do It All** No. You just cannot. It's the sad reality of mortality. You cannot do it all. You cannot travel to all those beautiful destinations you see on instagram. You cannot be a kickass photographer as well as an amazing football player. Try not to swim against the current. Do what you like and for as long as you like. Checklists are stupid.
 
-* **Spend Quality Time With Those Who Matter** This is a simple one. Make time for those who matter. Spend more time with them. There is more happiness in spending an extra hour with friends and family than attending a random rave party. You don't need chemicals to enjoy the former.
+- **Spend Quality Time With Those Who Matter** This is a simple one. Make time for those who matter. Spend more time with them. There is more happiness in spending an extra hour with friends and family than attending a random rave party. You don't need chemicals to enjoy the former.
 
 Find your own way to slow down but once in a while do so. As a wise man once put it,
 
 > > There is more to life than increasing its speed.
+
 - Mahatma Gandhi
 
 <hr />
